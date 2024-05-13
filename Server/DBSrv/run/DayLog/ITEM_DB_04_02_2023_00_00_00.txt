@@ -1,0 +1,4 @@
+[04/02/2023][00:00:00]  ItemID:451 ItemName:Chave_da_Primeira_Porta ItemNum:3 
+[04/02/2023][00:00:00]  ItemID:452 ItemName:Chave_da_Segunda_Porta ItemNum:2 
+[04/02/2023][00:00:00]  ItemID:453 ItemName:Chave_da_Ultima_Porta ItemNum:2 
+[04/02/2023][00:00:00]  ItemID:4038 ItemName:Vela_do_Coveiro ItemNum:3 

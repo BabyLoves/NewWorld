@@ -1,0 +1,7 @@
+[09/06/2023][11:11:48]  ItemID:451 ItemName:Chave_da_Primeira_Porta ItemNum:1 
+[09/06/2023][11:11:48]  ItemID:452 ItemName:Chave_da_Segunda_Porta ItemNum:1 
+[09/06/2023][11:11:48]  ItemID:453 ItemName:Chave_da_Ultima_Porta ItemNum:2 
+[09/06/2023][11:11:48]  ItemID:989 ItemName:Tridente ItemNum:1 
+[09/06/2023][11:11:48]  ItemID:993 ItemName:Tomahawk ItemNum:1 
+[09/06/2023][11:11:48]  ItemID:1811 ItemName:Cota_de_Couro_Batido(A) ItemNum:2 
+[09/06/2023][11:11:48]  ItemID:1827 ItemName:Túnica_Vampírica(A) ItemNum:1 

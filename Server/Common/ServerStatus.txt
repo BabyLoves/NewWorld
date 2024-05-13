@@ -1,0 +1,6 @@
+expr,0
+drop,0
+rvr,20
+geg,19
+twr,21
+kefra,76

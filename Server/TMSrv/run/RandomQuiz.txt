@@ -1,0 +1,13 @@
+Quanto_é_1_+_1_?,resultado_é_2,resultado_é_53,resultado_é_5,resultado_é_1,0
+Quanto_é_4_+_1_?,resultado_é_32,resultado_é_3,resultado_é_5,resultado_é_1,2
+Quanto_é_6_-_1_?,resultado_é_12,resultado_é_33,resultado_é_5,resultado_é_1,2
+Quanto_é_4_-_1_?,resultado_é_2,resultado_é_3,resultado_é_5,resultado_é_1,1
+Quanto_é_3_-_1_?,resultado_é_2,resultado_é_3,resultado_é_5,resultado_é_1,0
+Quanto_é_1_x_2_?,resultado_é_2,resultado_é_3,resultado_é_5,resultado_é_1,0
+Quanto_é_1_x_3_?,resultado_é_2,resultado_é_3,resultado_é_5,resultado_é_1,1
+Quanto_é_4_+_3_?,resultado_é_7,resultado_é_3,resultado_é_5,resultado_é_1,0
+Quanto_é_2_-_1_?,resultado_é_2,resultado_é_3,resultado_é_5,resultado_é_1,3
+Quanto_é_6_+_6_?,resultado_é_12,resultado_é_31,resultado_é_35,resultado_é_41,0
+Quanto_é_15_+_15_?,resultado_é_2,resultado_é_30,resultado_é_5,resultado_é_1,1
+Quanto_é_25_+_25_?,resultado_é_2,resultado_é_3,resultado_é_50,resultado_é_1,2
+Quanto_é_10_+_10_?,resultado_é_20,resultado_é_3,resultado_é_5,resultado_é_1,0

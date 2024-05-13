@@ -1,0 +1,18 @@
+[11/05/2024][05:34:32]  | -system start log[11/05/2024][05:37:02]  | -system Read 0 ranking entries in 0.0 seconds.
+[11/05/2024][05:37:02]  | -system -Write Ranking[11/05/2024][05:37:02]  | -system -Write Ranking[11/05/2024][05:39:32]  | -system Read 0 ranking entries in 0.0 seconds.
+[11/05/2024][05:39:32]  | -system -Write Ranking[11/05/2024][05:39:32]  | -system -Write Ranking[11/05/2024][05:42:03]  | -system Read 0 ranking entries in 0.0 seconds.
+[11/05/2024][05:42:03]  | -system -Write Ranking[11/05/2024][05:42:03]  | -system -Write Ranking[11/05/2024][05:44:33]  | -system Read 0 ranking entries in 0.0 seconds.
+[11/05/2024][05:44:33]  | -system -Write Ranking[11/05/2024][05:44:33]  | -system -Write Ranking[11/05/2024][05:47:04]  | -system Read 0 ranking entries in 0.0 seconds.
+[11/05/2024][05:47:04]  | -system -Write Ranking[11/05/2024][05:47:04]  | -system -Write Ranking[11/05/2024][05:49:35]  | -system Read 0 ranking entries in 0.0 seconds.
+[11/05/2024][05:49:35]  | -system -Write Ranking[11/05/2024][05:49:35]  | -system -Write Ranking[11/05/2024][05:52:06]  | -system Read 1 ranking entries in 0.0 seconds.
+[11/05/2024][05:52:06]  | -system -Write Ranking[11/05/2024][05:52:06]  | -system -Write Ranking[11/05/2024][05:54:36]  | -system Read 1 ranking entries in 0.0 seconds.
+[11/05/2024][05:54:36]  | -system -Write Ranking[11/05/2024][05:54:36]  | -system -Write Ranking[11/05/2024][05:57:07]  | -system Read 1 ranking entries in 0.0 seconds.
+[11/05/2024][05:57:07]  | -system -Write Ranking[11/05/2024][05:57:07]  | -system -Write Ranking[11/05/2024][05:59:37]  | -system Read 1 ranking entries in 0.0 seconds.
+[11/05/2024][05:59:37]  | -system -Write Ranking[11/05/2024][05:59:37]  | -system -Write Ranking[11/05/2024][06:02:07]  | -system Read 1 ranking entries in 0.0 seconds.
+[11/05/2024][06:02:07]  | -system -Write Ranking[11/05/2024][06:02:07]  | -system -Write Ranking[11/05/2024][06:04:38]  | -system Read 1 ranking entries in 0.0 seconds.
+[11/05/2024][06:04:38]  | -system -Write Ranking[11/05/2024][06:04:38]  | -system -Write Ranking[11/05/2024][06:07:09]  | -system Read 1 ranking entries in 0.0 seconds.
+[11/05/2024][06:07:09]  | -system -Write Ranking[11/05/2024][06:07:09]  | -system -Write Ranking[11/05/2024][06:09:39]  | -system Read 1 ranking entries in 0.0 seconds.
+[11/05/2024][06:09:39]  | -system -Write Ranking[11/05/2024][06:09:39]  | -system -Write Ranking[11/05/2024][06:12:10]  | -system Read 1 ranking entries in 0.0 seconds.
+[11/05/2024][06:12:10]  | -system -Write Ranking[11/05/2024][06:12:10]  | -system -Write Ranking[11/05/2024][06:14:40]  | -system Read 1 ranking entries in 0.0 seconds.
+[11/05/2024][06:14:40]  | -system -Write Ranking[11/05/2024][06:14:40]  | -system -Write Ranking[11/05/2024][06:17:10]  | -system Read 1 ranking entries in 0.0 seconds.
+[11/05/2024][06:17:10]  | -system -Write Ranking[11/05/2024][06:17:10]  | -system -Write Ranking[11/05/2024][06:19:00]  | -system clo server fd 0

@@ -1,0 +1,2 @@
+Mob Rei_Carbuncle possui drop 2414 0 0 0 0 0 0 Slot 56
+Mob Test possui drop 2414 61 255 0 0 0 0 Slot 30

@@ -1,0 +1,2109 @@
+Mob: Acessorios
+
+Mob: Acessorios3
+
+Mob: Acessorios4
+
+Mob: Acessorios5
+
+Mob: Acessorios6
+
+Mob: Adamant_Tauron
+Âmago_de_Fenrir_das_Sombras, Âmago_de_Fenrir_das_Sombras, Âmago_de_Fenrir_das_Sombras, Âmago_de_Fenrir_das_Sombras, Âmago_de_Fenrir_das_Sombras, Âmago_de_Fenrir_das_Sombras, Âmago_de_Fenrir_das_Sombras, Âmago_de_Fenrir_das_Sombras, 
+Ovo_de_Fenrir_das_Sombras, 
+
+Mob: Aeon_Tauron
+Cajado_Caótico, Arco_Guardião, Dianus, Fúria_Divina, Arco_Divino, Garra_Draconiana, Fúria_Divina, Arco_Divino, 
+Garra_Draconiana, Cajado_de_Âmbar, Cajado_de_Âmbar, Fúria_Divina, Arco_Divino, Garra_Draconiana, Fúria_Divina, Arco_Divino, 
+Garra_Draconiana, Calça_Mortal, Calça_Templária, Calça_do_Corvo, Calça_Legionária, Calça_Mortal, Calça_Templária, Calça_do_Corvo, 
+Calça_Legionária, Diamante, Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Agatha
+
+Mob: Aki
+[S]Caixa_Poção_de_Cura, [S]Caixa_Poção_de_Mana, Kit_de_Cura_(10_M.), Kit_de_Mana_(10_M.), [A]Caixa_Poção_de_MP/HP, Pergaminho_de_Portal(10), Pergaminho_Retorno_10x, Entrada_do_Território(N), 
+Entrada_do_Território(M), Entrada_do_Território(A), Fogos_de_Artifício, Vela_do_Coveiro, Colheita_do_Jardineiro, Cura_do_Batedor, Mana_do_Batedor, Emblema_do_Guarda, 
+Martelo_de_Thor, 
+
+Mob: Alquimista_Odin
+
+Mob: Amazona_Negra
+
+Mob: Anciao_Ciclops
+Elmo_Aeon(M), Chapéu_da_Natureza(M), Botas_Aeon(M), Luvas_da_Natureza(M), Botas_da_Natureza(M), Túnica_Conjuradora(M), Luvas_Conjuradoras(M), Armadura_Dourada(M), 
+Calça_Dourada(M), Botas_Douradas(M), Amuleto_de_Prata, Amuleto_de_Ouro, Colheita_do_Jardineiro, Machado_de_Batalha, Braçadeira_de_Teia(N), Botas_de_Teia(N), 
+Chapéu_de_Teia(N), Calça_Dourada(M), Armadura_Dourada(M), Calça_de_Aço(M), Armadura_de_Aço(M), Botas_Elementais(N), Elmo_Elemental(N), 
+
+Mob: Anciao_Ciclops_
+Elmo_Aeon(M), Chapéu_da_Natureza(M), Botas_Aeon(M), Luvas_da_Natureza(M), Botas_da_Natureza(M), Túnica_Conjuradora(M), Luvas_Conjuradoras(M), Armadura_Dourada(M), 
+Calça_Dourada(M), Botas_Douradas(M), Amuleto_de_Prata, Amuleto_de_Ouro, Colheita_do_Jardineiro, Machado_de_Batalha, Braçadeira_de_Teia(N), Botas_de_Teia(N), 
+Chapéu_de_Teia(N), Calça_Dourada(M), Armadura_Dourada(M), Calça_de_Aço(M), Armadura_de_Aço(M), Botas_Elementais(N), Elmo_Elemental(N), Emblema_do_Dragão, 
+
+Mob: Anf_Assassino
+Gram, Arco_Hidra, Arco_Mythril, Faca_do_Assassino, Cajado_do_Santo, Diamante, Martelo_Dragão, Longinius, 
+Faca_Astaroth, Botas_Anã(M), Armadura_Anã(N), Elmo_Anão(M), Manopla_Anã(A), Diamante, Martelo_Dragão, Poeira_de_Oriharucon, 
+
+Mob: Anf_Assassino_
+Poeira_de_Oriharucon, 
+
+Mob: Anf_Assassino__
+
+Mob: Anf_Ninja
+Elmo_Aeon(M), Chapéu_da_Natureza(M), Botas_Aeon(M), Luvas_da_Natureza(M), Botas_da_Natureza(M), Túnica_Conjuradora(M), Colheita_do_Jardineiro, Cura_do_Batedor, 
+Faca_Astaroth, Lança_da_Corrupção, Shamir, Aegis, Armadura_Anã(N), Elmo_Anão(M), Botas_Douradas(M), Calça_Dourada(N), 
+Túnica_de_Mytril(M), Safira, Poeira_de_Oriharucon, 
+
+Mob: Anf_Ninja_
+Poeira_de_Oriharucon, Resto_de_Oriharucon, 
+
+Mob: Angela
+
+Mob: Aparicao
+Caixa_da_Sabedoria, Resto_de_Lactolerium, Resto_de_Lactolerium, 
+
+Mob: Aqua_Golem
+Botas_Aeon(A), Botas_Anã(A), Elmo_Anão(A), Calça_Anã(A), Elmo_Aeon(A), Botas_Conjuradoras(A), Chapéu_Conjurador(A), Calça_Conjuradora(A), 
+Emblema_do_Guarda, Arco_Divino, Fúria_Divina, Cajado_de_Âmbar, Manoplas_Aeon(A), Luvas_da_Natureza(A), Luvas_Conjuradoras(A), Manopla_Anã(A), 
+Emblema_do_Guarda, Classe_D, Emblema_do_Guarda, Emblema_do_Guarda, Emblema_do_Guarda, Poeira_de_Lactolerium, 
+
+Mob: Aqua_Golem_
+Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Aqua_Golem__
+
+Mob: Aqua_Golem___
+Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: AranhaAmald
+Chapéu_de_Teia(A), Peitoral_de_Teia(A), Calça_de_Teia(A), Braçadeira_de_Teia(A), Botas_de_Teia(A), Arco_Divino, Garra_Draconiana, Martelo_Assassino, 
+Espada_Vorpal, Classe_D, Classe_D, Diamante, Classe_D, Resto_de_Lactolerium, Poeira_de_Oriharucon, Resto_de_Oriharucon, 
+Resto_de_Lactolerium, Resto_de_Lactolerium, Resto_de_Lactolerium, Resto_de_Oriharucon, Resto_de_Lactolerium, Resto_de_Lactolerium, [S]Caixa_Poção_de_Mana, Poeira_de_Lactolerium, 
+
+Mob: Aranha_Dourada
+Resto_de_Lactolerium, Kit_de_Mana_(5_XG.), Resto_de_Lactolerium, Resto_de_Lactolerium, Elmo_Aeon(Le), Armadura_Aeon(Le), Calça_Aeon(Le), Manoplas_Aeon(Le), 
+Botas_Aeon(Le), Elmo_Anão(Le), Armadura_Anã(Le), Calça_Anã(Le), Manopla_Anã(Le), Botas_Anã(Le), Poeira_de_Lactolerium, Luna, 
+Pedra_do_Sábio, Pedra_de_Tectita, 
+
+Mob: Aranha_Dourada_
+
+Mob: Aranha_Inferno
+Armadura_Dourada(Le), Túnica_de_Concha(Le), Armadura_de_Ossso(Le), Peitoral_de_Combate(Le), Armadura_Dourada(Le), Túnica_de_Concha(Le), Armadura_de_Ossso(Le), Peitoral_de_Combate(Le), 
+Armadura_Embutida(M), Túnica_de_Mytril(M), Armadura_Elemental(M), Peitoral_de_Teia(M), Armadura_Embutida(M), Túnica_de_Mytril(M), Armadura_Elemental(M), Peitoral_de_Teia(M), 
+Armadura_Embutida(M), Túnica_de_Mytril(M), Armadura_Elemental(M), Peitoral_de_Teia(M), Armadura_Embutida(M), Túnica_de_Mytril(M), Armadura_Elemental(M), Peitoral_de_Teia(M), 
+Armadura_Embutida(A), Túnica_de_Mytril(A), Armadura_Elemental(A), Peitoral_de_Teia(A), Baú_do_Tesouro_Raro, Baú_do_Tesouro_Raro, Baú_do_Tesouro_Raro, Baú_do_Tesouro_Raro, 
+Resto_de_Lactolerium, Classe_D, Gema_da_Siren, Moeda_de_Prata(1Mi), Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Aranha_Inferno@
+
+Mob: Aranha_Inferno_
+
+Mob: Aranha_Inf__
+
+Mob: Aranha Inf   
+
+Mob: Aranha_Rubra
+Chapéu_Conjurador(Le), Túnica_Conjuradora(Le), Calça_Conjuradora(Le), Luvas_Conjuradoras(Le), Botas_Conjuradoras(Le), Chapéu_da_Natureza(Le), Peitoral_da_Natureza(Le), Calça_da_Natureza(Le), 
+Luvas_da_Natureza(Le), Botas_da_Natureza(Le), Resto_de_Oriharucon, Arco_Élfico, Resto_de_Oriharucon, Resto_de_Lactolerium, Kit_de_Mana_(5_XG.), Poeira_de_Oriharucon, 
+Poeira_de_Lactolerium, 
+
+Mob: Aranha_Venenosa
+, , Resto_de_Oriharucon, Pedra_da_Luz, Pedra_da_Luz, Pedra_da_Luz, Poeira_de_Oriharucon, Resto_de_Lactolerium, 
+Pedaço_do_Círc_Div_Comp, Poeira_de_Lactolerium, 
+
+Mob: ArcherTaron 
+
+Mob: Arch_Lith
+
+Mob: Arch_Lith_
+
+Mob: Arc_Orc_Trooper
+Botas_de_Aço(M), Elmo_de_Concha(M), Botas_de_Concha(M), Elmo_de_Osso(M), Manoplas_de_Aço(M), Túnica_de_Concha(M), Brinco_de_Zeus, Lâmina_Dupla, 
+Grande_Machado, Martelo_Psíquico, Martelo_Dragão, Aegis, Manopla_Anã(A), Botas_Anã(A), Calça_Anã(M), Armadura_Anã(M), 
+Botas_de_Teia(M), Peitoral_de_Teia(N), Chapéu_de_Teia(M), Manoplas_Embutidas(M), Calça_Embutida(N), Botas_de_Mytril(M), Túnica_de_Mytril(N), Chapéu_de_Mytril(M), 
+Botas_Elementais(M), Armadura_Elemental(N), Elmo_Elemental(M), 
+
+Mob: Argos
+Escudo_da_Torre, Lança_da_Corrupção, Arco_Hidra, Âmago_de_Cavalo_Leve_B, Âmago_de_Cavalo_Leve_N, Mana_do_Batedor, Mana_do_Batedor, Emblema_do_Guarda, 
+Emblema_do_Guarda, Âmago_de_Cavalo_Leve_N, Âmago_de_Cavalo_Leve_B, Moeda_de_Prata(1Mi), Âmago_de_Cavalo_Leve_N, Mana_do_Batedor, Âmago_de_Cavalo_Leve_B, Emblema_do_Guarda, 
+Medalha_Dourada, Mana_do_Batedor, Elmo_Embutido(M), Chapéu_de_Mytril(M), Chapéu_de_Teia(M), Elmo_Elemental(M), Resto_de_Oriharucon, Resto_de_Lactolerium, 
+Emblema_do_Guarda, Resto_de_Oriharucon, Resto_de_Lactolerium, Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Argos@
+
+Mob: Argos_
+Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Argos_Errante
+Gram, Arco_Hidra, Arco_Mythril, Calça_Anã(M), Manoplas_Anãs(M), Âmago_de_Cavalo_Leve_N, Âmago_de_Cavalo_Leve_B, Botas_Anãs(M), 
+Pedra_de_Tectita, Lança_Invisível, Lança_da_Corrupção, Espada_em_Cruz, Arco_Veloz, Resto_de_Oriharucon, Elmo_Dourado(N), Manoplas_Douradas(M), 
+Manoplas_de_Aço(N), Botas_de_Aço(N), Mana_do_Batedor, Emblema_do_Guarda, Moeda_de_Prata(1Mi), Gungnir, Mana_do_Batedor, Gram, 
+Cura_do_Batedor, Lança_Relâmpago, Elmo_Anão(M), Resto_de_Lactolerium, Âmago_de_Cavalo_Leve_N, Âmago_de_Cavalo_Leve_B, Âmago_de_Cavalo_Leve_N, Âmago_de_Cavalo_Leve_B, 
+
+Mob: Argos____
+
+Mob: Argus
+, , , , 
+
+Mob: Armas_Selado
+
+Mob: Arma_Arch
+
+Mob: Arma_Mortal2
+
+Mob: Arnod
+Armadura_Lupina(N), Calça_Lupina(N), Luvas_Lupinas(N), Botas_Lupinas(N), Classe_A, Armadura_Lupina(M), Calça_Lupina(M), Luvas_Lupinas(M), 
+Botas_Lupinas(M), Armadura_Lupina(A), Calça_Lupina(A), Luvas_Lupinas(A), Botas_Lupinas(A), 
+
+Mob: Arnod_
+Armadura_de_Osso(N), Calça_de_Osso(N), Manoplas_de_Osso(N), Botas_de_Osso(N), Armadura_de_Osso(M), Calça_de_Osso(M), Manoplas_de_Osso(M), Botas_de_Osso(M), 
+Armadura_de_Osso(A), Calça_de_Osso(A), Manoplas_de_Osso(A), Botas_de_Osso(A), 
+
+Mob: Arnold
+Faca_Quimerica, Tomahawk, Cimitarra, Kraika, Arco_da_Confusão, Notif._Pública(Elixir), Lança_Escorpião, Cajado_Silencioso, 
+Escudo_de_Prata, 
+
+Mob: ArqEsqueleto
+
+Mob: Arqueiro Elfo
+
+Mob: Arqueiro_Tauron
+Botas_Douradas(Le), Botas_de_Concha(Le), Botas_de_Osso(Le), Botas_de_Combate(Le), Botas_Douradas(Le), Botas_de_Concha(Le), Botas_de_Osso(Le), Botas_de_Combate(Le), 
+Botas_Embutidas(M), Botas_de_Mytril(M), Botas_Elementais(M), Botas_de_Teia(M), Botas_Embutidas(M), Botas_de_Mytril(M), Botas_Elementais(M), Botas_de_Teia(M), 
+Botas_Embutidas(M), Botas_de_Mytril(M), Botas_Elementais(M), Botas_de_Teia(M), Botas_Embutidas(M), Botas_de_Mytril(M), Botas_Elementais(M), Botas_de_Teia(M), 
+Botas_Embutidas(A), Botas_de_Mytril(A), Botas_Elementais(A), Botas_de_Teia(A), Defesa_contra_Sagrado, Defesa_contra_Relâmpago, Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Arqueiro_Zakum
+Lança_Invisível, Lança_da_Corrupção, Espada_em_Cruz, Arco_Veloz, Manoplas_de_Aço(N), Botas_de_Aço(N), Elmo_de_Aço(N), Manoplas_de_Aço(M), 
+Pergaminho_Retorno, Kit_de_Cura_(5_XG.), Resto_de_Oriharucon, 
+
+Mob: Arqueiro_Zakum_
+Longinius, Faca_Astaroth, Cajado_do_Santo, Lança_Invisível, Lança_da_Corrupção, Espada_em_Cruz, Arco_Veloz, Manoplas_de_Aço(N), 
+Botas_de_Aço(N), Elmo_de_Aço(N), Manoplas_de_Aço(M), Elmo_Dourado(N), Manoplas_Douradas(M), Luvas_Conjuradoras(N), Botas_Conjuradoras(N), Manoplas_Aeon(N), 
+Botas_Aeon(N), Luvas_da_Natureza(N), Botas_da_Natureza(N), Luvas_de_Concha(N), Botas_de_Concha(N), Armadura_de_Águia(A), Calça_de_Águia(A), Pergaminho_Retorno, 
+Kit_de_Cura_(5_XG.), Resto_de_Oriharucon, 
+
+Mob: Arq_Caveira
+Safira, Elmo_Aeon(M), Chapéu_da_Natureza(M), Botas_Aeon(M), Luvas_da_Natureza(M), Botas_da_Natureza(M), Túnica_Conjuradora(M), Luvas_Conjuradoras(M), 
+Armadura_Dourada(M), Arco_Hidra, Colheita_do_Jardineiro, Cura_do_Batedor, Vela_do_Coveiro, Calça_Dourada(M), Pedra_de_Tectita, Pedra_de_Beril, 
+Espada_em_Cruz, Escudo_de_Bronze, Manoplas_Douradas(N), Botas_Douradas(N), Elmo_Dourado(N), Botas_de_Combate(A), Peitoral_de_Combate(M), Elmo_de_Combate(A), 
+Manoplas_de_Malha(N), Pedra_de_Beril, Esmeralda, Bastão_Serpente, Cajado_Silencioso, Botas_Douradas(M), Pedra_de_Beril, Diamante, 
+Armadura_de_Osso(M), Elmo_de_Osso(A), Poeira_de_Oriharucon, Pedra_de_Beril, Poeira_de_Lactolerium, 
+
+Mob: Arq_Ciclope
+Resto_de_Lactolerium, Resto_de_Lactolerium, Resto_de_Lactolerium, Resto_de_Lactolerium, Resto_de_Lactolerium, Resto_de_Lactolerium, Resto_de_Lactolerium, Resto_de_Lactolerium, 
+Moeda_de_Prata(1Mi), Resto_de_Oriharucon, Resto_de_Oriharucon, Resto_de_Lactolerium, Resto_de_Lactolerium, Resto_de_Lactolerium, Resto_de_Lactolerium, Resto_de_Lactolerium, 
+Resto_de_Lactolerium, Resto_de_Lactolerium, Resto_de_Lactolerium, Resto_de_Lactolerium, Moeda_de_Prata(1Mi), Moeda_de_Prata(1Mi), Moeda_de_Prata(1Mi), Resto_de_Oriharucon, 
+Moeda_de_Prata(1Mi), 
+
+Mob: Arq_Caveira___
+
+Mob: Arq_Taron@
+
+Mob: Arvak
+
+Mob: Assass._Tauron
+Poeira_de_Lactolerium, 
+
+Mob: Assassino_Anf@
+
+Mob: Averest
+
+Mob: Averest_
+
+Mob: Aylin
+
+Mob: Balder
+
+Mob: Baldur
+Pedra_da_Luz, Pedra_de_Adamantita, 
+
+Mob: Balmers
+
+Mob: Balrog
+Âmago_de_Unicórnio, Força_Espectral, Poeira_de_Lactolerium, 
+
+Mob: Barao_Azul
+
+Mob: Barao_Vermelho
+
+Mob: Baratinha
+Resto_de_Lactolerium, Resto_de_Oriharucon, 
+
+Mob: Bardes
+[S]Caixa_Poção_de_Cura, [S]Caixa_Poção_de_Mana, Pergaminho_Retorno, Pergaminho_Retorno_10x, Pergaminho_do_Teleporte, Pergaminho_de_Portal(10), Gema_Estelar, Safira, 
+Pacote_Safiras(10), 
+
+Mob: Basilisco
+
+Mob: Basilisco_Ifrit
+Kit_de_Cura_(10_M.), Kit_de_Mana_(10_M.), 
+
+Mob: Batalha
+
+Mob: Batalha_Real
+
+Mob: Batorero
+Diamante, Esmeralda, Coral, Garnet, Resto_de_Oriharucon, Armadura_Embutida(A), Armadura_Elemental(A), Túnica_de_Mytril(A), 
+Peitoral_de_Teia(A), Calça_Embutida(A), Calça_Elemental(A), Calça_de_Mytril(A), Calça_de_Teia(A), Martelo_Sykik, Presas_de_Behemoth, Martelo_Psíquico, 
+Cruz_Sagrada, Espada_Vorpal, Lança_do_Triunfo, Martelo_Assassino, Fúria_Divina, Arco_Divino, Poeira_de_Oriharucon, Pedra_de_Adamantita, 
+Concentração, Poeira_de_Lactolerium, 
+
+Mob: Batorero Inf
+Cristal_V, Cristal_VI, Cristal_VII, Cristal_V, Cristal_VI, Cristal_VII, Cristal_V, Cristal_VI, 
+Cristal_I, Semente_de_Cristal, Cristal_III, Semente_de_Cristal, Cristal_IV, Cristal_V, Cristal_VI, Cristal_VII, 
+Pergaminho_Selado, Pergaminho_Selado, Pedra_da_Luz, Pedra_de_Adamantita, Concentração, 
+
+Mob: Batorero__
+Cristal_Noas, Pista_da_Runas, 
+
+Mob: Berlund
+Garra_da_Escuridão, Chakram, Espada_em_Cruz, Kraika, Arco_Veloz, Tridente, Varinha_Falcon, Escudo_do_Cavaleiro, 
+
+Mob: Berserker_Lemur
+Elmo_do_Corvo, Armadura_do_Corvo, Calça_do_Corvo, Manoplas_do_Corvo, Botas_do_Corvo, Asa_Draconiana, Arco_Guardião, Dianus, 
+Foice_Platinada, Classe_E, Foice_Platinada, Vingadora, Elmo_do_Corvo, Armadura_do_Corvo, Calça_do_Corvo, Manoplas_do_Corvo, 
+Botas_do_Corvo, Elmo_Mortal, Armadura_Mortal, Calça_Mortal, Monaplas_Mortais, Botas_Mortais, Asa_Draconiana, Arco_Guardião, 
+Dianus, Foice_Platinada, Vingadora, Asa_Draconiana, Arco_Guardião, Dianus, Vingadora, Pergaminho_Selado, 
+Concentração, 
+
+Mob: Berserker_Ref
+Elmo_do_Corvo, Armadura_do_Corvo, Calça_do_Corvo, Manoplas_do_Corvo, Botas_do_Corvo, Asa_Draconiana, Arco_Guardião, Dianus, 
+Foice_Platinada, Classe_E, Foice_Platinada, Vingadora, Elmo_do_Corvo, Armadura_do_Corvo, Calça_do_Corvo, Manoplas_do_Corvo, 
+Botas_do_Corvo, Elmo_Mortal, Armadura_Mortal, Calça_Mortal, Monaplas_Mortais, Botas_Mortais, Asa_Draconiana, Arco_Guardião, 
+Dianus, Foice_Platinada, Vingadora, Asa_Draconiana, Arco_Guardião, Dianus, Vingadora, Pergaminho_Selado, 
+Concentração, 
+
+Mob: BlackOracle
+
+Mob: BlueOracle
+
+Mob: Bruxa
+
+Mob: Bruxa_
+
+Mob: Bruxa_Elfica
+Gram, Arco_Hidra, Arco_Mythril, Faca_do_Assassino, Cajado_do_Santo, Martelo_Dragão, Chapéu_Conjurador(A), Calça_Conjuradora(A), 
+Túnica_Conjuradora(A), Armadura_Aeon(M), Elmo_Aeon(A), Botas_Anã(A), Calça_Anã(M), Armadura_Anã(M), Chapéu_Conjurador(A), Cajado_de_Âmbar, 
+Cajado_de_Âmbar, Cajado_de_Âmbar, Esmeralda, Diamante, Cajado_de_Âmbar, 
+
+Mob: Bruxa_Elfica_
+Poeira_de_Lactolerium, Resto_de_Oriharucon, 
+
+Mob: Bruxa_Elfica__
+
+Mob: Bruxa_Negra
+Alma_da_Fênix, Barra_de_Prata(50Mi), Força_Espectral, Concentração, Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: C._de_Montaria
+Ração_de_Porco, Ração_de_Javali, Ração_de_Lobo, Ração_de_Dragão_Menor, Ração_de_Urso, Ração_de_Dente_de_Sabre, Ração_de_Cavalo, Ração_de_Fenrir, 
+Ração_de_Unicórnio, Ração_de_Grifo, 
+
+Mob: Cacador_Troll
+Armadura_de_Malha(M), Chapéu_Sombrio(M), Elmo_de_Águia(M), Luvas_de_Águia(M), Espada_em_Cruz, Chakram, Varinha_Falcon, Arco_Veloz, 
+Maça_Pesada, Cajado_Cortante, Garra_de_Ferro, Lança_do_Vento, Cimitarra, Pedaço_do_Círculo_Divino, Botas_de_Couro_Duro(A), Armadura_Couro_Duro(N), 
+Pedaço_do_Círculo_Divino, Braçadeira_de_Ferro(A), Elmo_de_Ferro(M), 
+
+Mob: Cacador_Troll_
+Armadura_de_Malha(M), Chapéu_Sombrio(M), Elmo_de_Águia(M), Luvas_de_Águia(M), Espada_em_Cruz, Chakram, Arco_Veloz, Vela_do_Coveiro, 
+Vela_do_Coveiro, Varinha_Falcon, Maça_Pesada, Cajado_Cortante, Garra_de_Ferro, Lança_do_Vento, Cimitarra, Botas_de_Couro_Duro(A), 
+Armadura_Couro_Duro(N), Pedaço_do_Círculo_Divino, Braçadeira_de_Ferro(A), Elmo_de_Ferro(M), Vela_do_Coveiro, 
+
+Mob: Camponesa_
+
+Mob: Camponesa_Amald
+, 
+
+Mob: Canhao
+
+Mob: Cap.Cavaleiros
+Giro_da_Fúria, Toque_Sagrado, Golpe_Duplo, Possuído, Fanatismo, Aura_da_Vida, Fúria_Divina, Destino, 
+Carga, Mestre_das_Armas, Golpe_Mortal, Assalto, Espada_da_Fênix, Samaritano, Noção_de_Combate, Armadura_Crítica, 
+Perseguição, Espada_Flamejante, Contra_Ataque, Lamina_Congelada, Ataque_da_Alma, Punhalada_Venenosa, Exterminar, Tempestade_de_Gelo, 
+
+Mob: Cap.Explor.
+
+Mob: Cap.Mercenario
+
+Mob: Capitao_Amon
+Armadura_Rake, Armadura_Flamejante, Armadura_da_Destruição, Túnica_Guardiã, Peitoral_de_Teia(A), Armadura_Embutida(A), Armadura_Elemental(A), Túnica_de_Mytril(A), 
+Resto_de_Oriharucon, Pedra_da_Luz, Pedra_da_Luz, Classe_E, Classe_E, Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Hit
+
+Mob: Carbuncle Ouro
+
+Mob: Carbuncle_Wind
+
+Mob: Carbunkle
+Calça_de_Malha(M), Manoplas_de_Malha(M), Robe_Sombrio(M), Luvas_Sombrias(M), Chapéu_de_Metal(M), Braçadeira_de_Metal(M), Calça_de_Metal(M), Colheita_do_Jardineiro, 
+Colheita_do_Jardineiro, Colheita_do_Jardineiro, Bastão_Serpente, Martelo, Escudo_de_Prata, Cajado_Silencioso, Faca_Quimerica, Elmo_de_Couro_Duro(A), 
+Armadura_Couro_Duro(M), Calça_de_Couro_Duro(A), Armadura_Couro_Duro(A), Colheita_do_Jardineiro, Calça_de_Ferro(A), Peitoral_de_Ferro(M), 
+
+Mob: Carbunkle@@
+Lança_Relâmpago, Lança_Relâmpago, Calça_de_Concha(M), Calça_de_Concha(M), Calça_de_Concha(A), Brinco_de_Hecate, Lança_Relâmpago, Lança_Relâmpago, 
+Cristal_V, Poeira_de_Oriharucon, 
+
+Mob: Carbunkle_
+Calça_de_Malha(M), Manoplas_de_Malha(M), Robe_Sombrio(M), Luvas_Sombrias(M), Chapéu_de_Metal(M), Braçadeira_de_Metal(M), Calça_de_Metal(M), Colheita_do_Jardineiro, 
+Colheita_do_Jardineiro, Colheita_do_Jardineiro, Bastão_Serpente, Martelo, Escudo_de_Prata, Cajado_Silencioso, Faca_Quimerica, Elmo_de_Couro_Duro(A), 
+Armadura_Couro_Duro(M), Calça_de_Couro_Duro(A), Armadura_Couro_Duro(A), Calça_de_Ferro(A), Peitoral_de_Ferro(M), Calça_de_Malha(M), 
+
+Mob: Carbunkle_Anct
+
+Mob: Caronte
+
+Mob: Cav.Caveira
+Elmo_Aeon(M), Chapéu_da_Natureza(M), Botas_Aeon(M), Luvas_da_Natureza(M), Calça_de_Aço(M), Mana_do_Batedor, Armadura_de_Osso(M), Elmo_de_Concha(M), 
+Cura_do_Batedor, Botas_de_Concha(M), Arco_Hidra, Aegis, Mana_do_Batedor, Cura_do_Batedor, Garra_da_Escuridão, Tridente, 
+Chakram, Mana_do_Batedor, Armadura_Anã(M), Armadura_Dourada(N), Elmo_Dourado(M), Manoplas_Douradas(A), Botas_Douradas(A), Cura_do_Batedor, 
+Chakram, Espada_em_Cruz, Mana_do_Batedor, Tridente, Cura_do_Batedor, Garra_da_Escuridão, Cura_do_Batedor, Arco_Veloz, 
+Machado_Duplo, Cura_do_Batedor, Cura_do_Batedor, Mana_do_Batedor, Botas_de_Osso(M), Calça_de_Osso(N), Mana_do_Batedor, 
+
+Mob: Cav. Elfo Negro
+Emblema_do_Guarda, Emblema_do_Guarda, Martelo_Dragão, Martelo_Psíquico, Martelo_Psíquico, Cruz_Sagrada, Emblema_do_Guarda, Ovo_de_Cavalo_Leve_N, 
+Emblema_do_Guarda, Emblema_do_Guarda, Martelo_Dragão, Emblema_do_Guarda, Martelo_Dragão, Martelo_Psíquico, Martelo_Dragão, Resto_de_Oriharucon, 
+Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Cav._Kaizen
+Coração_do_Kaizen, Resto_de_Lactolerium, Moeda_de_Prata(1Mi), Moeda_de_Prata(5Mi), Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Cav._Lugefer
+, , 
+
+Mob: Cav._Mortal
+Chapéu_de_Mytril(N), Calça_Embutida(N), Calça_de_Mytril(N), Manoplas_Elementais(N), Peitoral_de_Teia(N), Martelo_Psíquico, Martelo_Dragão, Olho_do_Carbunkle, 
+Presas_de_Behemoth, Gungnir, Elmo_Embutido(M), Manoplas_Embutidas(A), Calça_Embutida(M), Botas_Embutidas(A), Poeira_de_Lactolerium, 
+
+Mob: Cav._Mortal_
+
+Mob: Cav._Mortal___
+Emblema_do_Reino, Emblema_do_Reino, Emblema_do_Reino, Emblema_do_Reino, Emblema_do_Reino, 
+
+Mob: Cav._Mortal____
+Emblema_do_Reino, Emblema_do_Reino, Emblema_do_Reino, Emblema_do_Reino, Emblema_do_Reino, Emblema_do_Reino, Emblema_do_Reino, Emblema_do_Reino, 
+Emblema_do_Reino, 
+
+Mob: Cav._Negro_
+
+Mob: Cav._Real
+
+Mob: Cav._Real_
+
+Mob: Cav._Servo
+Calça_de_Mytril(N), Chapéu_de_Mytril(N), Elmo_Elemental(N), Chapéu_de_Teia(N), Manoplas_Embutidas(N), Elmo_Elemental(N), Manoplas_Embutidas(N), Calça_de_Mytril(N), 
+Coração_do_Kaizen, Coração_do_Kaizen, Coração_do_Kaizen, Coração_do_Kaizen, Coração_do_Kaizen, Coração_do_Kaizen, Coração_do_Kaizen, Coração_do_Kaizen, 
+Coração_do_Kaizen, Coração_do_Kaizen, Coração_do_Kaizen, Armadura_Embutida(N), Túnica_de_Mytril(N), Coração_do_Kaizen, Coração_do_Kaizen, Calça_Embutida(N), 
+Resto_de_Lactolerium, Calça_Elemental(N), Resto_de_Oriharucon, Coração_do_Kaizen, Coração_do_Kaizen, Armadura_Elemental(N), Peitoral_de_Teia(N), Calça_Embutida(N), 
+Calça_de_Mytril(N), Calça_Elemental(N), Moeda_de_Prata(1Mi), Coração_do_Kaizen, Armadura_Embutida(N), Túnica_de_Mytril(N), Armadura_Elemental(N), Peitoral_de_Teia(N), 
+Coração_do_Kaizen, Luvas_de_Mytril(N), Braçadeira_de_Teia(N), Coração_do_Kaizen, Coração_do_Kaizen, Coração_do_Kaizen, Coração_do_Kaizen, Coração_do_Kaizen, 
+Coração_do_Kaizen, , Moeda_de_Prata(1Mi), Resto_de_Oriharucon, Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Cavaleiro_Negro
+Luna, Martelo_Psíquico, Gram, Arco_Élfico, Calça_De_Combate(M), Mana_do_Batedor, Mana_do_Batedor, Mana_do_Batedor, 
+Mana_do_Batedor, Luna, Martelo_Psíquico, Gram, Arco_Élfico, Luna, Martelo_Psíquico, Mana_do_Batedor, 
+Gram, Arco_Élfico, Cristal_V, Resto_de_Lactolerium, Resto_de_Lactolerium, 
+
+Mob: Cavaleiro_Orc@
+
+Mob: Cavaleiro_Orc@@
+Lâmina_Espiritual, Lâmina_Espiritual, Botas_de_Osso(M), Botas_de_Osso(M), Botas_de_Osso(A), Botas_de_Osso(A), Brinco_de_Zeus, Lâmina_Espiritual, 
+Lâmina_Espiritual, Poeira_de_Oriharucon, 
+
+Mob: Caveira
+Armadura_de_Malha(M), Chapéu_Sombrio(M), Elmo_de_Águia(M), Luvas_de_Águia(M), Escudo_da_Torre, Vela_do_Coveiro, Colheita_do_Jardineiro, Chakram, 
+Varinha_Falcon, Maça, Arco_de_Batalha, Garra_Afiada, Bracelete_de_Hercules, Bracelete_de_Athena, Bracelete_de_Titã, Bracelete_de_Gaia, 
+Espada_em_Cruz, Botas_de_Couro_Batido(A), Elmo_de_Couro_Batido(A), Cota_de_Couro_Batido(M), Botas_Vampíricas(A), Vela_do_Coveiro, Botas_de_Águia(A), Armadura_de_Águia(M), 
+Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Caveira_Lanc__
+
+Mob: Caveira_Lanc
+Cajado_da_Jóia_Azul, Faca_Assassina, Armadura_Anã(Le), Elmo_Anão(M), Calça_Anã(M), Manoplas_Anãs(M), Botas_Anãs(M), Arco_da_Confusão, 
+Cajado_Silencioso, Peitoral_de_Metal(N), Calça_de_Aço(N), Botas_de_Aço(M), Calça_de_Malha(N), Botas_de_Malha(M), Calça_da_Natureza(N), Botas_da_Natureza(M), 
+Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Caveira_Lanc_
+Moeda_de_Prata(1Mi), Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Caveira Negra
+
+Mob: Caveira_Negra@
+
+Mob: CavEsqueleto
+
+Mob: Cav_Negro
+Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Cav_Negro@
+
+Mob: ChaosOrc__
+Botas_Anã(A), Botas_Conjuradoras(A), Botas_Aeon(A), Botas_da_Natureza(A), Elmo_Embutido(A), Armadura_Embutida(A), Calça_Embutida(A), Manoplas_Embutidas(A), 
+Botas_Embutidas(A), Chapéu_de_Teia(A), Peitoral_de_Teia(A), Calça_de_Teia(A), Chapéu_de_Mytril(A), Túnica_de_Mytril(A), Calça_de_Mytril(A), Luvas_de_Mytril(A), 
+Botas_de_Mytril(A), Braçadeira_de_Teia(A), Botas_de_Teia(A), Elmo_Elemental(A), Armadura_Elemental(A), Calça_Elemental(A), Manoplas_Elementais(A), Botas_Elementais(A), 
+Poeira_de_Oriharucon, Poeira_de_Lactolerium, Canhão_Conjurado, 
+
+Mob: Chefe Amon Inf
+Âmago_de_Andaluz_B, Âmago_de_Andaluz_N, , Âmago_de_Andaluz_B, Âmago_de_Andaluz_N, Pedra_de_Adamantita, Pedra_da_Luz, Resto_de_Lactolerium, 
+Poeira_de_Lactolerium, Pergaminho_Selado, Âmago_de_Unicórnio, Poeira_de_Oriharucon, Pedra_de_Adamantita, Resto_de_Lactolerium, Âmago_de_Unicórnio, Âmago_de_Pégasus, 
+Âmago_de_Pégasus, Poeira_de_Oriharucon, 
+
+Mob: Chefe_De_Treino
+
+Mob: Chefe Ghoul
+Armadura_de_Malha(M), Chapéu_Sombrio(M), Elmo_de_Águia(M), Luvas_de_Águia(M), Colheita_do_Jardineiro, Colheita_do_Jardineiro, Colheita_do_Jardineiro, Espada_em_Cruz, 
+Chakram, Varinha_Falcon, Bracelete_de_Titã, Bracelete_de_Gaia, Arco_Veloz, Colheita_do_Jardineiro, Botas_de_Couro_Batido(A), Elmo_de_Couro_Batido(A), 
+Cota_de_Couro_Batido(M), Botas_Vampíricas(A), Colheita_do_Jardineiro, Colheita_do_Jardineiro, Armadura_de_Águia(M), Calça_de_Águia(M), 
+
+Mob: Chefe_Ghoul@@
+Luna, Luna, Calça_De_Combate(M), Calça_De_Combate(M), Calça_De_Combate(A), Brinco_de_Hercules, Luna, Luna, 
+Poeira_de_Oriharucon, 
+
+Mob: Chefe_Ghoul_
+Armadura_de_Malha(M), Chapéu_Sombrio(M), Elmo_de_Águia(M), Luvas_de_Águia(M), Colheita_do_Jardineiro, Colheita_do_Jardineiro, Colheita_do_Jardineiro, Espada_em_Cruz, 
+Chakram, Varinha_Falcon, Bracelete_de_Titã, Bracelete_de_Gaia, Arco_Veloz, Botas_de_Couro_Batido(A), Elmo_de_Couro_Batido(A), Cota_de_Couro_Batido(M), 
+Botas_Vampíricas(A), Armadura_de_Águia(M), Calça_de_Águia(M), Colheita_do_Jardineiro, 
+
+Mob: Chefe_Ghoul__
+Poeira_de_Oriharucon, 
+
+Mob: Chefe_Krill
+Vela_do_Coveiro, Vela_do_Coveiro, Vela_do_Coveiro, Arco_Longo, Cajado_Cortante, Dardo_Místico, Botas_de_Ferro(A), Elmo_de_Ferro(A), 
+Armadura_Couro_Duro(A), Vela_do_Coveiro, Vela_do_Coveiro, Elmo_Lupino(A), Saia_de_Seda(A), Calça_de_Couro_Duro(A), Elmo_de_Couro_Duro(A), 
+
+Mob: Chefe_Krill@@
+Longinius, Longinius, Manoplas_de_Osso(M), Manoplas_de_Osso(A), Manoplas_de_Osso(M), Brinco_de_Athena, Longinius, Longinius, 
+Poeira_de_Oriharucon, 
+
+Mob: Chefe_Krill_
+Elmo_de_Couro_Duro(A), Armadura_Couro_Duro(A), Calça_de_Couro_Duro(A), Saia_de_Seda(A), Elmo_Lupino(A), Elmo_de_Ferro(A), Botas_de_Ferro(A), Dardo_Místico, 
+Arco_Longo, Cajado_Cortante, Vela_do_Coveiro, Vela_do_Coveiro, Vela_do_Coveiro, 
+
+Mob: Chefe_Orc_
+Maça, Bastão_Serpente, Garra_Afiada, Matadora_de_Dragão, Bumerangue_Cortante, Arco_da_Confusão, Cajado_Silencioso, Faca_Quimerica, 
+Lança_Escorpião, Tomahawk, Martelo_de_Guerra, Kraika, Cimitarra, Arco_da_Confusão, Última_Chave_Orc_Leste, 
+
+Mob: Chefe_Taurus
+Emblema_da_Aprendizagem, Emblema_da_Aprendizagem, Emblema_da_Aprendizagem, Resto_de_Oriharucon, Resto_de_Lactolerium, 
+
+Mob: Chefe_Treina
+
+Mob: CH_Troll_Ghoul
+Armadura_Embutida(N), Manoplas_Embutidas(M), Túnica_de_Mytril(N), Luvas_de_Mytril(M), Armadura_Elemental(N), Manoplas_Elementais(M), Peitoral_de_Teia(N), Braçadeira_de_Teia(M), 
+Emblema_do_Guarda, Cajado_de_Âmbar, Moeda_de_Prata(1Mi), Armadura_Embutida(N), Manoplas_Embutidas(M), Túnica_de_Mytril(N), Luvas_de_Mytril(M), Resto_de_Oriharucon, 
+Resto_de_Lactolerium, Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Ciclope
+Elmo_de_Osso(M), Elmo_de_Combate(M), Elmo_de_Aço(A), Arco_de_Batalha, Lança_do_Vento, Rapier, Stiletto, Chapéu_de_Concha(M), 
+Tridente, Colheita_do_Jardineiro, Escudo_de_Bronze, Calça_de_Aço(M), Armadura_de_Aço(M), Elmo_de_Aço(A), Calça_de_Aço(A), Matadora_de_Dragão, 
+
+Mob: Ciclope@
+
+Mob: Ciclope@@
+Martelo_Dragão, Martelo_Dragão, Túnica_de_Concha(M), Túnica_de_Concha(M), Túnica_de_Concha(A), Brinco_de_Hercules, Martelo_Dragão, Martelo_Dragão, 
+Poeira_de_Oriharucon, 
+
+Mob: Ciclope_
+Elmo_de_Osso(M), Elmo_de_Combate(M), Elmo_de_Aço(A), Arco_de_Batalha, Lança_do_Vento, Rapier, Stiletto, Chapéu_de_Concha(M), 
+Tridente, Colheita_do_Jardineiro, Colheita_do_Jardineiro, Colheita_do_Jardineiro, Escudo_de_Bronze, Calça_de_Aço(M), Armadura_de_Aço(M), Elmo_de_Aço(A), 
+Calça_de_Aço(A), Matadora_de_Dragão, 
+
+Mob: Ciclope_Anc
+Poeira_de_Oriharucon, 
+
+Mob: Ciclope_Arq
+Shamir, Calça_de_Aço(M), Manoplas_de_Aço(M), Túnica_de_Concha(M), Armadura_de_Osso(M), Arco_Élfico, Arco_Élfico, Arco_Élfico, 
+Colheita_do_Jardineiro, Martelo, Escudo_da_Torre, Tridente, Arco_Élfico, Elmo_de_Aço(N), Manoplas_de_Aço(M), Manoplas_de_Malha(M), 
+Botas_de_Concha(N), Arco_Élfico, Manoplas_Aeon(M), Chapéu_da_Natureza(N), 
+
+Mob: Ciclope_Arq__
+Poeira_de_Oriharucon, 
+
+Mob: Ciclope_Cruel
+Garnet, Olho_do_Carbunkle, Presas_de_Behemoth, Gungnir, Lâmina_Espiritual, Gladio, Arco_Mythril, Aegis, 
+Garnet, Garnet, Colheita_do_Jardineiro, Colheita_do_Jardineiro, Arco_Mythril, Lâmina_Espiritual, Gladio, Colheita_do_Jardineiro, 
+Cristal_III, Olho_do_Carbunkle, Gungnir, Cura_do_Batedor, Resto_de_Oriharucon, Resto_de_Lactolerium, 
+
+Mob: Ciclope_Cruel__
+Garnet, Esmeralda, Coral, Poeira_de_Oriharucon, Poeira_de_Oriharucon, 
+
+Mob: Ciclope_Elder
+Poeira_de_Oriharucon, 
+
+Mob: Ciclope_Forte
+Resto_de_Oriharucon, 
+
+Mob: Ciclope_Sang
+Espada_Larga, Martelo_de_Guerra, Espada_Vorpal, Elmo_de_Concha(M), Botas_de_Concha(M), Elmo_de_Osso(M), Colheita_do_Jardineiro, Maça_Gótica, 
+Manoplas_Douradas(N), Botas_Douradas(N), Calça_de_Malha(A), Armadura_de_Malha(A), 
+
+Mob: Ciclope_Sang_
+Espada_Larga, Martelo_de_Guerra, Botas_de_Aço(M), Elmo_de_Concha(M), Botas_de_Concha(M), Elmo_de_Osso(M), Colheita_do_Jardineiro, Maça_Gótica, 
+Manoplas_Douradas(N), Botas_Douradas(N), Calça_de_Malha(A), Armadura_de_Malha(A), 
+
+Mob: Ciclope_Sang__
+
+Mob: Ciclope_Wild
+Resto_de_Lactolerium, Resto_de_Lactolerium, Resto_de_Lactolerium, Resto_de_Lactolerium, Resto_de_Lactolerium, Resto_de_Oriharucon, Resto_de_Lactolerium, Resto_de_Oriharucon, 
+Resto_de_Oriharucon, Resto_de_Oriharucon, Resto_de_Lactolerium, Resto_de_Lactolerium, Moeda_de_Prata(1Mi), Resto_de_Lactolerium, Resto_de_Lactolerium, Resto_de_Lactolerium, 
+Resto_de_Lactolerium, Resto_de_Oriharucon, Resto_de_Oriharucon, Resto_de_Oriharucon, Resto_de_Oriharucon, Moeda_de_Prata(1Mi), Moeda_de_Prata(1Mi), Moeda_de_Prata(1Mi), 
+Moeda_de_Prata(1Mi), Moeda_de_Prata(1Mi), Moeda_de_Prata(1Mi), Moeda_de_Prata(1Mi), Moeda_de_Prata(1Mi), Resto_de_Oriharucon, Resto_de_Lactolerium, Resto_de_Lactolerium, 
+
+Mob: Coelho_Chefe
+Baú_do_Tesouro(Missão2), 
+
+Mob: Coelho_Macabro
+
+Mob: Combatente
+
+Mob: Combatente_
+
+Mob: Comerciante
+Vara_de_Pesca, Salmonete, , , Rede_de_Pesca, Goraz, , , 
+Isca_De_Peixe, Corvina, , , , Tainha, , , 
+Dourado, , Besugo, 
+
+Mob: Compositor
+
+Mob: Condor^
+
+Mob: Conj Caveira
+Tridente, Cota_de_Couro_Batido(A), Túnica_Vampírica(A), Chapéu_de_Bandagem(A), Calça_Leonina(A), Arco_de_Batalha, Mana_do_Batedor, Mana_do_Batedor, 
+Mana_do_Batedor, Calça_da_Natureza(M), Luvas_da_Natureza(A), Calça_Aeon(M), Botas_de_Aço(A), Calça_de_Aço(M), Calça_de_Malha(M), Armadura_de_Malha(M), 
+Mana_do_Batedor, Mana_do_Batedor, Mana_do_Batedor, Calça_de_Metal(M), Botas_de_Águia(A), Mana_do_Batedor, Resto_de_Oriharucon, Resto_de_Lactolerium, 
+
+Mob: Conj_Caveira_
+Poeira_de_Oriharucon, 
+
+Mob: Coveiro
+
+Mob: Creta
+Escritura_do_Pesadelo, [S]Caixa_Poção_de_Cura, [S]Caixa_Poção_de_Mana, Selo_do_Guerreiro, Remédio_da_Coragem, 
+
+Mob: Cria_de_Aranha
+, , 
+
+Mob: Curandeira
+Esfera_da_Sorte, Gullfaxi(30dias), 
+
+Mob: Cyclops____
+
+Mob: Dark_Shadow_
+
+Mob: DeathKnight_K
+
+Mob: Dedekinto
+
+Mob: Demonio_do_Vale
+, , 
+
+Mob: Demon_Gorgon
+Garra_Draconiana, Resto_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Demon Lord
+Mana_do_Batedor, Mana_do_Batedor, Mana_do_Batedor, Mana_do_Batedor, Mana_do_Batedor, Mana_do_Batedor, Armadura_Dourada(M), Mana_do_Batedor, 
+Mana_do_Batedor, Mana_do_Batedor, Resto_de_Lactolerium, Brinco_de_Zeus, Brinco_de_Titã, Brinco_de_Athena, Pedra_do_Demonlord, Resto_de_Oriharucon, 
+Poeira_de_Lactolerium, Poeira_de_Oriharucon, 
+
+Mob: Diretor_Treina
+
+Mob: Doffus
+
+Mob: Donation_Store
+Jóia_da_Sagacidade, Jóia_da_Resistência, Jóia_da_Revelação, Jóia_da_Absorção, Jóia_da_Proteção, Jóia_da_Recuperação, Jóia_da_Precisão, Jóia_da_Magia, 
+Jóia_da_Armazenagem, Jóia_do_Poder, , Pergaminho_do_Perdão, 
+
+Mob: Donation_Store1
+Retorno_da_Habilidade, Pergaminho_Retorno, Pergaminho_do_Teleporte, , , Rede_de_Pesca, Vara_de_Pesca, Isca_De_Peixe, 
+, , , 
+
+Mob: Donation_Store2
+Catalisador_de_Kapel, Catalisador_de_Acuban, Catalisador_de_Mencar, Catalisador_de_Birago, Catalisador_de_Yus, Catalisador_de_Makav, Restaurador_de_Kapel, Restaurador_de_Acuban, 
+Restaurador_de_Mencar, Restaurador_de_Birago, Restaurador_de_Yus, Restaurador_de_Makav, Acelerador_de_Nascimento, Mandado_de_Exílio, Restaurador_de_Montaria, Ração_de_Cavalo, 
+Ração_de_Tigre_de_Fogo, Ração_de_Dragão_Verm, Ração_de_Unicórnio, Ração_de_Grifo, Traje_Mont:_Pogobol(Vermelho), Traje_Mont:_Pogobol(Azul), 
+
+Mob: Donation_Store3
+Pergaminho_da_Água(M)LV1, Pergaminho_da_Água(N)LV1, Pergaminho_da_Água(A)LV1, Feijão_Mágico(Prateado), Feijão_Mágico(Azul), Carta_de_Duelo_(M), Carta_de_Duelo_(N), Carta_de_Duelo(A), 
+Feijão_Mágico(Vermelho), Feijão_Mágico(Vermelho), Feijão_Mágico(Azul), Feijão_Mágico(Preto), Fada_Verde(3dias), Fada_Azul(3dias), Fada_Vermelha(3dias), Feijão_Mágico(Preto), 
+Feijão_Mágico(Prateado), Removedor_de_tintura, 
+
+Mob: Donation_Store4
+Frango_Assado, Donate_GO_300, Poção_Revigorante_(24_horas), Poção_Divina(7dias), Baú_de_Experiência, Poção_Mental, Poção_Divina(15dias), Bolsa_do_Andarílho, 
+Poção_Divina(30dias), Pedra_da_Troca_Maior, Pedra_da_Troca_Menor, 
+
+Mob: Donation_Store5
+Pergaminho_da_Água(A)LV1, Wooden_horse, Traje_, Traje_, Traje_, Poeira_de_Lactolerium, Traje_Mont:_Sombra_da_Morte(Prata), Traje_, 
+Traje_, Traje_, Poeira_de_Oriharucon, Traje_Mont:_Sombra_da_Morte(Ouro), Traje_, Traje_, Traje_, , 
+Traje_Mont:_Aranha_Guerreira, Traje_, Traje_, Traje_, Baú_de_Experiência, Traje_Mont:_Cavalo_Real(Vermelho), Traje_, Traje_, 
+Traje_, Traje_Mont:_Cavalo_Real(Azul), 
+
+Mob: Dracorich
+
+Mob: Draco_Lich
+
+Mob: Dragao_de_Azran
+
+Mob: Dragao_de_Cobre
+Brinco_de_Hercules, Esmeralda, Coral, Gungnir, Lança_do_Triunfo, Cajado_de_Âmbar, 
+
+Mob: Dragao_Dourado
+
+Mob: Dragao_Lich
+Gram, Arco_Élfico, Luna, Martelo_Psíquico, Martelo_Dragão, Olho_do_Carbunkle, Lança_Relâmpago, Cajado_de_Âmbar, 
+Martelo_Psíquico, Martelo_Dragão, Olho_do_Carbunkle, Lança_Relâmpago, Cajado_de_Âmbar, Manoplas_Embutidas(M), Calça_Embutida(N), Botas_Embutidas(M), 
+Armadura_Embutida(N), Pedra_de_Dragão_Lich, Poeira_de_Lactolerium, 
+
+Mob: Dragao_Lich_
+Poeira_de_Lactolerium, Resto_de_Oriharucon, 
+
+Mob: Dragao_Menor
+Lança_do_Vento, Chapéu_Vampírico(A), Cajado_Silencioso, Elmo_de_Couro_Batido(A), Cota_de_Couro_Batido(A), Luvas_Leoninas(A), Vela_do_Coveiro, Vela_do_Coveiro, 
+Vela_do_Coveiro, Vela_do_Coveiro, Jaqueta_Acolchoada(N), Botas_Acolchoadas(M), Âmago_de_Dragão_Menor, Ovo_de_Dragão_Menor, 
+
+Mob: Dragao_Menor@@
+Martelo_Psíquico, Martelo_Dragão, Botas_de_Combate(M), Botas_de_Combate(M), Botas_de_Combate(A), Brinco_de_Zeus, Poeira_de_Oriharucon, 
+
+Mob: Dreadtaurs
+Maça_Gótica, Arco_Mythril, Garra_da_Escuridão, Espada_Curta, Elmo_de_Malha(M), Botas_de_Malha(M), Colheita_do_Jardineiro, Colheita_do_Jardineiro, 
+Colheita_do_Jardineiro, Arco_da_Confusão, Cajado_Silencioso, Manoplas_de_Malha(M), Calça_de_Malha(N), Botas_de_Malha(M), Calça_Sombria(N), 
+
+Mob: Dreadtaurs_
+Maça_Gótica, Arco_Mythril, Garra_da_Escuridão, Espada_Curta, Elmo_de_Malha(M), Botas_de_Malha(M), Colheita_do_Jardineiro, Arco_da_Confusão, 
+Cajado_Silencioso, Manoplas_de_Malha(M), Calça_de_Malha(N), Botas_de_Malha(M), Calça_Sombria(N), 
+
+Mob: Ehre
+
+Mob: Ehre1
+
+Mob: ElfoNegroAbj
+
+Mob: Elfo_ABJ_
+
+Mob: Elfo_ABJ__
+
+Mob: Elfo_Negro
+Arco_Hidra, Longinius, Gram, Cura_do_Batedor, Chapéu_de_Bandagem(A), Calça_Leonina(A), Mana_do_Batedor, Cura_do_Batedor, 
+Esmeralda, Pedra_de_Tectita, Esmeralda, Lança_Invisível, Lança_da_Corrupção, Espada_em_Cruz, Arco_Veloz, Mana_do_Batedor, 
+Elmo_Dourado(N), Manoplas_Douradas(M), Manoplas_de_Aço(N), Botas_de_Aço(N), Cura_do_Batedor, Mana_do_Batedor, Peitoral_da_Natureza(A), Cura_do_Batedor, 
+
+Mob: Elfo_Negro@
+
+Mob: Elfo_Negro_
+Poeira_de_Lactolerium, Resto_de_Oriharucon, 
+
+Mob: Elfo_Negro_Abj
+Elmo_Embutido(N), Chapéu_de_Mytril(N), Calça_Embutida(N), Calça_de_Mytril(N), Emblema_do_Guarda, Medalha_Dourada, Emblema_do_Guarda, Emblema_do_Guarda, 
+Presas_de_Behemoth, Gungnir, Elmo_Embutido(N), Chapéu_de_Mytril(N), Calça_Embutida(N), Calça_de_Mytril(N), Arco_Divino, Presas_de_Behemoth, 
+Gungnir, Resto_de_Oriharucon, Ovo_de_Cavalo_Leve_B, Poeira_de_Lactolerium, Poeira_de_Oriharucon, 
+
+Mob: Elfo_Negro_Abj_
+
+Mob: Elfo_Negro__
+Resto_de_Lactolerium, Resto_de_Oriharucon, 
+
+Mob: EntAmald
+Elmo_Legionário, Armadura_Legionária, Calça_Legionária, Manoplas_Legionárias, Botas_Legionárias, Elmo_Mortal, Armadura_Mortal, Calça_Mortal, 
+Classe_E, [S]Caixa_Poção_de_Cura, Poeira_de_Oriharucon, Poeira_de_Lactolerium, Monaplas_Mortais, Botas_Mortais, Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+Escudo_do_Guardião, Ankh_da_Glória, Ankh_da_Justiça, Ankh_da_Eternidade, Classe_E, Pedaço_do_Círc_Div_Comp, 
+
+Mob: Entradas
+Pergaminho_da_Água(M)LV1, Pergaminho_da_Água(N)LV1, Pergaminho_da_Água(A)LV1, Carta_de_Duelo_(M), Carta_de_Duelo_(N), Pesadelo_(N/Ind), Pesadelo_(M/Ind), Pesadelo_(A/Ind), 
+Portão_do_Inferno(N/Ind.), Portão_do_Inferno(M/Grupo), Pesadelo_(N/Grupo), Pesadelo_(M/Grupo), Pesadelo_(A/Grupo), 
+
+Mob: Ent_Anciao
+Eirenus, Gleipnir, Skytalos, Neorion, Khyrius, Balmung, Basileus, Caliburn, 
+Hophlon, Hermai, Thrasytes, Manoplas_Templárias, Poeira_de_Lactolerium, Poeira_de_Lactolerium, Pergaminho_Selado, 
+
+Mob: Ent_Obs_Blue
+
+Mob: Ent_Obs_Red
+
+Mob: Erin
+
+Mob: Escuridao
+
+Mob: Espelho_RainhaG
+
+Mob: Esqueleto
+Caixa_da_Sabedoria, Caixa_da_Sabedoria, Caixa_da_Sabedoria, Caixa_da_Sabedoria, Caixa_da_Sabedoria, Caixa_da_Sabedoria, Caixa_da_Sabedoria, Elmo_de_Aço(M), 
+Armadura_de_Aço(M), Calça_de_Aço(M), Manoplas_de_Aço(M), Botas_de_Aço(M), Resto_de_Oriharucon, Resto_de_Lactolerium, Resto_de_Lactolerium, Chapéu_Sombrio(M), 
+Robe_Sombrio(M), Calça_Sombria(M), Luvas_Sombrias(M), Botas_Sombrias(M), Pedaço_do_Círc_Div_Comp, Elmo_de_Águia(M), Armadura_de_Águia(M), Calça_de_Águia(M), 
+Luvas_de_Águia(M), Botas_de_Águia(M), Caixa_da_Sabedoria, Caixa_da_Sabedoria, Chapéu_de_Metal(M), Peitoral_de_Metal(M), Calça_de_Metal(M), Braçadeira_de_Metal(M), 
+Botas_de_Metal(M), Resto_de_Oriharucon, Resto_de_Lactolerium, , Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Esqueleto@
+
+Mob: Esqueleto@@
+Gram, Gram, Armadura_de_Osso(M), Armadura_de_Osso(M), Armadura_de_Osso(A), Brinco_de_Titã, Gram, Gram, 
+Poeira_de_Lactolerium, Resto_de_Oriharucon, Poeira_de_Oriharucon, 
+
+Mob: Esqueleto_Arq@
+
+Mob: Esqueleto__
+
+Mob: Esq_Arqueiro@@
+Arco_Hidra, Arco_Hidra, Arco_Hidra, Brinco_de_Titã, Arco_Hidra, Arco_Hidra, Escudo_da_Torre, Escudo_da_Torre, 
+Poeira_de_Oriharucon, 
+
+Mob: EVENTO_HIT
+
+Mob: Evolucao
+Baú_de_Experiência, Frango_Assado, Fada_Azul(5dias), Fada_Vermelha(5dias), Pergaminho_da_Água(N)LV1, Poeira_de_Oriharucon, Poeira_de_Lactolerium, Pedra_da_Luz, 
+Pedra_de_Adamantita, Poeira_de_Fada, Pesadelo_(N/Grupo), Pesadelo_(M/Grupo), Pedra_da_Imortalidade, Pedra_Misteriosa, Pista_da_Runas, Sephirot(TransKnight), 
+Sephirot(Foema), Sephirot(BeastMaster), Sephirot(Huntress), Pedra_Ideal, Pergaminho_Selado, Selo_do_Guerreiro, Pedra_Secreta_(Terra), Pedra_Secreta_(Água), 
+Pedra_Secreta_(Sol), Pedra_Secreta_(Vento), 
+
+Mob: Fadas
+Pedra_Espiritual, Ankh_da_Justiça, Ankh_da_Eternidade, Ankh_da_Glória, Defesa_contra_Fogo, Defesa_contra_Gelo, Defesa_contra_Relâmpago, Defesa_contra_Sagrado, 
+Pedra_Amunra, 
+
+Mob: Fame_BeastSB
+Anti_Magia, Unidade_Mental, Concha_Resistente, 
+
+Mob: Fame_FoemaSB
+Cenote, Magia_Misteriosa, Remover_Memória, 
+
+Mob: Fame_HunterSB
+Contra_Ataque, Ponto_do_Mestre, Tiro_Direto, 
+
+Mob: Fame_TransSB
+Proteção_Divina, Mãos_Sangrentas, Espelho_Mágico, 
+
+Mob: Feiticeira
+
+Mob: Feiticeira_
+
+Mob: Fenix
+
+Mob: Ferreiro
+Armadura_Couro_Duro(N), Calça_de_Couro_Duro(N), Luvas_de_Couro_Duro(N), Botas_de_Couro_Duro(N), Classe_A, Armadura_Couro_Duro(M), Calça_de_Couro_Duro(M), Luvas_de_Couro_Duro(M), 
+Botas_de_Couro_Duro(M), Armadura_Couro_Duro(A), Calça_de_Couro_Duro(A), Luvas_de_Couro_Duro(A), Botas_de_Couro_Duro(A), 
+
+Mob: Ferreiro_
+Armadura_Dourada(N), Calça_Dourada(N), Manoplas_Douradas(N), Botas_Douradas(N), Armadura_Dourada(M), Calça_Dourada(M), Manoplas_Douradas(M), Botas_Douradas(M), 
+Armadura_Dourada(A), Calça_Dourada(A), Manoplas_Douradas(A), Botas_Douradas(A), 
+
+Mob: Ferreiro_Penado
+
+Mob: Filhote_de_Lobo
+
+Mob: Flame_Gargula
+Ankh_da_Glória, Arco_Élfico, Arco_Élfico, Arco_Élfico, Medalha_Dourada, Lança_Relâmpago, Lança_Relâmpago, Martelo_Dragão, 
+Martelo_Dragão, Luna, Luna, Martelo_Psíquico, Martelo_Psíquico, Presas_de_Behemoth, Presas_de_Behemoth, Olho_do_Carbunkle, 
+Olho_do_Carbunkle, Gungnir, Cajado_da_Jóia_Azul, Gungnir, Cajado_da_Jóia_Azul, Pedra_do_Sábio, Pedra_de_Gárgula_de_Fogo, Poeira_de_Oriharucon, 
+Poeira_de_Lactolerium, 
+
+Mob: Foema_Ancian
+Flecha_Mágica, Cura, Desintoxicar, Flash, Choque_Divino, Recuperar, Julgamento_Divino, Renascimento, 
+Ataque_de_Fogo, Relâmpago, Lança_de_Gelo, Tempestade_de_Meteoro, Nevasca, Trovão, Fênix_de_Fogo, Inferno, 
+Nevoa_Venenosa, Velocidade, Teleporte, Escudo_Mágico, Arma_Mágica, Toque_da_Athena, Controle_de_Mana, Cancelamento, 
+
+Mob: ForeLearner
+Ataque_Fatal, Ilusão, Agressividade, Encantar_Gelo, Imunidade, Meditação, Lança_de_Ferro, Tempestade_de_Raios, 
+Golpe_Felino, Ligação_Espectral, Perícia_de_Caçador, Extração, Alquimia, Escudo_Dourado, Explosão_Etérea, Troca_de_Espírito, 
+Lâmina_das_Sombras, Evasão_Aprimorada, Visão_de_Caçadora, Olhos_de_Aguia, Toxina_de_Serpente, Lamina_Aérea, Proteção_das_Sombras, Invisibilidade, 
+
+Mob: Forseti
+
+Mob: FrenzyDemonLord
+Calça_Embutida(A), Botas_Embutidas(A), Botas_Embutidas(A), Manoplas_Embutidas(A), Manoplas_Embutidas(A), Peitoral_de_Teia(A), Calça_de_Teia(A), Chapéu_de_Teia(A), 
+Botas_de_Teia(A), Manoplas_Embutidas(A), Botas_Embutidas(A), Elmo_Embutido(A), Calça_Embutida(A), Armadura_Embutida(A), Luvas_de_Mytril(A), Botas_de_Mytril(A), 
+Chapéu_de_Mytril(A), Calça_de_Mytril(A), Túnica_de_Mytril(A), Manoplas_Elementais(A), Botas_Elementais(A), Elmo_Elemental(A), Calça_Elemental(A), Armadura_Elemental(A), 
+Braçadeira_de_Teia(A), Chapéu_de_Teia(A), Calça_de_Teia(A), Arco_Divino, Espada_Vorpal, Martelo_Assassino, Alma_da_Fênix, Resto_de_Oriharucon, 
+Resto_de_Lactolerium, Escudo_de_Runas, Poeira_de_Lactolerium, Pedra_do_Rei_Demonlord, Poeira_de_Lactolerium, Poeira_de_Oriharucon, Força_Espectral, Poeira_de_Oriharucon, 
+
+Mob: Freyja
+
+Mob: FunerSeamer
+Cristal_Sylphed, 
+
+Mob: FunerSickler
+Cristal_Elime, 
+
+Mob: Funer_Momenter
+Kit_de_Cura_(5_XG.), Resto_de_Oriharucon, Resto_de_Oriharucon, Resto_de_Oriharucon, Chapéu_Conjurador(Le), Túnica_Conjuradora(Le), Calça_Conjuradora(Le), Luvas_Conjuradoras(Le), 
+Botas_Conjuradoras(Le), Gungnir, Resto_de_Oriharucon, Resto_de_Lactolerium, Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Funer_Scyther
+Kit_de_Cura_(5_XG.), Kit_de_Cura_(5_XG.), Kit_de_Cura_(5_XG.), Kit_de_Cura_(5_XG.), Kit_de_Cura_(5_XG.), Resto_de_Oriharucon, Resto_de_Oriharucon, Elmo_Aeon(Le), 
+Armadura_Aeon(Le), Calça_Aeon(Le), Manoplas_Aeon(Le), Botas_Aeon(Le), Gram, Garnet, Pedra_de_Beril, Poeira_de_Oriharucon, 
+Poeira_de_Lactolerium, 
+
+Mob: Funer_Seamer
+Resto_de_Oriharucon, Resto_de_Oriharucon, Kit_de_Cura_(5_XG.), Resto_de_Oriharucon, Resto_de_Lactolerium, Elmo_Anão(Le), Armadura_Anã(Le), Calça_Anã(Le), 
+Manopla_Anã(Le), Botas_Anã(Le), Cajado_de_Âmbar, Pedra_de_Tectita, Poeira_de_Lactolerium, 
+
+Mob: Funer_Sickler
+Fúria_Divina, Armadura_Elemental(Le), Armadura_Embutida(Le), Luvas_de_Mytril(Le), Braçadeira_de_Teia(Le), Espada_Vorpal, Resto_de_Lactolerium, Elmo_Elemental(Le), 
+Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Galford
+, , , , , , , , 
+
+Mob: Galford_
+Martelo_de_Pedra, Katana, Cajado_Orc, Foice_do_Mago, Foice_de_Argos, Arco_de_Caveira, Lança_de_Taurus, Tsurugi, 
+
+Mob: Gargula
+Elmo_de_Combate(M), Colheita_do_Jardineiro, Colheita_do_Jardineiro, Elmo_de_Combate(M), Elmo_de_Osso(M), Elmo_de_Combate(M), Elmo_de_Osso(M), Elmo_Aeon(M), 
+Elmo_Aeon(A), Calça_Aeon(M), Calça_Aeon(A), Armadura_Aeon(M), Armadura_Aeon(A), Mana_do_Batedor, Calça_Aeon(M), Mana_do_Batedor, 
+Elmo_de_Osso(M), Elmo_de_Combate(M), Elmo_de_Osso(M), Elmo_de_Combate(M), Armadura_Aeon(A), Mana_do_Batedor, Elmo_de_Combate(M), Elmo_de_Osso(M), 
+Elmo_de_Combate(M), Elmo_de_Osso(M), Resto_de_Oriharucon, Resto_de_Oriharucon, Mana_do_Batedor, Cristal_V, Poeira_de_Lactolerium, Poeira_de_Oriharucon, 
+
+Mob: GargulaAmald
+Elmo_Elemental(A), Armadura_Elemental(A), Calça_Elemental(A), Manoplas_Elementais(A), Botas_Elementais(A), Classe_D, Lança_do_Triunfo, Martelo_Assassino, 
+Cruz_Sagrada, Espada_Vorpal, Mjolnir, Solaris, Classe_D, Classe_D, Classe_D, Resto_de_Lactolerium, 
+Resto_de_Lactolerium, Resto_de_Oriharucon, 
+
+Mob: Gargula_
+Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Gargula_Inf
+Resto_de_Lactolerium, Molar_de_Gárgula, Molar_de_Gárgula, Molar_de_Gárgula, Brinco_de_Zeus, Molar_de_Gárgula, Brinco_de_Titã, Brinco_de_Athena, 
+Resto_de_Lactolerium, Resto_de_Lactolerium, Molar_de_Gárgula, Molar_de_Gárgula, Molar_de_Gárgula, Brinco_de_Hercules, Brinco_de_Zeus, Brinco_de_Titã, 
+Brinco_de_Zeus, Brinco_de_Athena, Brinco_de_Hecate, Brinco_de_Hercules, Molar_de_Gárgula, Molar_de_Gárgula, Molar_de_Gárgula, 
+
+Mob: Gargula_Sabio
+Luna, Martelo_Psíquico, Luna, Martelo_Psíquico, Luna, Martelo_Psíquico, Luna, Martelo_Psíquico, 
+Manopla_Anã(A), Botas_Anã(A), Elmo_Anão(A), Manoplas_Aeon(A), Safira, Poeira_de_Lactolerium, 
+
+Mob: Gargula_Sabio_
+Poeira_de_Oriharucon, 
+
+Mob: Gargula_Sabio__
+
+Mob: Gargula_Servo
+Molar_de_Gárgula, Brinco_de_Zeus, Brinco_de_Hecate, Brinco_de_Athena, Brinco_de_Titã, Molar_de_Gárgula, Brinco_de_Hercules, Brinco_de_Athena, 
+Brinco_de_Titã, Brinco_de_Hecate, Brinco_de_Hercules, Resto_de_Oriharucon, Molar_de_Gárgula, Molar_de_Gárgula, Resto_de_Lactolerium, Resto_de_Oriharucon, 
+
+Mob: Gargula  
+
+Mob: Gargula___
+Cristal_V, Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Gate
+
+Mob: Gate_Keeper
+
+Mob: Ghoul
+Botas_Sombrias(M), Armadura_de_Águia(M), Calça_de_Águia(M), Botas_de_Águia(M), Peitoral_de_Metal(M), Botas_de_Metal(M), Colheita_do_Jardineiro, Colheita_do_Jardineiro, 
+Colheita_do_Jardineiro, Colheita_do_Jardineiro, Colheita_do_Jardineiro, Colheita_do_Jardineiro, Colheita_do_Jardineiro, Colheita_do_Jardineiro, Colheita_do_Jardineiro, Colheita_do_Jardineiro, 
+Lança_do_Vento, Arco_de_Batalha, Espada_em_Cruz, Matadora_de_Dragão, Bumerangue_Cortante, Chakram, Varinha_Falcon, Luvas_de_Couro_Duro(N), 
+Botas_de_Couro_Duro(N), Elmo_de_Couro_Duro(N), Luvas_de_Couro_Duro(M), Botas_de_Ferro(N), Braçadeira_de_Ferro(N), Colheita_do_Jardineiro, 
+
+Mob: Ghoul@@
+Presas_de_Behemoth, Presas_de_Behemoth, Calça_Dourada(M), Calça_Dourada(M), Calça_Dourada(A), Brinco_de_Hecate, Presas_de_Behemoth, Presas_de_Behemoth, 
+Poeira_de_Oriharucon, 
+
+Mob: GO!_Honra
+Poeira_de_Lactolerium, Poeira_de_Oriharucon, Âmago_de_Cavalo_Equip_N, Âmago_de_Cavalo_Equip_B, Âmago_de_Fenrir, Classe_D, Classe_E, Frango_Assado, 
+Moeda_De_Honra(50), Cythera_Prateada, Ervas_de_Cura, Jóia_da_Recuperação, 
+
+Mob: GodGovernment
+
+Mob: Golem_de_Fogo
+Cura_do_Batedor, Colheita_do_Jardineiro, Arco_Élfico, Gram, Arco_Élfico, Gram, Gram, Arco_Élfico, 
+Moeda_de_Prata(1Mi), Mana_do_Batedor, Calça_Dourada(M), Calça_de_Concha(M), Calça_Dourada(M), Calça_de_Concha(M), Mana_do_Batedor, Calça_de_Concha(M), 
+Calça_Dourada(M), Calça_de_Concha(M), Calça_Dourada(M), Resto_de_Oriharucon, Resto_de_Lactolerium, Defesa_contra_Fogo, Cura_do_Batedor, Cura_do_Batedor, 
+Defesa_contra_Fogo, Resto_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Golem_de_Fogo_
+Poeira_de_Lactolerium, Resto_de_Oriharucon, 
+
+Mob: Golem_de_Pedra
+Colheita_do_Jardineiro, Colheita_do_Jardineiro, Colheita_do_Jardineiro, Cura_do_Batedor, Mana_do_Batedor, Mana_do_Batedor, Manoplas_de_Osso(M), Braçadeira_de_Combate(M), 
+Manoplas_de_Osso(M), Braçadeira_de_Combate(M), Resto_de_Oriharucon, Grande_Machado, Mana_do_Batedor, Manoplas_de_Osso(M), Braçadeira_de_Combate(M), Manoplas_de_Osso(M), 
+Braçadeira_de_Combate(M), Resto_de_Lactolerium, Lâmina_Dupla, Cristal_VI, Resto_de_Oriharucon, Resto_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Golem_Inferno
+Resto_de_Oriharucon, Resto_de_Lactolerium, Defesa_contra_Fogo, 
+
+Mob: Grande_Carb
+Resto_de_Lactolerium, Resto_de_Oriharucon, Lágrima_Angelical, Resto_de_Oriharucon, Resto_de_Lactolerium, Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Grande_Lobo
+Botas_da_Destruição, Botas_Flamejantes, Botas_Rake, Botas_Guardiãs, Galho, Cenoura, Freixo_de_Feno, Bola_de_Neve, 
+Chapéu, Pedra_da_Luz, Pedra_da_Luz, Poeira_de_Lactolerium, Classe_E, Classe_E, 
+
+Mob: Gremlin
+Garra, Maça_Pesada, Vela_do_Coveiro, Vela_do_Coveiro, Vela_do_Coveiro, 
+
+Mob: Gremlin_
+Escudo_de_Madeira, Garra, Maça_Pesada, Vela_do_Coveiro, Vela_do_Coveiro, Vela_do_Coveiro, Vela_do_Coveiro, Vela_do_Coveiro, 
+
+Mob: Gremlin_Anct
+Resto_de_Oriharucon, Resto_de_Oriharucon, Resto_de_Oriharucon, Resto_de_Oriharucon, Resto_de_Oriharucon, Resto_de_Oriharucon, 
+
+Mob: Gremlin_Artif
+Chave_da_Primeira_Porta, 
+
+Mob: Grim_Lock
+Gram, Arco_Hidra, Arco_Mythril, Faca_do_Assassino, Cajado_do_Santo, Arco_Hidra, Martelo_Mythril, Varinha_Alada, 
+Faca_do_Assassino, Elmo_Anão(A), Calça_Anã(A), Armadura_Anã(A), Armadura_Dourada(A), Chapéu_da_Natureza(M), Peitoral_da_Natureza(N), Poeira_de_Lactolerium, 
+
+Mob: Grim_Lock_
+
+Mob: Grim_Lock__
+Poeira_de_Lactolerium, Resto_de_Oriharucon, 
+
+Mob: GrubSwarm
+Kit_de_Cura_(5_XG.), Resto_de_Oriharucon, Resto_de_Oriharucon, Resto_de_Oriharucon, Resto_de_Lactolerium, Resto_de_Lactolerium, Presas_de_Behemoth, Presas_de_Behemoth, 
+Presas_de_Behemoth, Presas_de_Behemoth, Poeira_de_Oriharucon, Poeira_de_Lactolerium, Ressurreição, 
+
+Mob: GrubSwarm_
+
+Mob: Guard
+
+Mob: Guarda
+
+Mob: Guarda_Beriel
+Garnet, Elmo_Mortal, Armadura_Mortal, Calça_Mortal, Monaplas_Mortais, Botas_Mortais, Coral, Elmo_do_Corvo, 
+Armadura_do_Corvo, Calça_do_Corvo, Manoplas_do_Corvo, Botas_do_Corvo, Esmeralda, Karikas, Força_Eterna, Cajado_Caótico, 
+Éden, Demolidor_Celestial, Diamante, Classe_E, Demolidor_Celestial, Força_Eterna, Éden, Cajado_Caótico, 
+Pergaminho_Selado, 
+
+Mob: Guarda_Carga
+
+Mob: Guarda_Carga_
+
+Mob: Guarda do Rei
+
+Mob: Guarda_do_Rei_
+
+Mob: Guarda_Helgardh
+
+Mob: Guarda_Orc_
+Bastão_Serpente, Garra_Afiada, Matadora_de_Dragão, Bumerangue_Cortante, Rapier, Arco_de_Batalha, Maça, Bastão_Serpente, 
+Chave_Portão_Orc_Sul, 
+
+Mob: Guarda_Real
+
+Mob: Guarda_Real_
+
+Mob: Guarda_Real_I
+
+Mob: Guarda_Real_II
+
+Mob: Guarda_Real_III
+
+Mob: Guarda_Real_IV
+
+Mob: Guarda_Real_V
+
+Mob: Guarda_Zakum
+Arco_da_Confusão, Cajado_Silencioso, Faca_Quimerica, Lança_Escorpião, Tomahawk, Emblema_da_Fênix_LV1, Resto_de_Oriharucon, 
+
+Mob: Guardiao
+Machado_Duplo, Machado_Duplo, Machado_Duplo, Machado_Duplo, Machado_Duplo, Tridente, Tridente, Espada_Larga, 
+Espada_Larga, Espada_Larga, Tridente, Tridente, Varinha_Falcon, Varinha_Falcon, Varinha_Falcon, Varinha_Falcon, 
+Pedaço_do_Círc_Div_Comp, Pedaço_do_Círc_Div_Comp, Pedaço_do_Círc_Div_Comp, Poeira_de_Oriharucon, 
+
+Mob: Guard_
+
+Mob: Guer._Caveira_
+
+Mob: Guerreiro_Amon
+Calça_Rake, Calça_Flamejante, Calça_da_Destruição, Calça_Guardiã, Calça_de_Teia(A), Calça_Embutida(A), Calça_Elemental(A), Calça_de_Mytril(A), 
+Poeira_de_Lactolerium, 
+
+Mob: Guerreiro Elfo
+Poeira_de_Lactolerium, Poeira_de_Oriharucon, Poeira_de_Oriharucon, Poeira_de_Lactolerium, Poeira_de_Lactolerium, Poeira_de_Oriharucon, Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+Poeira_de_Lactolerium, Poeira_de_Oriharucon, Poeira_de_Oriharucon, Poeira_de_Lactolerium, Poeira_de_Lactolerium, Pedra_de_Adamantita, Pergaminho_Selado, 
+
+Mob: Guer_Amon_Inf
+Âmago_de_Pégasus, Âmago_de_Unicórnio, 
+
+Mob: Guer_Caveira
+Armadura_Leonina(A), Peitoral_de_Bandagem(A), Saia_Vampírica(A), Espada_em_Cruz, Chakram, Saia_Vampírica(A), Aegis, Botas_de_Teia(M), 
+Peitoral_de_Teia(N), Chapéu_de_Teia(M), Elmo_Dourado(A), Calça_Dourada(A), Armadura_Dourada(A), Botas_Conjuradoras(A), Mana_do_Batedor, Cura_do_Batedor, 
+Esmeralda, Armadura_Elemental(N), Elmo_Elemental(M), Pedra_do_Esqueleto, Poeira_de_Oriharucon, 
+
+Mob: Guer_Esqueleto
+
+Mob: Guer_Kalintz
+
+Mob: Hefesto
+Katana, Martelo_de_Pedra, Cajado_Orc, Foice_do_Mago, Arco_de_Caveira, 
+
+Mob: Heimdal
+, , , 
+
+Mob: Heimdall
+
+Mob: Hera
+
+Mob: Hestia
+[S]Caixa_Poção_de_Cura, [S]Caixa_Poção_de_Mana, Gema_Estelar, Recusa_de_Guerra, Pergaminho_de_Portal(10), Pergaminho_do_Teleporte, Pergaminho_Retorno, Pergaminho_Retorno_10x, 
+
+Mob: Hezling
+Peitoral_de_Teia(N), Calça_Elemental(N), Botas_Elementais(M), Armadura_Elemental(N), Botas_Embutidas(M), Calça_Embutida(N), Resto_de_Oriharucon, Resto_de_Oriharucon, 
+Resto_de_Lactolerium, Resto_de_Lactolerium, Martelo_Mythril, Arco_Hidra, Longinius, Faca_Astaroth, Calça_Embutida(N), Botas_Embutidas(M), 
+Armadura_Embutida(N), Calça_de_Mytril(N), Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Hidra
+Armadura_Anã(Le), Elmo_Anão(M), Calça_Anã(M), Manoplas_Anãs(M), Botas_Anãs(M), Cura_do_Batedor, Arco_Hidra, Cura_do_Batedor, 
+Elmo_Anão(N), Manopla_Anã(M), Botas_Conjuradoras(A), Túnica_Conjuradora(M), Botas_Aeon(A), Armadura_Aeon(M), Botas_da_Natureza(A), Peitoral_da_Natureza(M), 
+Armadura_de_Aço(A), Cura_do_Batedor, Cura_do_Batedor, Cura_do_Batedor, Cura_do_Batedor, Calça_De_Combate(A), Elmo_de_Combate(A), Poeira_de_Oriharucon, 
+Poeira_de_Lactolerium, 
+
+Mob: Hidra_
+Resto_de_Oriharucon, Resto_de_Lactolerium, 
+
+Mob: Hidra_Dourada
+Resto_de_Lactolerium, Resto_de_Oriharucon, Olho_de_Sangue, Moeda_de_Prata(1Mi), Moeda_de_Prata(1Mi), Poeira_de_Lactolerium, Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Hidra_Dourada_
+
+Mob: Hidra Imortal
+Elmo_Embutido(M), Chapéu_de_Mytril(M), Elmo_Elemental(M), Chapéu_de_Teia(M), Manoplas_Embutidas(M), Luvas_de_Mytril(M), Manoplas_Elementais(M), Braçadeira_de_Teia(M), 
+Olho_de_Sangue, Olho_de_Sangue, Olho_de_Sangue, Olho_de_Sangue, Olho_de_Sangue, Olho_de_Sangue, Olho_de_Sangue, Olho_de_Sangue, 
+Olho_de_Sangue, Olho_de_Sangue, Olho_de_Sangue, Armadura_Embutida(M), Túnica_de_Mytril(M), Armadura_Elemental(M), Peitoral_de_Teia(M), Calça_Embutida(M), 
+Calça_de_Mytril(M), Calça_Elemental(M), Resto_de_Lactolerium, Armadura_Embutida(M), Túnica_de_Mytril(M), Armadura_Elemental(M), Peitoral_de_Teia(M), Calça_Embutida(M), 
+Calça_Elemental(M), Resto_de_Lactolerium, Resto_de_Lactolerium, Resto_de_Oriharucon, Resto_de_Oriharucon, Olho_de_Sangue, Olho_de_Sangue, Calça_de_Mytril(M), 
+Calça_de_Teia(M), Olho_de_Sangue, Olho_de_Sangue, Olho_de_Sangue, Olho_de_Sangue, Olho_de_Sangue, Olho_de_Sangue, Olho_de_Sangue, 
+, Resto_de_Oriharucon, Moeda_de_Prata(1Mi), Poeira_de_Oriharucon, Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Hier-Carbunkle
+Varinha_Falcon, Espada_em_Cruz, Luvas_de_Águia(M), Elmo_de_Águia(M), Colheita_do_Jardineiro, Colheita_do_Jardineiro, Colheita_do_Jardineiro, Colheita_do_Jardineiro, 
+Colheita_do_Jardineiro, Colheita_do_Jardineiro, Cota_de_Couro_Batido(A), Cota_de_Couro_Batido(A), Saia_Vampírica(A), Túnica_Vampírica(A), Colheita_do_Jardineiro, Peitoral_de_Metal(A), 
+Colheita_do_Jardineiro, Colheita_do_Jardineiro, 
+
+Mob: Hier-Carbunkle_
+Elmo_de_Águia(M), Luvas_de_Águia(M), Espada_em_Cruz, Colheita_do_Jardineiro, Varinha_Falcon, Cota_de_Couro_Batido(A), Cota_de_Couro_Batido(A), Saia_Vampírica(A), 
+Túnica_Vampírica(A), Colheita_do_Jardineiro, Colheita_do_Jardineiro, Colheita_do_Jardineiro, Colheita_do_Jardineiro, Calça_de_Metal(A), Peitoral_de_Metal(A), 
+
+Mob: Homem_Kalintz
+Âmago_de_Andaluz_N, Ovo_de_Andaluz_N, Ovo_de_Andaluz_N, Poeira_de_Lactolerium, 
+
+Mob: Honor_Store
+Retorno_da_Habilidade, Frango_Assado, Bolsa_do_Andarílho, Removedor_de_tintura, 
+
+Mob: HorizonAmald
+Elmo_Embutido(A), Armadura_Embutida(A), Calça_Embutida(A), Manoplas_Embutidas(A), Botas_Embutidas(A), Remédio_da_Coragem, Classe_D, Espada_Vorpal, 
+Cruz_Sagrada, Martelo_Assassino, Mjolnir, Garra_Draconiana, Lança_do_Triunfo, Solaris, Resto_de_Lactolerium, Resto_de_Lactolerium, 
+Resto_de_Oriharucon, 
+
+Mob: HorizonCropper
+Kit_de_Cura_(5_XG.), Resto_de_Lactolerium, Resto_de_Lactolerium, Resto_de_Lactolerium, Resto_de_Oriharucon, Resto_de_Oriharucon, Resto_de_Oriharucon, Chapéu_de_Teia(M), 
+Peitoral_de_Teia(M), Calça_de_Teia(M), Braçadeira_de_Teia(M), Botas_de_Teia(M), Pergaminho_Selado, Poeira_de_Lactolerium, Martelo_Psíquico, Pedra_de_Tectita, 
+Pergaminho_Selado, Resto_de_Lactolerium, Poeira_de_Lactolerium, 
+
+Mob: Horizon_Cropper
+Kit_de_Cura_(5_XG.), Resto_de_Lactolerium, Resto_de_Lactolerium, Resto_de_Lactolerium, Poeira_de_Lactolerium, Pergaminho_Selado, Chapéu_de_Teia(M), Peitoral_de_Teia(M), 
+Calça_de_Teia(M), Braçadeira_de_Teia(M), Botas_de_Teia(M), Poeira_de_Lactolerium, Martelo_Psíquico, Pergaminho_Selado, Pedra_de_Tectita, Pergaminho_Selado, 
+Poeira_de_Oriharucon, Poeira_de_Lactolerium, Pista_da_Runas, 
+
+Mob: Imp_
+Pergaminho_Retorno, 
+
+Mob: Imp_Inferno
+
+Mob: InionTroll
+Escudo_da_Torre, Pedra_Necromântica, Pedra_Necromântica, Pedra_Necromântica, Pingente_de_Athena, Pingente_de_Titã, Pingente_de_Gaia, Pingente_de_Zeus, 
+Pingente_de_Hércules, Pingente_de_Hecate, Resto_de_Lactolerium, 
+
+Mob: InionTrollChief
+Gladio, Maça_Gótica, Arco_Mythril, Lança_Invisível, Lança_da_Corrupção, Cajado_do_Santo, Espada_Larga, Shamir, 
+Pedaço_de_Equilíbrio, Pedaço_de_Equilíbrio, Resto_de_Oriharucon, 
+
+Mob: Irena_
+
+Mob: Jardineiro
+
+Mob: Javali
+
+Mob: Javali_
+
+Mob: Javali__
+
+Mob: Jeffi
+
+Mob: Juli
+
+Mob: Juli_
+
+Mob: KalintzAmald
+Elmo_Legionário, Armadura_Legionária, Calça_Legionária, Manoplas_Legionárias, Botas_Legionárias, Elmo_Templário, Túnica_Templária, Calça_Templária, 
+Classe_E, [S]Caixa_Poção_de_Mana, Poeira_de_Oriharucon, Poeira_de_Lactolerium, Manoplas_Templárias, Botas_Templárias, Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+Ankh_da_Glória, Ankh_da_Justiça, Ankh_da_Eternidade, Classe_E, Pedaço_do_Círc_Div_Comp, 
+
+Mob: KalintzAmald_
+Elmo_Mortal, Armadura_Mortal, Calça_Mortal, Monaplas_Mortais, Botas_Mortais, Elmo_do_Corvo, Armadura_do_Corvo, Calça_do_Corvo, 
+Classe_E, [S]Caixa_Poção_de_Cura, Poeira_de_Oriharucon, Poeira_de_Lactolerium, Manoplas_do_Corvo, Botas_do_Corvo, Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+Escudo_do_Guardião, Ankh_da_Glória, Ankh_da_Justiça, Ankh_da_Eternidade, Classe_E, Pedaço_do_Círc_Div_Comp, 
+
+Mob: Kalitz_Mago
+Poeira_de_Lactolerium, Selo_Mágico, 
+
+Mob: Kalitz_Mago_
+
+Mob: kara_
+
+Mob: Kefra
+
+Mob: Kei
+
+Mob: Kemi
+
+Mob: Kibita
+
+Mob: Kingdom_Broker
+
+Mob: King_Tauron
+
+Mob: Krill
+Vela_do_Coveiro, Vela_do_Coveiro, Vela_do_Coveiro, Vela_do_Coveiro, 
+
+Mob: Krill_
+Vela_do_Coveiro, Vela_do_Coveiro, Vela_do_Coveiro, 
+
+Mob: Krill_Gigante
+Chave_da_Segunda_Porta, 
+
+Mob: Krill_Gigante@
+
+Mob: Ladrao_Fantasma
+
+Mob: Ladrao_Tauron
+Âmago_de_Fenrir, Âmago_de_Fenrir, Âmago_de_Fenrir, Âmago_de_Fenrir, Âmago_de_Fenrir, Âmago_de_Fenrir, Âmago_de_Fenrir, Âmago_de_Fenrir, 
+Ovo_de_Fenrir, 
+
+Mob: Ladrao Tauron 
+
+Mob: Lagarto@@
+Faca_Astaroth, Faca_Astaroth, Braçadeira_de_Combate(M), Braçadeira_de_Combate(A), Braçadeira_de_Combate(M), Brinco_de_Athena, Faca_Astaroth, Faca_Astaroth, 
+Poeira_de_Oriharucon, 
+
+Mob: Lagarto_Inferno
+Defesa_contra_Fogo, Resto_de_Oriharucon, Resto_de_Lactolerium, Classe_D, Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Lainy
+
+Mob: Lanceiro
+
+Mob: Lanceiro_
+
+Mob: Lanceiro_Zakum
+Poeira_de_Oriharucon, Calça_Elemental(N), Elmo_Dourado(A), Calça_Dourada(A), Armadura_Dourada(A), Elmo_de_Aço(A), Calça_De_Combate(M), Braçadeira_de_Combate(A), 
+Emblema_do_Dragão, 
+
+Mob: Lanceiro_Zakum@
+
+Mob: Lanc_Eskel
+
+Mob: Leaky_Zakum
+
+Mob: Leao
+
+Mob: Lich_Batama
+Diamante, Esmeralda, Coral, Garnet, Pedra_de_Adamantita, Resto_de_Oriharucon, Resto_de_Lactolerium, Poeira_de_Lactolerium, 
+Poeira_de_Oriharucon, Resto_de_Lactolerium, Poeira_de_Oriharucon, Poeira_de_Lactolerium, Alma_da_Fênix, Poeira_de_Lactolerium, Força_Espectral, 
+
+Mob: Lich_Crunt
+Garra_Draconiana, Martelo_Assassino, Espada_Vorpal, Cruz_Sagrada, Solaris, Lança_do_Triunfo, Arco_Divino, Diamante, 
+Esmeralda, Coral, Garnet, Escudo_de_Runas, Martelo_Assassino, Espada_Vorpal, Cruz_Sagrada, Solaris, 
+Pedra_de_Adamantita, Poeira_de_Oriharucon, Poeira_de_Lactolerium, Resto_de_Lactolerium, Poeira_de_Oriharucon, Poeira_de_Lactolerium, Resto_de_Lactolerium, Resto_de_Oriharucon, 
+Alma_da_Fênix, Força_Espectral, Concentração, 
+
+Mob: Lich Demo
+Cristal_VI, Cristal_VII, Cristal_I, Cristal_II, Cristal_III, Cristal_IV, Cristal_V, Cristal_VI, 
+Semente_de_Cristal, Cristal_VI, Semente_de_Cristal, Cristal_I, Cristal_II, Cristal_III, Cristal_IV, Cristal_V, 
+Pergaminho_Selado, Pergaminho_Selado, Pedra_da_Luz, Pedra_de_Adamantita, Força_Espectral, 
+
+Mob: Lich_Infernal
+Garra_Draconiana, Martelo_Assassino, Espada_Vorpal, Cruz_Sagrada, Solaris, Lança_do_Triunfo, Arco_Divino, Diamante, 
+Esmeralda, Coral, Garnet, Escudo_de_Runas, Garra_Draconiana, Martelo_Assassino, Espada_Vorpal, Cruz_Sagrada, 
+Solaris, Lança_do_Triunfo, Arco_Divino, Pedra_de_Adamantita, Concentração, Força_Espectral, 
+
+Mob: Lich_Infernal_
+
+Mob: Lich_Inferno
+
+Mob: Lider_Aprendiz
+
+Mob: LiggleSwarm
+Kit_de_Mana_(5_XG.), Resto_de_Oriharucon, Resto_de_Lactolerium, Poeira_de_Oriharucon, Poeira_de_Lactolerium, Resto_de_Lactolerium, Aegis, Poeira_de_Oriharucon, 
+Poeira_de_Lactolerium, Ressurreição, 
+
+Mob: Lindy
+
+Mob: Lizard
+Kit_de_Cura_(10_M.), Kit_de_Mana_(10_M.), Pergaminho_Retorno, Pergaminho_do_Teleporte, Vela_do_Coveiro, Vela_do_Coveiro, Vela_do_Coveiro, Pergaminho_Retorno, 
+Pergaminho_do_Teleporte, Vela_do_Coveiro, 
+
+Mob: Lobo
+Botas_de_Couro_Duro(A), Robe_de_Seda(A), Botas_de_Seda(A), Luvas_Lupinas(A), Botas_Lupinas(A), Calça_de_Ferro(A), Âmago_de_Lobo, Lança_do_Vento, 
+Rapier, Stiletto, Vela_do_Coveiro, Matadora_de_Dragão, 
+
+Mob: Lobo@@
+Faca_do_Assassino, Faca_do_Assassino, Luvas_de_Concha(M), Luvas_de_Concha(M), Luvas_de_Concha(A), Brinco_de_Athena, Faca_do_Assassino, Faca_do_Assassino, 
+Poeira_de_Oriharucon, 
+
+Mob: LoboAmald
+Elmo_do_Corvo, Armadura_do_Corvo, Calça_do_Corvo, Manoplas_do_Corvo, Botas_do_Corvo, Elmo_Templário, Túnica_Templária, Calça_Templária, 
+Classe_E, Resto_de_Lactolerium, [S]Caixa_Poção_de_Mana, Poeira_de_Oriharucon, Poeira_de_Lactolerium, Manoplas_Templárias, Botas_Templárias, Poeira_de_Oriharucon, 
+Poeira_de_Lactolerium, Escudo_do_Guardião, Ankh_da_Glória, Ankh_da_Justiça, Ankh_da_Eternidade, Classe_E, Pedaço_do_Círc_Div_Comp, 
+
+Mob: Lobo_Amald
+
+Mob: Lobo_Polar
+Armadura_da_Destruição, Armadura_Flamejante, Armadura_Rake, Túnica_Guardiã, Pedra_da_Luz, Bola_de_Neve, Galho, Freixo_de_Feno, 
+Chapéu, Cenoura, Classe_E, Pedra_da_Luz, Ovo_de_Cavalo_Equip_N, Resto_de_Lactolerium, Classe_E, Poeira_de_Oriharucon, 
+Poeira_de_Lactolerium, 
+
+Mob: Lobo_Polar_
+
+Mob: Loki
+
+Mob: Lord_Trooper@@
+Olho_do_Carbunkle, Presas_de_Behemoth, Gungnir, Lâmina_Espiritual, Gladio, Arco_Mythril, Aegis, Olho_do_Carbunkle, 
+Presas_de_Behemoth, Gungnir, Lâmina_Espiritual, Colheita_do_Jardineiro, Colheita_do_Jardineiro, Colheita_do_Jardineiro, Lâmina_Espiritual, Cura_do_Batedor, 
+
+Mob: Lubien
+Peitoral_de_Metal(N), Calça_de_Metal(N), Braçadeira_de_Metal(N), Botas_de_Metal(N), Classe_B, Peitoral_de_Metal(M), Calça_de_Metal(M), Braçadeira_de_Metal(M), 
+Botas_de_Metal(M), Peitoral_de_Metal(A), Calça_de_Metal(A), Braçadeira_de_Metal(A), Botas_de_Metal(A), 
+
+Mob: Lucy
+Classe_A, Classe_B, Classe_C, Pergaminho_Retorno_10x, Gema_de_Diamante, Gema_de_Esmeralda, Gema_de_Coral, Gema_de_Garnet, 
+
+Mob: Lugefer
+Fragmento_Da_Alma, Fragmento_Da_Alma, Alma_do_Unicórnio, Alma_da_Fênix, Poeira_de_Lactolerium, 
+
+Mob: Lugefer_
+
+Mob: Lugefer Inf
+Resto_de_Oriharucon, Resto_de_Oriharucon, Resto_de_Oriharucon, Resto_de_Lactolerium, Pedra_de_Adamantita, Pergaminho_Selado, Concentração, 
+
+Mob: Lugefer_Inf_
+Poeira_de_Oriharucon, Poeira_de_Oriharucon, Poeira_de_Oriharucon, Poeira_de_Oriharucon, Pedra_de_Adamantita, Pergaminho_Selado, Concentração, 
+
+Mob: Lugefer_Maligno
+Poeira_de_Lactolerium, 
+
+Mob: Lugefer__
+Âmago_de_Unicórnio, Força_Espectral, 
+
+Mob: M._de_Montaria
+
+Mob: MagoEsqueleto
+
+Mob: Mago_Amald
+Chapéu_Conjurador(Le), Túnica_Conjuradora(Le), Calça_Conjuradora(Le), Luvas_Conjuradoras(Le), Botas_Conjuradoras(Le), Cajado_de_Âmbar, Fúria_Divina, Chapéu_de_Mytril(Le), 
+Túnica_de_Mytril(Le), Calça_de_Mytril(Le), Luvas_de_Mytril(Le), Botas_de_Mytril(Le), Chapéu_Conjurador(Le), Túnica_Conjuradora(Le), Calça_Conjuradora(Le), Luvas_Conjuradoras(Le), 
+Botas_Conjuradoras(Le), Chapéu_de_Mytril(Le), Luvas_de_Mytril(Le), Chapéu_de_Mytril(Le), Túnica_de_Mytril(Le), Calça_de_Mytril(Le), Luvas_de_Mytril(Le), Botas_de_Mytril(Le), 
+Botas_de_Mytril(Le), Túnica_de_Mytril(Le), Calça_de_Mytril(Le), Cajado_de_Âmbar, Fúria_Divina, Classe_E, Força_Espectral, 
+
+Mob: Mago_Ciclope
+Resto_de_Oriharucon, Resto_de_Oriharucon, Resto_de_Oriharucon, Resto_de_Lactolerium, Resto_de_Lactolerium, Resto_de_Lactolerium, Resto_de_Lactolerium, Moeda_de_Prata(1Mi), 
+Moeda_de_Prata(1Mi), Resto_de_Lactolerium, Resto_de_Lactolerium, Resto_de_Lactolerium, Resto_de_Lactolerium, Resto_de_Lactolerium, Resto_de_Lactolerium, Resto_de_Lactolerium, 
+Resto_de_Lactolerium, Resto_de_Lactolerium, Resto_de_Lactolerium, Resto_de_Lactolerium, Resto_de_Lactolerium, Resto_de_Lactolerium, Resto_de_Lactolerium, Resto_de_Lactolerium, 
+Resto_de_Lactolerium, Resto_de_Lactolerium, Resto_de_Lactolerium, 
+
+Mob: Mago_Inf
+Resto_de_Oriharucon, Resto_de_Lactolerium, Resto_de_Oriharucon, Resto_de_Lactolerium, Pedra_de_Adamantita, Pergaminho_Selado, 
+
+Mob: Manticora
+Pedra_do_Lorde_Orc, Pedra_do_Esqueleto, Pedra_de_Dragão_Lich, Pedra_do_Demonlord, Pedra_de_Mantícora, Pedra_de_Gárgula_de_Fogo, Pedra_do_Lugefer, Pedra_do_Rei_Demonlord, 
+Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Manticora@
+
+Mob: Manticora_
+
+Mob: Martin
+[S]Caixa_Poção_de_Cura, [S]Caixa_Poção_de_Mana, Ervas_de_Cura, 
+
+Mob: Martin_
+[S]Caixa_Poção_de_Cura, [S]Caixa_Poção_de_Mana, Escritura_de_Oriharucon, Escritura_de_Lactolerium, Pergaminho_de_Portal(10), Gema_Estelar, Pergaminho_Retorno_10x, Pedido_de_Caça(Armia), 
+Pedido_de_Caça(Dung), Pedido_de_Caça(SubM), Pedido_de_Caça(Kult), Pedido_de_Caça(Kefra), Pedido_de_Caça(Nipple), 
+
+Mob: Meio_Orc
+Luvas_Vampíricas(A), Botas_Vampíricas(A), Botas_de_Couro_Batido(A), Calça_de_Bandagem(A), Botas_de_Bandagem(A), Bastão_Serpente, Lança_do_Vento, Bumerang_Cortante, 
+Arco_Veloz, Amuleto_de_Prata, Elmo_Leonino(A), Resto_de_Oriharucon, Resto_de_Oriharucon, Vela_do_Coveiro, Resto_de_Oriharucon, Poeira_de_Oriharucon, 
+Poeira_de_Oriharucon, 
+
+Mob: Meio_Orc@
+
+Mob: Meio_Orc@@
+Poeira_de_Oriharucon, 
+
+Mob: Meio_Orc_
+Luvas_Vampíricas(A), Botas_Vampíricas(A), Botas_de_Couro_Batido(A), Calça_de_Bandagem(A), Botas_de_Bandagem(A), Elmo_Leonino(A), Bastão_Serpente, Lança_do_Vento, 
+Bumerang_Cortante, Arco_Veloz, Amuleto_de_Prata, Vela_do_Coveiro, Vela_do_Coveiro, Vela_do_Coveiro, Poeira_de_Oriharucon, 
+
+Mob: Meio_Orc__
+Resto_de_Oriharucon, Resto_de_Lactolerium, 
+
+Mob: Meio_Orc___
+
+Mob: Merc_Carbunkle
+Cristal_I, Kit_de_Cura_(10_M.), Cristal_VII, Cristal_VI, Kit_de_Mana_(5_XG.), Cristal_IV, Kit_de_Cura_(5_XG.), Cristal_V, 
+Cristal_II, Kit_de_Mana_(10_M.), Cristal_III, 
+
+Mob: Merc_Zakum
+Cristal_III, Kit_de_Mana_(10_M.), Kit_de_Cura_(10_M.), Cristal_VI, Cristal_I, Cristal_V, Kit_de_Cura_(5_XG.), Cristal_II, 
+Cristal_IV, Cristal_VII, 
+
+Mob: Mestre_ABJ
+Poeira_de_Oriharucon, 
+
+Mob: Mestre_Archi
+Fera_Flamejante, Chamas_Etéreas, Som_das_Fadas, Enfraquecer, Fúria_de_Gaia, Proteção_Elemental, Força_Elemental, Espirito_Vingador, 
+Evocar_Condor, Evocar_Javali_Selvagem, Evocar_Lobo_Selvagem, Evocar_Urso_Selvagem, Evocar_Grande_Tigre, Evocar_Gorila_Gigante, Evocar_Dragão_Negro, Evocar_Succubus, 
+Lobisomem, Armadura_Elemental, Homem_Urso, Escudo_do_Tormento, Astaroth, Metamorfose_Superior, Titã, Éden, 
+
+Mob: Mestre_Elfo
+Pedra_Espiritual_dos_Elfos, Resto_de_Lactolerium, Moeda_de_Prata(1Mi), Moeda_de_Prata(5Mi), Poeira_de_Lactolerium, Poeira_de_Oriharucon, 
+
+Mob: Mestre_Haby
+
+Mob: Minotaur
+Faca_Quimerica, Cimitarra, Garra_da_Escuridão, Espada_Curta, Elmo_de_Malha(M), Botas_de_Malha(M), Calça_Sombria(M), Bumerang_Cortante, 
+Colheita_do_Jardineiro, Colheita_do_Jardineiro, Calça_de_Metal(M), Maça, Bastão_Serpente, Botas_de_Couro_Batido(M), Elmo_de_Couro_Batido(M), Luvas_Vampíricas(M), 
+Botas_Vampíricas(M), Botas_de_Metal(M), Peitoral_de_Metal(N), Colheita_do_Jardineiro, 
+
+Mob: Minotauro@
+Pedra_de_Beril, 
+
+Mob: Minotauro@@
+Martelo_Psíquico, Martelo_Psíquico, Calça_de_Osso(M), Calça_de_Osso(M), Calça_de_Osso(A), Brinco_de_Hercules, Martelo_Psíquico, Martelo_Psíquico, 
+Cristal_VI, Poeira_de_Oriharucon, 
+
+Mob: Minotauro 
+Garnet, Coral, Esmeralda, 
+
+Mob: Minotaur_
+Faca_Quimerica, Cimitarra, Garra_da_Escuridão, Espada_Curta, Elmo_de_Malha(M), Botas_de_Malha(M), Calça_Sombria(M), Bumerang_Cortante, 
+Colheita_do_Jardineiro, Colheita_do_Jardineiro, Colheita_do_Jardineiro, Maça, Bastão_Serpente, Botas_de_Couro_Batido(M), Elmo_de_Couro_Batido(M), Luvas_Vampíricas(M), 
+Botas_Vampíricas(M), Botas_de_Metal(M), Peitoral_de_Metal(N), 
+
+Mob: Montarias
+Porco, Javali, Lobo, Dragão_Menor, Dente_de_Sabre, Cavalo_s/Sela_N, Cavalo_Fantasm_N, Cavalo_Leve_N, 
+Cavalo_Equip_N, Andaluz_N, Fenrir, Cavalo_Fantasm_B, Cavalo_Leve_B, Cavalo_Equip_B, Andaluz_B, Dragão_Vermelho, 
+Tigre_de_Fogo, Ração_de_Dragão_Verm, Ração_de_Tigre_de_Fogo, 
+
+Mob: Morlock
+Resto_de_Oriharucon, Resto_de_Lactolerium, Resto_de_Oriharucon, Resto_de_Lactolerium, Diamante, Esmeralda, Garnet, Coral, 
+Medalha_Dourada, Classe_D, Pedra_do_Sábio, Pedra_do_Sábio, Martelo_Assassino, Garra_Draconiana, Arco_Divino, Lança_do_Triunfo, 
+Fúria_Divina, Solaris, Mjolnir, Gema_da_Siren, Pedra_do_Sábio, Pedra_do_Sábio, Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Morlock@
+
+Mob: MorlockAmald
+Chapéu_de_Mytril(A), Túnica_de_Mytril(A), Calça_de_Mytril(A), Luvas_de_Mytril(A), Botas_de_Mytril(A), Classe_D, Fúria_Divina, Cajado_de_Âmbar, 
+Arco_Divino, Espada_Vorpal, Martelo_Assassino, 
+
+Mob: Morlock_
+
+Mob: Morlock_Amald
+Poeira_de_Lactolerium, 
+
+Mob: Morlock__
+
+Mob: Morlock___
+
+Mob: Mulher_Kalintz
+Âmago_de_Andaluz_B, Âmago_de_Andaluz_B, Ovo_de_Andaluz_B, Ovo_de_Andaluz_B, Poeira_de_Lactolerium, 
+
+Mob: NainTroll
+Escudo_do_Cavaleiro, Amuleto_de_Prata, Amuleto_de_Prata, Amuleto_de_Prata, Amuleto_de_Prata, Anel_de_Hercules, Anel_de_Athena, Anel_de_Titã, 
+Anel_de_Zeus, Anel_de_Gaia, Rubi_do_Carbunkle, Rubi_do_Carbunkle, Rubi_do_Carbunkle, Rubi_do_Carbunkle, Rubi_do_Carbunkle, Rubi_do_Carbunkle, 
+Resto_de_Lactolerium, 
+
+Mob: NainTrollChief
+Cimitarra, Kraika, Arco_da_Confusão, Faca_Quimerica, Lança_Escorpião, Cajado_Silencioso, Espada_Longa, Tomahawk, 
+Pedaço_de_Chance, Pedaço_de_Chance, Resto_de_Oriharucon, 
+
+Mob: Naomi
+
+Mob: Neptus
+Robe_Sombrio(N), Calça_Sombria(N), Luvas_Sombrias(N), Botas_Sombrias(N), Classe_B, Robe_Sombrio(M), Calça_Sombria(M), Luvas_Sombrias(M), 
+Botas_Sombrias(M), Robe_Sombrio(A), Calça_Sombria(A), Luvas_Sombrias(A), Botas_Sombrias(A), 
+
+Mob: Odin
+
+Mob: Orc_Arqueiro
+Tomahawk, Cajado_Silencioso, Tridente, Cota_de_Couro_Batido(A), Túnica_Vampírica(A), Chapéu_de_Bandagem(A), Calça_Leonina(A), Amuleto_de_Prata, 
+Arco_de_Batalha, Vela_do_Coveiro, 
+
+Mob: Orc_Arqueiro@@
+Arco_Mythril, Arco_Mythril, Botas_Douradas(M), Botas_Douradas(M), Botas_Douradas(A), Brinco_de_Athena, Arco_Mythril, Arco_Mythril, 
+Poeira_de_Oriharucon, 
+
+Mob: Orc_Arqueiro_
+Tomahawk, Cajado_Silencioso, Tridente, Cota_de_Couro_Batido(A), Túnica_Vampírica(A), Chapéu_de_Bandagem(A), Calça_Leonina(A), Amuleto_de_Prata, 
+Arco_de_Batalha, 
+
+Mob: Orc_Cavaleiro
+Machado_Duplo, Pochard, Luvas_de_Couro_Batido(A), Saia_Vampírica(A), Peitoral_de_Bandagem(A), Armadura_Leonina(A), Espada_em_Cruz, Chakram, 
+Botas_Leoninas(A), Amuleto_de_Prata, Varinha_Falcon, Vela_do_Coveiro, Botas_Acolchoadas(N), Manoplas_Acolchoadas(N), Vela_do_Coveiro, 
+
+Mob: Orc_Cavaleiro_
+Machado_Duplo, Pochard, Luvas_de_Couro_Batido(A), Saia_Vampírica(A), Peitoral_de_Bandagem(A), Armadura_Leonina(A), Espada_em_Cruz, Chakram, 
+Botas_Leoninas(A), Amuleto_de_Prata, Varinha_Falcon, Vela_do_Coveiro, 
+
+Mob: Orc_Forte
+
+Mob: Orc_Guard_
+Garra_de_Ferro, Lança_do_Vento, Dardo_Místico, Martelo, Rapier, Arco_de_Batalha, Matadora_de_Dragão, Bumerangue_Cortante, 
+Maça, Bastão_Serpente, Garra_Afiada, Matadora_de_Dragão, Última_Chave_Orc, 
+
+Mob: Orc_Guerreiro
+Emblema_Orc, 
+
+Mob: Orc_Guerreiro_
+Cota_de_Couro_Batido(N), Túnica_Vampírica(N), Cota_de_Couro_Batido(M), Chapéu_Vampírico(M), Elmo_de_Couro_Batido(M), Saia_Vampírica(M), Matadora_de_Dragão, Maça, 
+Bumerangue_Cortante, Escudo_de_Cavalaria, Chave_Portão_Orc_Leste, 
+
+Mob: Orc_Lord
+Anel_de_Hercules, Anel_de_Athena, Anel_de_Titã, Anel_de_Gaia, Anel_de_Zeus, Anel_de_Hecate, Rubi_do_Carbunkle, Rubi_do_Carbunkle, 
+Rubi_do_Carbunkle, Rubi_do_Carbunkle, Pilula_do_Poder_Mágico, Chave_Portão_Orc_Leste, 
+
+Mob: Orc_L_Trooper
+Resto_de_Lactolerium, Resto_de_Lactolerium, Resto_de_Oriharucon, Manopla_Anã(A), Botas_Anã(A), Elmo_Anão(A), Manoplas_Aeon(A), Botas_Aeon(A), 
+Elmo_Aeon(A), Luvas_da_Natureza(A), Botas_da_Natureza(A), Chapéu_da_Natureza(A), Luvas_de_Mytril(A), Botas_de_Mytril(A), Chapéu_de_Mytril(A), Pedra_do_Lorde_Orc, 
+
+Mob: Orc_Mago
+
+Mob: Orc_Medico
+Espada_em_Cruz, Arco_Veloz, Machado_Duplo, Varinha_Falcon, Cajado_Orc, Manoplas_Aeon(M), Botas_de_Combate(M), Colheita_do_Jardineiro, 
+Braçadeira_de_Combate(M), Colheita_do_Jardineiro, Amuleto_de_Prata, Brinco_de_Athena, Defesa_contra_Fogo, Machado_de_Batalha, Botas_Douradas(M), Calça_Dourada(N), 
+Calça_de_Aço(N), Botas_de_Aço(M), Botas_de_Combate(N), Braçadeira_de_Combate(N), 
+
+Mob: Orc_Medico_
+Espada_em_Cruz, Arco_Veloz, Machado_Duplo, Varinha_Falcon, Cajado_Orc, Manoplas_Aeon(M), Braçadeira_de_Combate(M), Botas_de_Combate(M), 
+Colheita_do_Jardineiro, Resto_de_Oriharucon, Amuleto_de_Prata, Brinco_de_Athena, Defesa_contra_Fogo, Machado_de_Batalha, Botas_Douradas(M), Calça_Dourada(N), 
+Calça_de_Aço(N), Botas_de_Aço(M), Botas_de_Combate(N), Braçadeira_de_Combate(N), Emblema_do_Dragão, 
+
+Mob: Orc_Selvagem
+
+Mob: Orc_Shama@@
+Botas_Embutidas(M), Botas_de_Mytril(M), Botas_Elementais(M), Botas_de_Teia(M), Arco_Élfico, Brinco_de_Hercules, Arco_Élfico, Arco_Élfico, 
+Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Orc_Shaman
+Cajado_do_Santo, Cajado_Mortal, Elmo_de_Aço(M), Luvas_de_Concha(M), Manoplas_de_Osso(M), Calça_de_Osso(A), Armadura_de_Osso(A), Calça_De_Combate(A), 
+Colheita_do_Jardineiro, Colheita_do_Jardineiro, Colheita_do_Jardineiro, Colheita_do_Jardineiro, Espada_Bastarda, Escudo_de_Bronze, Resto_de_Lactolerium, Arco_Veloz, 
+Kraika, Cimitarra, Cajado_Silencioso, Lança_Escorpião, Calça_de_Malha(A), Armadura_de_Malha(A), Manoplas_de_Malha(N), Botas_de_Malha(N), 
+Luvas_Sombrias(N), Peitoral_de_Metal(A), 
+
+Mob: Orc_Shaman_
+Espada_Bastarda, Cajado_Mortal, Elmo_de_Aço(M), Luvas_de_Concha(M), Manoplas_de_Osso(M), Calça_de_Osso(A), Armadura_de_Osso(A), Calça_De_Combate(A), 
+Colheita_do_Jardineiro, Colheita_do_Jardineiro, Colheita_do_Jardineiro, Colheita_do_Jardineiro, Cajado_do_Santo, Escudo_de_Bronze, Resto_de_Oriharucon, Arco_Veloz, 
+Kraika, Cimitarra, Cajado_Silencioso, Lança_Escorpião, Calça_de_Malha(A), Armadura_de_Malha(A), Manoplas_de_Malha(N), Botas_de_Malha(N), 
+Luvas_Sombrias(N), Peitoral_de_Metal(A), 
+
+Mob: Orc_Sha_Trooper
+Martelo_Dragão, Aegis, Manopla_Anã(A), Botas_Anã(A), Calça_Anã(M), Armadura_Anã(M), 
+
+Mob: Orc_Sniper
+Chave_da_Ultima_Porta, 
+
+Mob: Orc_Sniper_
+
+Mob: Orc_Wild
+
+Mob: Parche
+[S]Caixa_Poção_de_Cura, [S]Caixa_Poção_de_Mana, Kit_de_Cura_(10_M.), Kit_de_Mana_(10_M.), Pergaminho_Retorno, Pergaminho_Retorno_10x, Classe_B, Selo_do_Guerreiro, 
+Pedido_de_Caça(Armia), Pedido_de_Caça(Dung), Pedido_de_Caça(SubM), Pedido_de_Caça(Kult), Pedido_de_Caça(Kefra), Pedido_de_Caça(Nipple), 
+
+Mob: Patrulha
+
+Mob: Patrulha_
+
+Mob: Patrulha__
+
+Mob: PerBerserker_
+, , , , , Poeira_de_Lactolerium, Poeira_de_Lactolerium, Poeira_de_Lactolerium, 
+Pacote_Safiras(10), Pacote_Safiras(10), Âmago_de_Unicórnio, Âmago_de_Unicórnio, Poeira_de_Lactolerium, Âmago_de_Unicórnio, Pacote_Safiras(10), Moeda_de_Prata(5Mi), 
+, , Poeira_de_Oriharucon, , Poeira_de_Oriharucon, 
+
+Mob: PerValkyrie
+Elmo_Legionário, Armadura_Legionária, Calça_Legionária, Botas_Legionárias, Manoplas_Legionárias, Poeira_de_Oriharucon, Poeira_de_Oriharucon, Pedra_Espiritual, 
+
+Mob: PerValkyrie 
+, , , , , Poeira_de_Lactolerium, Poeira_de_Lactolerium, Poeira_de_Lactolerium, 
+Pacote_Safiras(10), Pacote_Safiras(10), Âmago_de_Pégasus, Âmago_de_Pégasus, Poeira_de_Lactolerium, Âmago_de_Pégasus, Pacote_Safiras(10), Moeda_de_Prata(5Mi), 
+Poeira_de_Oriharucon, , Poeira_de_Oriharucon, 
+
+Mob: Perzen
+Esfera_da_Sorte, Gullfaxi(30dias), 
+
+Mob: Perzen_Arcano
+Esfera_da_Sorte(A), Thoroughbred(30dias), 
+
+Mob: Perzen_Mistico
+Esfera_da_Sorte(M), Klazedale(15dias), 
+
+Mob: Perzen_Normal
+Esfera_da_Sorte(N), Shire(30dias), 
+
+Mob: Porco
+Vela_do_Coveiro, Vela_do_Coveiro, 
+
+Mob: Porco_
+
+Mob: PreKalintz_H_
+, , , , , Poeira_de_Lactolerium, Poeira_de_Lactolerium, Poeira_de_Lactolerium, 
+Pacote_Safiras(10), Pacote_Safiras(10), Âmago_de_Unisus, Âmago_de_Unisus, Poeira_de_Lactolerium, Âmago_de_Unisus, Pacote_Safiras(10), Moeda_de_Prata(5Mi), 
+, , Poeira_de_Oriharucon, , Poeira_de_Oriharucon, 
+
+Mob: PreKalintz_M
+, , , , , Poeira_de_Lactolerium, Poeira_de_Lactolerium, Poeira_de_Lactolerium, 
+Pacote_Safiras(10), Pacote_Safiras(10), Âmago_de_Unisus, Âmago_de_Unisus, Poeira_de_Lactolerium, Âmago_de_Unisus, Pacote_Safiras(10), Moeda_de_Prata(5Mi), 
+, , Poeira_de_Oriharucon, , 
+
+Mob: Premium_Neil
+
+Mob: Premium_Traje
+
+Mob: Prona
+
+Mob: Rainy
+Peitoral_de_Ferro(N), Calça_de_Ferro(N), Braçadeira_de_Ferro(N), Botas_de_Ferro(N), Classe_A, Peitoral_de_Ferro(M), Calça_de_Ferro(M), Braçadeira_de_Ferro(M), 
+Botas_de_Ferro(M), Peitoral_de_Ferro(A), Calça_de_Ferro(A), Braçadeira_de_Ferro(A), Botas_de_Ferro(A), 
+
+Mob: Rainy_
+Peitoral_de_Combate(N), Calça_De_Combate(N), Braçadeira_de_Combate(N), Botas_de_Combate(N), Peitoral_de_Combate(M), Calça_De_Combate(M), Braçadeira_de_Combate(M), Botas_de_Combate(M), 
+Peitoral_de_Combate(A), Calça_De_Combate(A), Braçadeira_de_Combate(A), Botas_de_Combate(A), 
+
+Mob: Ranger_Amald
+Chapéu_da_Natureza(Le), Peitoral_da_Natureza(Le), Calça_da_Natureza(Le), Luvas_da_Natureza(Le), Botas_da_Natureza(Le), Arco_Divino, Garra_Draconiana, Chapéu_de_Teia(Le), 
+Peitoral_de_Teia(Le), Calça_de_Teia(Le), Braçadeira_de_Teia(Le), Botas_de_Teia(Le), Chapéu_da_Natureza(Le), Peitoral_da_Natureza(Le), Calça_da_Natureza(Le), Luvas_da_Natureza(Le), 
+Botas_da_Natureza(Le), Chapéu_de_Teia(Le), Peitoral_de_Teia(Le), Chapéu_de_Teia(Le), Peitoral_de_Teia(Le), Calça_de_Teia(Le), Braçadeira_de_Teia(Le), Botas_de_Teia(Le), 
+Botas_de_Teia(Le), Braçadeira_de_Teia(Le), Calça_de_Teia(Le), Arco_Divino, Garra_Draconiana, Classe_E, 
+
+Mob: Ranger_Inf
+Resto_de_Oriharucon, Pedra_de_Adamantita, Pergaminho_Selado, 
+
+Mob: Rapein
+Robe_de_Seda(N), Saia_de_Seda(N), Luvas_de_Seda(N), Botas_de_Seda(N), Classe_A, Robe_de_Seda(M), Saia_de_Seda(M), Luvas_de_Seda(M), 
+Botas_de_Seda(M), Robe_de_Seda(A), Saia_de_Seda(A), Luvas_de_Seda(A), Botas_de_Seda(A), 
+
+Mob: Rapein_
+Túnica_de_Concha(N), Calça_de_Concha(N), Luvas_de_Concha(N), Botas_de_Concha(N), Túnica_de_Concha(M), Calça_de_Concha(M), Luvas_de_Concha(M), Botas_de_Concha(M), 
+Túnica_de_Concha(A), Calça_de_Concha(A), Luvas_de_Concha(A), Botas_de_Concha(A), 
+
+Mob: Redmiron
+[S]Caixa_Poção_de_Cura, [S]Caixa_Poção_de_Mana, Pergaminho_Retorno, Pergaminho_Retorno_10x, Pergaminho_do_Teleporte, Pergaminho_de_Portal(10), Gema_Estelar, Safira, 
+Pacote_Safiras(10), 
+
+Mob: RedOracle
+
+Mob: Reimers
+Armadura_de_Águia(N), Calça_de_Águia(N), Luvas_de_Águia(N), Botas_de_Águia(N), Armadura_de_Águia(M), Calça_de_Águia(M), Luvas_de_Águia(M), Botas_de_Águia(M), 
+Armadura_de_Águia(A), Calça_de_Águia(A), Luvas_de_Águia(A), Botas_de_Águia(A), 
+
+Mob: reiners
+Garra_de_Ferro, Dardo_Místico, Stiletto, Maça_Pesada, Arco_Longo, Broquel_de_Guerra, Garra_Afiada, Bumerangue_Cortante, 
+Rapier, Maça, Arco_de_Batalha, Escudo_de_Cavalaria, Lança_do_Vento, Cajado_Cortante, Matadora_de_Dragão, Bastão_Serpente, 
+
+Mob: Rei_Carbuncle
+Muro_de_Espinhos, Ressurreição, Pergaminho_Selado, Pergaminho_Selado, Pergaminho_Selado, Âmago_de_Grifo, Tiwaz, Concentração, 
+Força_Espectral, 
+
+Mob: Rei_Glantuar
+Símbolo_de_Coragem, 
+
+Mob: Rei_Gremlin
+Vela_do_Coveiro, Vela_do_Coveiro, Vela_do_Coveiro, Vela_do_Coveiro, 
+
+Mob: Rei_Gremlin@
+
+Mob: Rei_Gremlin@@
+Martelo_Mythril, Martelo_Mythril, Manoplas_Douradas(M), Manoplas_Douradas(A), Manoplas_Douradas(M), Brinco_de_Athena, Martelo_Mythril, Martelo_Mythril, 
+Poeira_de_Oriharucon, 
+
+Mob: Rei_Gremlin_
+
+Mob: Rei_Harabard
+Símbolo_de_Coragem, 
+
+Mob: Rei_Taurus
+Gladio, Lâmina_Dupla, Martelo_de_Pedra, Armadura_de_Aço(M), Calça_de_Concha(M), Calça_de_Osso(M), Botas_de_Osso(M), Colheita_do_Jardineiro, 
+Colheita_do_Jardineiro, Colheita_do_Jardineiro, Colheita_do_Jardineiro, Faca_Quimerica, Lança_Escorpião, Tomahawk, Escudo_da_Torre, Manoplas_de_Aço(A), 
+Armadura_de_Aço(N), Elmo_de_Aço(M), Elmo_de_Malha(M), Peitoral_da_Natureza(N), Chapéu_da_Natureza(M), 
+
+Mob: Rei_Taurus_
+Gladio, Lâmina_Dupla, Martelo_de_Pedra, Armadura_de_Aço(M), Calça_de_Concha(M), Calça_de_Osso(M), Botas_de_Osso(M), Faca_Quimerica, 
+Lança_Escorpião, Tomahawk, Escudo_da_Torre, Manoplas_de_Aço(A), Armadura_de_Aço(N), Elmo_de_Aço(M), Elmo_de_Malha(M), Peitoral_da_Natureza(N), 
+Chapéu_da_Natureza(M), Emblema_do_Dragão, 
+
+Mob: Rei_Taurus__
+Resto_de_Oriharucon, Resto_de_Lactolerium, 
+
+Mob: RoPerion
+
+Mob: Rophelion
+Armadura_de_Malha(N), Calça_de_Malha(N), Manoplas_de_Malha(N), Botas_de_Malha(N), Classe_B, Armadura_de_Malha(M), Calça_de_Malha(M), Manoplas_de_Malha(M), 
+Botas_de_Malha(M), Armadura_de_Malha(A), Calça_de_Malha(A), Manoplas_de_Malha(A), Botas_de_Malha(A), 
+
+Mob: Rubyen
+
+Mob: Runas_Joias
+Jóia_da_Sagacidade, Jóia_da_Resistência, Jóia_da_Revelação, Jóia_da_Recuperação, Jóia_da_Absorção, Jóia_da_Proteção, Jóia_do_Poder, Jóia_da_Armazenagem, 
+Jóia_da_Precisão, Jóia_da_Magia, Sowilo, Kenaz, Uraz, Thurisaz, Isa, Tiwaz, 
+Hagalaz, Ansuz, Fehu, Mannaz, Raidho, Pedra_da_Fúria, Selo_Mágico, 
+
+Mob: Ruti
+[S]Caixa_Poção_de_Cura, [S]Caixa_Poção_de_Mana, Kit_de_Cura_(10_M.), Kit_de_Mana_(10_M.), Gema_Estelar, Pergaminho_Retorno_10x, Pergaminho_de_Portal(10), 
+
+Mob: SacerdoteArmeli
+
+Mob: SacerdoteJester
+
+Mob: Sacerdote_Kruno
+
+Mob: Seguidor
+Pedaço_do_Círculo_Divino, 
+
+Mob: Seguidor_Arvak
+Resto_de_Oriharucon, Resto_de_Oriharucon, Resto_de_Lactolerium, Resto_de_Lactolerium, Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Seguidor_Treant
+Chapéu_de_Mytril(A), Túnica_de_Mytril(A), Calça_de_Mytril(A), Elmo_Embutido(A), Armadura_Embutida(A), Calça_Embutida(A), Manoplas_Embutidas(A), Botas_Embutidas(A), 
+Botas_de_Teia(A), Elmo_Elemental(A), Armadura_Elemental(A), Calça_Elemental(A), Manoplas_Elementais(A), Botas_Elementais(A), Arco_Divino, Solaris, 
+Espada_Vorpal, Martelo_Assassino, Mjolnir, Cajado_de_Âmbar, Fúria_Divina, Gungnir, Luvas_de_Mytril(A), Luvas_de_Mytril(A), 
+Pedaço_do_Círc_Div_Comp, Pedaço_do_Círc_Div_Comp, Âmago_de_Andaluz_B, Âmago_de_Andaluz_N, Botas_de_Mytril(A), Chapéu_de_Teia(A), Peitoral_de_Teia(A), Calça_de_Teia(A), 
+Classe_D, Pedra_de_Adamantita, 
+
+Mob: Serpente
+Vela_do_Coveiro, 
+
+Mob: Serpent_Gigante
+Cura_do_Batedor, Cura_do_Batedor, Cura_do_Batedor, Cura_do_Batedor, Cura_do_Batedor, 
+
+Mob: Serva_de_Odin
+Arma_de_Treant, 
+
+Mob: Servo_Carbuncle
+Resto_de_Lactolerium, Chapéu_Conjurador(M), Elmo_Aeon(M), Chapéu_da_Natureza(M), Manoplas_Douradas(M), Luvas_Conjuradoras(M), Manoplas_Aeon(M), Luvas_da_Natureza(M), 
+Lágrima_Angelical, Lágrima_Angelical, Lágrima_Angelical, Botas_Douradas(M), Botas_Conjuradoras(M), Botas_Aeon(M), Botas_da_Natureza(M), Lágrima_Angelical, 
+Lágrima_Angelical, Lágrima_Angelical, Lágrima_Angelical, Lágrima_Angelical, Armadura_Dourada(M), Túnica_Conjuradora(M), Armadura_Aeon(M), Peitoral_da_Natureza(M), 
+Calça_Dourada(M), Calça_Conjuradora(M), Calça_Aeon(M), Calça_da_Natureza(M), Armadura_Dourada(M), Túnica_Conjuradora(M), Armadura_Aeon(M), Peitoral_da_Natureza(M), 
+Calça_Dourada(M), Calça_Conjuradora(M), Calça_Aeon(M), Calça_da_Natureza(M), Lágrima_Angelical, Lágrima_Angelical, Lágrima_Angelical, Lágrima_Angelical, 
+Lágrima_Angelical, , Lágrima_Angelical, Resto_de_Lactolerium, Resto_de_Oriharucon, Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Servo_Elfo
+Elmo_Embutido(M), Chapéu_de_Mytril(M), Elmo_Elemental(M), Chapéu_de_Teia(M), Manoplas_Embutidas(M), Luvas_de_Mytril(M), Manoplas_Elementais(M), Braçadeira_de_Teia(M), 
+Pedra_Espiritual_dos_Elfos, Pedra_Espiritual_dos_Elfos, Pedra_Espiritual_dos_Elfos, Pedra_Espiritual_dos_Elfos, Pedra_Espiritual_dos_Elfos, Pedra_Espiritual_dos_Elfos, Botas_Elementais(M), Botas_de_Mytril(M), 
+Botas_Embutidas(M), Calça_Elemental(M), Calça_de_Teia(M), Calça_de_Teia(M), Pedra_Espiritual_dos_Elfos, Pedra_Espiritual_dos_Elfos, Armadura_Embutida(M), Túnica_de_Mytril(M), 
+Armadura_Elemental(M), Peitoral_de_Teia(M), Calça_Embutida(M), Calça_de_Mytril(M), Calça_Elemental(M), Resto_de_Lactolerium, Armadura_Embutida(M), Túnica_de_Mytril(M), 
+Armadura_Elemental(M), Peitoral_de_Teia(M), Calça_Embutida(M), Calça_de_Mytril(M), Resto_de_Lactolerium, Pedra_Espiritual_dos_Elfos, Pedra_Espiritual_dos_Elfos, Calça_de_Teia(M), 
+Pedra_Espiritual_dos_Elfos, Pedra_Espiritual_dos_Elfos, Pedra_Espiritual_dos_Elfos, Pedra_Espiritual_dos_Elfos, Pedra_Espiritual_dos_Elfos, Pedra_Espiritual_dos_Elfos, Pedra_Espiritual_dos_Elfos, , 
+Pedra_Espiritual_dos_Elfos, Resto_de_Oriharucon, Moeda_de_Prata(1Mi), Resto_de_Lactolerium, Poeira_de_Lactolerium, Poeira_de_Oriharucon, 
+
+Mob: Servo_Elfo_
+Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Sets_Selado
+Armadura_Melpômene_Selado, Calça_Melpômene_Selado, Luvas_Melpômene_Selado, Botas_Melpômene_Selado, Robe_Potâmides_Selado, Calça_Potâmides_Selado, Luvas_Potâmides_Selado, Botas_Potâmides_Selado, 
+Peitoral_Dríade_Selado, Calças_Dríade_Selado, Luvas_Dríade_Selado, Botas_Dríade_Selado, Túnica_Urânia_Selado, Calça_Urânia_Selado, Manoplas_Urânia_Selado, Botas_Urânia_Selado, 
+
+Mob: Set_BM
+Elmo_Elemental(A), Armadura_Elemental(A), Calça_Elemental(A), Manoplas_Elementais(A), Botas_Elementais(A), Armadura_da_Destruição, Calça_da_Destruição, Manoplas_da_Derstruição, 
+Botas_da_Destruição, Lança_do_Triunfo, Classe_D, Classe_E, Cruz_Sagrada, Escudo_de_Runas, Elmo_do_Corvo, Armadura_do_Corvo, 
+Calça_do_Corvo, Manoplas_do_Corvo, Botas_do_Corvo, Manoplas_do_Corvo, Manoplas_Elementais(A), 
+
+Mob: Set_FM
+Chapéu_de_Mytril(A), Túnica_de_Mytril(A), Calça_de_Mytril(A), Luvas_de_Mytril(A), Botas_de_Mytril(A), Túnica_Guardiã, Calça_Guardiã, Manoplas_Guardiãs, 
+Botas_Guardiãs, Fúria_Divina, Cajado_de_Âmbar, Classe_D, Classe_E, Escudo_de_Runas, Elmo_Templário, Túnica_Templária, 
+Calça_Templária, Manoplas_Templárias, Botas_Templárias, Luvas_de_Mytril(A), Manoplas_Templárias, 
+
+Mob: Set_HT
+Chapéu_de_Teia(A), Peitoral_de_Teia(A), Calça_de_Teia(A), Braçadeira_de_Teia(A), Botas_de_Teia(A), Armadura_Rake, Calça_Rake, Manoplas_Rake, 
+Botas_Rake, Arco_Divino, Classe_D, Classe_E, Elmo_Legionário, Armadura_Legionária, Calça_Legionária, Manoplas_Legionárias, 
+Botas_Legionárias, Braçadeira_de_Teia(A), Manoplas_Legionárias, 
+
+Mob: Set_TK
+Elmo_Embutido(A), Armadura_Embutida(A), Calça_Embutida(A), Manoplas_Embutidas(N), Botas_Embutidas(A), Classe_D, Martelo_Assassino, Espada_Vorpal, 
+Solaris, Botas_Flamejantes, Manoplas_Flamejantes, Calça_Flamejante, Armadura_Flamejante, Elmo_Mortal, Armadura_Mortal, Calça_Mortal, 
+Monaplas_Mortais, Botas_Mortais, Classe_E, Mjolnir, Elmo_Mortal, Armadura_Mortal, Calça_Mortal, Monaplas_Mortais, 
+Botas_Mortais, Classe_E, Armadura_Flamejante, Calça_Flamejante, Manoplas_Flamejantes, Botas_Flamejantes, Manoplas_Embutidas(A), Monaplas_Mortais, 
+
+Mob: Deflect_Honra
+Removedor_de_tintura, Feijão_Mágico(Azul), Feijão_Mágico(Verde), Feijão_Mágico(Rosa), Feijão_Mágico(Preto), Frango_Assado, Retorno_da_Habilidade, Bolsa_do_Andarílho, 
+Baú_de_Experiência, 
+
+Mob: Shadow_I
+Barra_de_Prata(10Mi), Barra_de_Prata(100Mi), Escama_Escarlate, Escama_Celeste, Joia_Do_infinito, Retorno_da_Habilidade, Esfera_da_Sorte(A), Esfera_da_Sorte(M), 
+Esfera_da_Sorte(N), Cristal_Elime, Cristal_Sylphed, Cristal_Thelion, Cristal_Noas, Poção_Divina(15dias), Poção_Sephira_(15dias), Donate_GO_300, 
+Moeda_De_Honra(50), Força_Espectral, Concentração, Medalha_Dourada, Medalha_Roxa, Medalha_Vermelha, Medalha_Azul, Medalha_Verde, 
+
+Mob: Shaman
+
+Mob: Shaman_Inf
+Resto_de_Oriharucon, Resto_de_Lactolerium, Pedra_de_Adamantita, Pergaminho_Selado, 
+
+Mob: Shama_Amald
+Elmo_Aeon(Le), Armadura_Aeon(Le), Calça_Aeon(Le), Manoplas_Aeon(Le), Botas_Aeon(Le), Lança_do_Triunfo, Cruz_Sagrada, Martelo_Assassino, 
+Elmo_Aeon(Le), Armadura_Aeon(Le), Calça_Aeon(Le), Manoplas_Aeon(Le), Botas_Aeon(Le), Elmo_Elemental(Le), Manoplas_Elementais(Le), Elmo_Elemental(Le), 
+Armadura_Elemental(Le), Calça_Elemental(Le), Manoplas_Elementais(Le), Botas_Elementais(Le), Calça_Elemental(Le), Botas_Elementais(Le), Armadura_Elemental(Le), Lança_do_Triunfo, 
+Cruz_Sagrada, Martelo_Assassino, Classe_E, 
+
+Mob: Shany
+
+Mob: Sicario
+
+Mob: Simio
+Resto_de_Oriharucon, Poeira_de_Lactolerium, Resto_de_Lactolerium, Resto_de_Oriharucon, Calça_Embutida(A), Calça_Elemental(A), Calça_de_Mytril(A), Calça_de_Teia(A), 
+Manoplas_Embutidas(A), Manoplas_Elementais(A), Luvas_de_Mytril(A), Braçadeira_de_Teia(A), Cruz_Sagrada, Poeira_de_Lactolerium, Poeira_de_Oriharucon, Resto_de_Lactolerium, 
+Poeira_de_Lactolerium, Pedra_de_Adamantita, 
+
+Mob: Simio_Anciao
+Elmo_Embutido(M), Elmo_Elemental(M), Armadura_Embutida(M), Armadura_Elemental(M), Calça_Embutida(M), Calça_Elemental(M), Manoplas_Embutidas(M), Manoplas_Elementais(M), 
+Pergaminho_Selado, Fúria_Divina, Pergaminho_Selado, Pergaminho_Selado, Pergaminho_Selado, Fúria_Divina, Pergaminho_Selado, Poeira_de_Lactolerium, 
+
+Mob: Simio_Bleg
+Diamante, Esmeralda, Coral, Garnet, Resto_de_Oriharucon, Resto_de_Lactolerium, Elmo_Embutido(A), Chapéu_de_Mytril(A), 
+Peitoral_de_Teia(A), Elmo_Elemental(A), Botas_Embutidas(A), Botas_de_Mytril(A), Botas_de_Teia(A), Botas_Elementais(A), Mjolnir, , 
+Poeira_de_Lactolerium, Pedra_de_Adamantita, Concentração, 
+
+Mob: Simio_Inf
+Cristal_Thelion, 
+
+Mob: Sobrevivente
+
+Mob: Soldado_Amon
+Botas_Rake, Botas_Flamejantes, Botas_da_Destruição, Botas_Guardiãs, Botas_de_Teia(A), Botas_Embutidas(A), Botas_Elementais(A), Botas_de_Mytril(A), 
+Classe_E, Pedra_da_Luz, Poeira_de_Oriharucon, 
+
+Mob: Soldado Merc
+
+Mob: Sombra_Negra
+Pergaminho_Selado, Pergaminho_Selado, Poeira_de_Lactolerium, Poeira_de_Oriharucon, Esmeralda, Coral, Força_Espectral, Concentração, 
+Concentração, Força_Espectral, 
+
+Mob: Sombra_Negra_
+Concentração, Carta_de_Duelo_(M), Poeira_de_Oriharucon, Fragmento_Da_Alma, Alma_do_Unicórnio, Alma_da_Fênix, Força_Espectral, 
+
+Mob: Sulrang
+Pedra_da_Luz, Pedra_de_Adamantita, 
+
+Mob: Talos_Imortal
+Cristal_Elime, Cristal_Sylphed, Cristal_Thelion, Cristal_Noas, 
+
+Mob: Tarantula
+
+Mob: Tarantula_
+
+Mob: Taron@
+
+Mob: Taron 
+
+Mob: Taron_Assassino
+Asa_Draconiana, Arco_Guardião, Dianus, Foice_Platinada, Vingadora, Karikas, Força_Eterna, Cajado_Caótico, 
+Éden, Demolidor_Celestial, Escudo_do_Guardião, Gram, Luna, Âmago_de_Fenrir, Martelo_Psíquico, Gungnir, 
+Cajado_de_Âmbar, Olho_do_Carbunkle, Arco_Élfico, Presas_de_Behemoth, Lança_Relâmpago, Âmago_de_Fenrir, Poeira_de_Lactolerium, Ovo_de_Fenrir, 
+Ankh_da_Justiça, 
+
+Mob: Taron_de_Ferro@
+
+Mob: Taron de Ferro 
+
+Mob: Tauron
+Pedra_de_Adamantita, Poeira_de_Oriharucon, Poeira_de_Lactolerium, Poeira_de_Lactolerium, Moeda_de_Prata(1Mi), Poeira_de_Oriharucon, 
+
+Mob: Tauron_Agmo
+Pedra_do_Sábio, Pedra_de_Tectita, Pedra_de_Adamantita, 
+
+Mob: Tauron_Desert
+
+Mob: Tauron__
+, 
+
+Mob: Tauron___
+
+Mob: Tauron_____
+
+Mob: Taurus_Maligno
+Emblema_da_Aprendizagem, Emblema_da_Aprendizagem, Emblema_da_Aprendizagem, Emblema_da_Aprendizagem, Emblema_da_Aprendizagem, 
+
+Mob: Teleport_Quest
+Pergaminho_Selado, 
+
+Mob: Teleport_Quests
+Vela_do_Coveiro, Colheita_do_Jardineiro, Cura_do_Batedor, Mana_do_Batedor, Emblema_do_Guarda, Ingresso_Big_Cubo, 
+
+Mob: Templario_Amald
+Elmo_Anão(Le), Armadura_Anã(Le), Calça_Anã(Le), Manopla_Anã(Le), Botas_Anã(Le), Mjolnir, Solaris, Espada_Vorpal, 
+Elmo_Anão(Le), Armadura_Anã(Le), Calça_Anã(Le), Manopla_Anã(Le), Botas_Anã(Le), Elmo_Embutido(Le), Calça_Embutida(Le), Botas_Embutidas(Le), 
+Elmo_Embutido(Le), Armadura_Embutida(Le), Calça_Embutida(Le), Manoplas_Embutidas(Le), Botas_Embutidas(Le), Manoplas_Embutidas(Le), Armadura_Embutida(Le), Solaris, 
+Espada_Vorpal, Mjolnir, Classe_E, 
+
+Mob: Templario_Inf
+Pedra_de_Adamantita, Pergaminho_Selado, 
+
+Mob: Test
+Unicórnio, Pegasus, Unisus, Grifo, Hipogrifo, Grifo_Sangrento, Svadilfari, Sleipnir, 
+Pantera_Negra, Âmago_de_Unicórnio, Âmago_de_Pégasus, Âmago_de_Unisus, Âmago_de_Grifo, Âmago_de_Hipogrifo, Âmago_de_Grifo_Sang, Âmago_de_Svadilfari, 
+Âmago_de_Sleipnir, Âmago_de_Pantera_Negra, Garra_Draconiana, Pedra_Espiritual, Pedra_Espiritual, Pedaço_do_Círc_Div_Comp, Poção_Poderosa, 
+
+Mob: Test_Kefra
+Emblema_da_Proteção, Refinação_Abençoada, Refinação_Abençoada, Pedra_Secreta_(Água), Pedra_Secreta_(Terra), Pedra_Secreta_(Sol), Pedra_Secreta_(Vento), Folha_de_Mandrágora, 
+Entrada_Portão_Infernal, Unha_do_Kefra, Coração_Sombra_Negra, Cabelo_Beriel_Amald, Coração_Beriel_Amald, Alma_Beriel, 
+
+Mob: Tigre^
+
+Mob: Tintas
+Feijão_Mágico(Azul), Feijão_Mágico(Vermelho), Feijão_Mágico(Verde), Feijão_Mágico(Prateado), Feijão_Mágico(Preto), Feijão_Mágico(Rosa), Feijão_Mágico(Amarelo), Feijão_Mágico(Azul_Claro), 
+Feijão_Mágico(Roxo), Feijão_Mágico(Marrom), Tintura_Azul_Claro, Tintura_Amarela, Tintura_Rosa, Tintura_Marrom, Tintura_Roxa, Tintura_Preta, 
+Tintura_Prateada, Tintura_Verde, Tintura_Vermelha, Tintura_Azul, 
+
+Mob: Tiny
+
+Mob: Tita_Berserker
+Armadura_do_Corvo, Botas_Mortais, Armadura_Legionária, Manoplas_do_Corvo, Elmo_Mortal, Armadura_Mortal, Demolidor_Celestial, Demolidor_Celestial, 
+Armadura_do_Corvo, Botas_Mortais, Armadura_Legionária, Manoplas_do_Corvo, Elmo_Mortal, Armadura_Mortal, Dianus, Dianus, 
+Resto_de_Oriharucon, Resto_de_Lactolerium, Pedra_da_Luz, Coral, Garnet, Força_Eterna, Força_Eterna, 
+
+Mob: Torre
+
+Mob: Torre_
+
+Mob: Torre_Guardia
+
+Mob: Torre_Guardia_
+
+Mob: Torre_Runica
+
+Mob: Torre_Thor
+
+Mob: Torre__
+
+Mob: TowerOfThor
+
+Mob: Trajes
+Conjunto_Kalintz(F)(30dias), Conjunto_Feiticeira(30dias), Conjunto_Valquíria(30dias), Conjunto_Kalintz(M)(30dias), Conjunto_Draco(30dias), Conjunto_Esqueleto(30dias), 
+
+Mob: Trajes2
+Conjunto_Hera_Venenosa(30dias), Conjunto_Succubus(30dias), Conjunto_Medieval(30dias), Conjunto_Elegante(30dias), Traje_Mont:_Tigre_Branco, Traje_Mont:_Sombra_da_Morte(Prata), Traje_Mont:_Sombra_da_Morte(Ouro), Traje_Mont:_Aranha_Guerreira, 
+Traje_Mont:_Pogobol(Vermelho), Traje_Mont:_Pogobol(Azul), Traje_Mont:_Cavalo_Real(Vermelho), Traje_Mont:_Cavalo_Real(Azul), Wooden_horse, Traje_Mont:_Galinha_Fofinha, Barra_de_Prata(100Mi), Barra_de_Prata(1Bi), 
+
+Mob: Treant
+Defesa_contra_Sagrado, Luvas_de_Mytril(A), Manoplas_Elementais(A), Braçadeira_de_Teia(A), Manoplas_Embutidas(A), Garnet, Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Treant_
+
+Mob: Treant_Amald
+Resto_de_Oriharucon, Resto_de_Lactolerium, Pedra_de_Adamantita, Arco_Guardião, Asa_Draconiana, Dianus, Foice_Platinada, Vingadora, 
+Classe_E, Demolidor_Celestial, Karikas, Força_Eterna, Cajado_Caótico, Éden, Ankh_da_Justiça, Ankh_da_Eternidade, 
+Ankh_da_Glória, Escudo_de_Runas, Escudo_do_Guardião, Armadura_do_Corvo, Calça_do_Corvo, Manoplas_do_Corvo, Botas_do_Corvo, Armadura_Mortal, 
+Calça_Mortal, Monaplas_Mortais, Botas_Mortais, Túnica_Templária, Calça_Templária, Manoplas_Templárias, Botas_Templárias, Armadura_Legionária, 
+Calça_Legionária, Manoplas_Legionárias, Botas_Legionárias, Pedra_de_Adamantita, 
+
+Mob: Treinador1
+
+Mob: Treinador2
+
+Mob: Treinador3
+
+Mob: Troca_De_Fadas
+
+Mob: Troll
+, , Garra_da_Escuridão, Espada_Curta, Elmo_de_Malha(M), Botas_de_Malha(M), Calça_Sombria(M), Bumerang_Cortante, 
+Vela_do_Coveiro, Vela_do_Coveiro, Bastão_Serpente, , Manopla_Cortante, Lança_Curva, Machado_de_Arremesso, Elmo_de_Couro(A), 
+Calça_de_Couro(A), Armadura_de_Couro(A), Botas_de_Pano(A), Pedaço_do_Círculo_Divino, 
+
+Mob: Troll@
+
+Mob: Troll@@
+Espada_Bastarda, Espada_Bastarda, Chapéu_de_Concha(M), Chapéu_de_Concha(M), Chapéu_de_Concha(A), Brinco_de_Zeus, Espada_Bastarda, Espada_Bastarda, 
+Poeira_de_Oriharucon, 
+
+Mob: Troll_
+Faca_Quimerica, Cimitarra, Garra_da_Escuridão, Espada_Curta, Elmo_de_Malha(M), Botas_de_Malha(M), Calça_Sombria(M), Bumerang_Cortante, 
+Vela_do_Coveiro, Vela_do_Coveiro, Vela_do_Coveiro, Bastão_Serpente, Varinha_da_Guerra, Manopla_Cortante, Lança_Curva, Machado_de_Arremesso, 
+Elmo_de_Couro(A), Calça_de_Couro(A), Armadura_de_Couro(A), Botas_de_Pano(A), 
+
+Mob: Troll_Cacador
+Poeira_de_Oriharucon, 
+
+Mob: Troll_Cacador@@
+Cajado_da_Jóia_Azul, Cajado_da_Jóia_Azul, Elmo_de_Osso(M), Elmo_de_Osso(M), Elmo_de_Osso(A), Brinco_de_Hecate, Cajado_da_Jóia_Azul, Cajado_da_Jóia_Azul, 
+Poeira_de_Oriharucon, 
+
+Mob: Troll_Caido@@
+Manoplas_Embutidas(M), Luvas_de_Mytril(M), Manoplas_Elementais(M), Braçadeira_de_Teia(M), Cajado_do_Santo, Brinco_de_Hecate, Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Troll_Caos
+Safira, Arco_da_Confusão, Cajado_Silencioso, Faca_Quimerica, Lança_Escorpião, Tomahawk, Martelo_de_Guerra, Kraika, 
+Cimitarra, Arco_da_Confusão, Safira, Lança_Escorpião, Tomahawk, 
+
+Mob: Troll_Caos@
+
+Mob: Troll_Caos_
+Safira, Arco_da_Confusão, Cajado_Silencioso, Faca_Quimerica, Lança_Escorpião, Tomahawk, Martelo_de_Guerra, Kraika, 
+Cimitarra, Arco_da_Confusão, Safira, Lança_Escorpião, Tomahawk, Âmago_de_Javali, 
+
+Mob: Troll_Caos__
+Poeira_de_Oriharucon, Moeda_de_Prata(1Mi), 
+
+Mob: Troll_Caos___
+Fragmento_Da_Alma, Moeda_de_Prata(1Mi), 
+
+Mob: Troll_de_Gelo
+Cenoura, Chapéu, Freixo_de_Feno, Galho, Bola_de_Neve, Bola_de_Neve, Manoplas_Rake, Manoplas_Flamejantes, 
+Manoplas_da_Derstruição, Manoplas_Guardiãs, Pedra_da_Luz, Armadura_Mortal, Cajado_de_Âmbar, Barra_de_Prata(10Mi), Poeira_de_Lactolerium, 
+
+Mob: Troll_Ghoul
+Calça_de_Mytril(N), Manoplas_Elementais(N), Peitoral_de_Teia(N), Classe_C, Mana_do_Batedor, Martelo_Dragão, Arco_Élfico, Resto_de_Lactolerium, 
+Presas_de_Behemoth, Resto_de_Oriharucon, Aegis, Elmo_Dourado(A), Calça_Dourada(A), Armadura_Dourada(A), Botas_Conjuradoras(A), Emblema_do_Guarda, 
+Armadura_Elemental(N), Elmo_Elemental(M), Classe_D, 
+
+Mob: Troll_Ghoul_
+Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Troll_Ghoul__
+
+Mob: Troll_Insano
+Calça_de_Malha(M), Manoplas_de_Malha(M), Robe_Sombrio(M), Luvas_Sombrias(M), Chapéu_de_Metal(M), Braçadeira_de_Metal(M), Calça_de_Metal(M), Bastão_Serpente, 
+Vela_do_Coveiro, Bastão_Serpente, Rapier, Arco_de_Batalha, Escudo_de_Prata, Lança_Escorpião, Tomahawk, Luvas_de_Couro_Batido(N), 
+Botas_de_Couro_Batido(N), Elmo_de_Couro_Batido(N), Cota_de_Couro_Batido(N), Calça_de_Bandagem(N), Safira, 
+
+Mob: Troll_Insano_
+Calça_de_Malha(M), Manoplas_de_Malha(M), Robe_Sombrio(M), Luvas_Sombrias(M), Chapéu_de_Metal(M), Braçadeira_de_Metal(M), Calça_de_Metal(M), Bastão_Serpente, 
+Vela_do_Coveiro, Vela_do_Coveiro, Rapier, Arco_de_Batalha, Escudo_de_Prata, Lança_Escorpião, Tomahawk, Luvas_de_Couro_Batido(N), 
+Botas_de_Couro_Batido(N), Elmo_de_Couro_Batido(N), Cota_de_Couro_Batido(N), Calça_de_Bandagem(N), 
+
+Mob: Troll_Mago
+Botas_Sombrias(M), Armadura_de_Águia(M), Calça_de_Águia(M), Botas_de_Águia(M), Peitoral_de_Metal(M), Botas_de_Metal(M), Lança_do_Vento, Arco_de_Batalha, 
+Espada_em_Cruz, Chakram, Vela_do_Coveiro, Vela_do_Coveiro, Vela_do_Coveiro, Vela_do_Coveiro, Vela_do_Coveiro, Luvas_Sombrias(A), 
+Calça_Sombria(M), Armadura_de_Águia(N), Elmo_de_Águia(M), Cota_de_Couro_Batido(N), Cota_de_Couro_Batido(M), Luvas_de_Couro_Batido(A), Túnica_Vampírica(N), 
+
+Mob: Troll_Mago_
+Botas_Sombrias(M), Armadura_de_Águia(M), Calça_de_Águia(M), Botas_de_Águia(M), Peitoral_de_Metal(M), Botas_de_Metal(M), Lança_do_Vento, Espada_em_Cruz, 
+Arco_de_Batalha, Chakram, Varinha_Falcon, Vela_do_Coveiro, Vela_do_Coveiro, Vela_do_Coveiro, Luvas_Sombrias(A), Calça_Sombria(M), 
+Armadura_de_Águia(N), Elmo_de_Águia(M), Cota_de_Couro_Batido(N), Cota_de_Couro_Batido(M), Luvas_de_Couro_Batido(A), Túnica_Vampírica(N), 
+
+Mob: Troll_Zumbi
+Gram, Arco_Hidra, Calça_de_Concha(M), Calça_de_Osso(M), Botas_da_Natureza(M), Túnica_Conjuradora(M), Vela_do_Coveiro, Vela_do_Coveiro, 
+Colheita_do_Jardineiro, Colheita_do_Jardineiro, Vela_do_Coveiro, Cura_do_Batedor, Varinha_Falcon, Manoplas_de_Aço(N), Botas_de_Aço(N), Luvas_de_Concha(N), 
+Manoplas_de_Osso(N), Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Troll_Zumbi@@
+Elmo_Embutido(M), Chapéu_de_Mytril(M), Elmo_Elemental(M), Chapéu_de_Teia(M), Brinco_de_Titã, Aegis, Aegis, Poeira_de_Oriharucon, 
+Poeira_de_Lactolerium, 
+
+Mob: Troll_Zumbi_
+, 
+
+Mob: Unicornio_Puro
+
+Mob: Urnammu
+
+Mob: Urso_Polar
+Calça_da_Destruição, Calça_Flamejante, Calça_Rake, Calça_Guardiã, Chapéu, Chapéu, Cenoura, Galho, 
+Bola_de_Neve, Pedra_da_Luz, Classe_E, Hophlon, Resto_de_Lactolerium, Resto_de_Oriharucon, Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+Poeira_de_Lactolerium, Poeira_de_Lactolerium, 
+
+Mob: Urso_Zumbi
+Armadura_Aeon(M), Calça_da_Natureza(M), Calça_Aeon(M), Chapéu_Conjurador(M), Calça_Conjuradora(M), Botas_Conjuradoras(M), Elmo_Dourado(M), Colheita_do_Jardineiro, 
+Vela_do_Coveiro, Manoplas_Douradas(M), Bumerangue_Cortante, Rapier, Matadora_de_Dragão, Martelo_de_Guerra, Kraika, Pedra_de_Beril, 
+Manoplas_de_Malha(N), Botas_de_Malha(N), Elmo_de_Malha(N), Luvas_Sombrias(N), Pedra_de_Beril, Armadura_de_Aço(M), Calça_de_Concha(M), Botas_de_Osso(M), 
+Safira, Pedra_de_Beril, 
+
+Mob: Urso_Zumbi@@
+Elmo_Embutido(M), Chapéu_de_Mytril(M), Elmo_Elemental(M), Chapéu_de_Teia(M), Brinco_de_Titã, Aegis, Aegis, Poeira_de_Oriharucon, 
+Poeira_de_Lactolerium, 
+
+Mob: Uxmal
+
+Mob: Valquiria
+Pergaminho_Selado, Pergaminho_Selado, Ressurreição, Concentração, Muro_de_Espinhos, Ressurreição, Concentração, Muro_de_Espinhos, 
+Pergaminho_Selado, Concentração, Âmago_de_Unicórnio, Pedra_de_Adamantita, 
+
+Mob: Valquiria_Rosen
+Elmo_Legionário, Armadura_Legionária, Calça_Legionária, Manoplas_Legionárias, Botas_Legionárias, Elmo_Legionário, Armadura_Legionária, Calça_Legionária, 
+Manoplas_Legionárias, Botas_Legionárias, Karikas, Força_Eterna, Cajado_Caótico, Éden, Demolidor_Celestial, Karikas, 
+Força_Eterna, Éden, Demolidor_Celestial, Muro_de_Espinhos, 
+
+Mob: Valquiria_Tina
+Elmo_Templário, Túnica_Templária, Calça_Templária, Manoplas_Templárias, Botas_Templárias, Elmo_Templário, Túnica_Templária, Calça_Templária, 
+Manoplas_Templárias, Botas_Templárias, Gungnir, Escudo_do_Guardião, Pedra_do_Sábio, Esmeralda, Pedra_da_Luz, Vingadora, 
+Vingadora, Asa_Draconiana, Arco_Guardião, Dianus, Foice_Platinada, Ankh_da_Glória, Concentração, Ressurreição, 
+
+Mob: Verid
+Dianus, Força_Eterna, Éden, Demolidor_Celestial, Escudo_do_Guardião, Concentração, Força_Espectral, 
+
+Mob: VeridRainhaG
+
+Mob: Verme_
+Karikas, Arco_Guardião, Karikas, Arco_Guardião, Cruz_Sagrada, Escudo_de_Runas, Cruz_Sagrada, Escudo_de_Runas, 
+Ankh_da_Eternidade, Cruz_Sagrada, Escudo_de_Runas, Cruz_Sagrada, Escudo_de_Runas, Ankh_da_Eternidade, Armadura_Mortal, Túnica_Templária, 
+Armadura_do_Corvo, Armadura_Legionária, Armadura_Mortal, Túnica_Templária, Armadura_do_Corvo, Armadura_Legionária, Ankh_da_Eternidade, Diamante, 
+Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Verme_Amald
+Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Vigia
+
+Mob: Vigia_
+
+Mob: Virago
+
+Mob: Virago_
+
+Mob: WriggleSwarm
+Resto_de_Oriharucon, Resto_de_Oriharucon, Kit_de_Mana_(5_XG.), Resto_de_Oriharucon, Poeira_de_Oriharucon, Poeira_de_Lactolerium, Resto_de_Lactolerium, Aegis, 
+
+Mob: Xama
+
+Mob: Xeno_Cropper
+Kit_de_Cura_(5_XG.), Resto_de_Oriharucon, Resto_de_Lactolerium, Chapéu_de_Mytril(M), Túnica_de_Mytril(M), Calça_de_Mytril(M), Luvas_de_Mytril(M), Botas_de_Mytril(M), 
+Garra_Draconiana, Garra_Draconiana, Pedra_de_Tectita, Resto_de_Lactolerium, Poeira_de_Oriharucon, Poeira_de_Lactolerium, Pista_da_Runas, 
+
+Mob: Xeno_Cropper_
+
+Mob: Yue
+
+Mob: Zakum
+Lança_Invisível, Lança_da_Corrupção, Espada_em_Cruz, Arco_Veloz, Manoplas_de_Aço(N), Botas_de_Aço(N), Elmo_de_Aço(N), Manoplas_de_Aço(M), 
+Pergaminho_Retorno, Kit_de_Cura_(5_XG.), Resto_de_Oriharucon, 
+
+Mob: ZakumPicket_
+
+Mob: Zakum_
+Poeira_de_Lactolerium, 
+
+Mob: Zakum_Chief
+Armadura_Anã(N), Elmo_Anão(M), Manopla_Anã(A), Calça_Conjuradora(A), Calça_Aeon(A), Calça_da_Natureza(A), Peitoral_da_Natureza(A), Longinius, 
+Faca_Astaroth, Cajado_do_Santo, Lança_Invisível, Lança_da_Corrupção, Espada_em_Cruz, Arco_Veloz, Manoplas_de_Aço(N), Botas_de_Aço(N), 
+Elmo_de_Aço(N), Manoplas_de_Aço(M), Elmo_Dourado(N), Manoplas_Douradas(M), Luvas_Conjuradoras(N), Botas_Conjuradoras(N), Manoplas_Aeon(N), Botas_Aeon(N), 
+Luvas_da_Natureza(N), Botas_da_Natureza(N), Luvas_de_Concha(N), Botas_de_Concha(N), Armadura_de_Águia(A), Calça_de_Águia(A), Emblema_da_Fênix_LV3, Resto_de_Lactolerium, 
+
+Mob: Zakum_Chief_
+Armadura_Anã(N), Elmo_Anão(M), Manopla_Anã(A), Calça_Conjuradora(A), Calça_Aeon(A), Calça_da_Natureza(A), Peitoral_da_Natureza(A), Longinius, 
+Faca_Astaroth, Cajado_do_Santo, Lança_Invisível, Lança_da_Corrupção, Espada_em_Cruz, Arco_Veloz, Manoplas_de_Aço(N), Botas_de_Aço(N), 
+Elmo_de_Aço(N), Manoplas_de_Aço(M), Elmo_Dourado(N), Manoplas_Douradas(M), Luvas_Conjuradoras(N), Botas_Conjuradoras(N), Manoplas_Aeon(N), Botas_Aeon(N), 
+Luvas_da_Natureza(N), Botas_da_Natureza(N), Luvas_de_Concha(N), Botas_de_Concha(N), Armadura_de_Águia(A), Calça_de_Águia(A), Emblema_da_Fênix_LV4, Resto_de_Lactolerium, 
+
+Mob: Zakum_Imp
+Pergaminho_Retorno, 
+
+Mob: Zakum Inf
+Âmago_de_Unicórnio, Pedra_da_Luz, Âmago_de_Pégasus, Âmago_de_Unisus, Resto_de_Lactolerium, Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Zakum Inf 
+Âmago_de_Unicórnio, Pedra_da_Luz, Âmago_de_Pégasus, Âmago_de_Unisus, Resto_de_Lactolerium, Poeira_de_Oriharucon, Poeira_de_Lactolerium, 
+
+Mob: Zakum_Lord
+Pergaminho_Retorno, 
+
+Mob: Zakum_Warlok
+Armadura_Anã(N), Elmo_Anão(M), Manopla_Anã(A), Calça_Conjuradora(A), Calça_Aeon(A), Calça_da_Natureza(A), Peitoral_da_Natureza(A), Longinius, 
+Faca_Astaroth, Cajado_do_Santo, Lança_Invisível, Lança_da_Corrupção, Espada_em_Cruz, Arco_Veloz, Manoplas_de_Aço(N), Botas_de_Aço(N), 
+Elmo_de_Aço(N), Manoplas_de_Aço(M), Elmo_Dourado(N), Manoplas_Douradas(M), Luvas_Conjuradoras(N), Botas_Conjuradoras(N), Manoplas_Aeon(N), Botas_Aeon(N), 
+Luvas_da_Natureza(N), Botas_da_Natureza(N), Luvas_de_Concha(N), Botas_de_Concha(N), Armadura_de_Águia(A), Calça_de_Águia(A), Emblema_da_Fênix_LV2, 
+
+Mob: Zakum_Warlok_
+Armadura_Anã(N), Elmo_Anão(M), Manopla_Anã(A), Calça_Conjuradora(A), Calça_Aeon(A), Calça_da_Natureza(A), Peitoral_da_Natureza(A), Longinius, 
+Faca_Astaroth, Cajado_do_Santo, Lança_Invisível, Lança_da_Corrupção, Espada_em_Cruz, Arco_Veloz, Manoplas_de_Aço(N), Botas_de_Aço(N), 
+Elmo_de_Aço(N), Manoplas_de_Aço(M), Elmo_Dourado(N), Manoplas_Douradas(M), Luvas_Conjuradoras(N), Botas_Conjuradoras(N), Manoplas_Aeon(N), Botas_Aeon(N), 
+Luvas_da_Natureza(N), Botas_da_Natureza(N), Luvas_de_Concha(N), Botas_de_Concha(N), Armadura_de_Águia(A), Calça_de_Águia(A), Emblema_da_Fênix_LV4, 
+
+Mob: Zakum__
+Poeira_de_Lactolerium, Poeira_de_Lactolerium, Pedra_Espiritual, Barra_de_Prata(10Mi), 
+
+Mob: Dragaozinho
+Vela_do_Coveiro, Vela_do_Coveiro, 
+

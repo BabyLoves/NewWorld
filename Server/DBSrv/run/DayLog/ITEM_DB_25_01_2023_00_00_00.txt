@@ -1,0 +1,4 @@
+[25/01/2023][00:00:00]  ItemID:1216 ItemName:Manoplas_Embutidas(M) ItemNum:2 
+[25/01/2023][00:00:00]  ItemID:1501 ItemName:Manoplas_Elementais(M) ItemNum:1 
+[25/01/2023][00:00:00]  ItemID:1504 ItemName:Botas_Elementais(M) ItemNum:1 
+[25/01/2023][00:00:00]  ItemID:2219 ItemName:Manoplas_de_Osso(Le) ItemNum:2 

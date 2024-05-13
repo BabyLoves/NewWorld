@@ -1,0 +1,20 @@
+#TROCA 1
+419 6       #Resto de ori
+420 3       #Resto de lac
+4019 3      #Classe d
+476 1       #Bau II
+#TROCA 2
+4020 3      #Classe E
+420 6      #Resto de lac
+419 10       #Resto de ori
+480 1       #Bau III
+#TROCA 3
+2399 3      #Amg Equipe N
+2404 3      #Amg Equipe B
+2406 1       #Amg Fenrir
+482 1       #Bau IV
+#TROCA 4
+483 1      #Bau V
+486 1      #Bau Raro
+412 1      #Poeira Ori
+413 2      #Poeira Lac

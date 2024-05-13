@@ -1,0 +1,2 @@
+[02/06/2023][17:40:23]  ItemID:1815 ItemName:Luvas_de_Couro_Batido(A) ItemNum:2 
+[02/06/2023][17:40:23]  ItemID:2053 ItemName:Calça_de_Bandagem(A) ItemNum:1 

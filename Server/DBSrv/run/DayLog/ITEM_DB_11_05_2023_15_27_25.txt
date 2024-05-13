@@ -1,0 +1,4 @@
+[11/05/2023][15:27:25]  ItemID:977 ItemName:Bastão_Serpente ItemNum:1 
+[11/05/2023][15:27:25]  ItemID:2053 ItemName:Calça_de_Bandagem(A) ItemNum:1 
+[11/05/2023][15:27:25]  ItemID:2055 ItemName:Botas_de_Bandagem(A) ItemNum:1 
+[11/05/2023][15:27:25]  ItemID:4038 ItemName:Vela_do_Coveiro ItemNum:1 

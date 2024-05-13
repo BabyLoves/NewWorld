@@ -1,0 +1,5 @@
+[06/12/2022][21:47:32]  ItemID:806 ItemName:Machado_Duplo ItemNum:2 
+[06/12/2022][21:47:32]  ItemID:1831 ItemName:Saia_Vampírica(A) ItemNum:1 
+[06/12/2022][21:47:32]  ItemID:2052 ItemName:Peitoral_de_Bandagem(A) ItemNum:1 
+[06/12/2022][21:47:32]  ItemID:2053 ItemName:Calça_de_Bandagem(A) ItemNum:1 
+[06/12/2022][21:47:32]  ItemID:2055 ItemName:Botas_de_Bandagem(A) ItemNum:2 

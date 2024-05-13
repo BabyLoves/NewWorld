@@ -1,0 +1,5 @@
+Armia  b01000000.bmp
+Arzan  b01000000.bmp
+Erion  b01000000.bmp
+Noatun  b01000000.bmp
+Nipplehein  b01000000.bmp

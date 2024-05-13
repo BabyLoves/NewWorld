@@ -1,0 +1,137 @@
+# SEQUENCIA, LEVEL, CLASSE, TYPE, ITEM
+# TYPE = -1 -> ENTREGA O ITEM INDEPENDENTE DA CLASSE
+# TYPE = 0 -> ENTREGA O ITEM INDEPENDENTE DOS PONTOS
+# TYPE = 4 -> ENTREGA O ITEM TODAS AS CLASSE
+
+# TYPE = 1 -> TEM MAIS PONTOS EM STR
+# TYPE = 2 -> TEM MAIS PONTOS EM INT
+# TYPE = 3 -> TEM MAIS PONTOS EM DEX
+# TYPE = 4 -> TODAS AS CLASSE
+# CLASSES: 0=TK, 1=FM, 2=BM, 3=HT
+
+# SEQUENCIA, LEVEL, CLASSE, TYPE, ITEM
+
+
+#MONTARIA PARA TK - LOBO
+30 114 0 4  2362 10 10 120 5 100 100
+
+#MONTARIA PARA FM - DRAGÃO MENOR
+30 114 1 4  2363 10 10 120 5 100 100
+
+#MONTARIA PARA BM - URSO
+30 114 2 4  2364 10 10 120 5 100 100
+
+#MONTARIA PARA HT - DENTE DE SABRE
+30 114 3 4  2365 10 10 120 5 100 100
+
+
+
+
+
+
+
+
+
+
+#TK DN SET EMBUTIDO
+35  121    0       4   1216 43 3
+36  122    0       4   1219 43 3
+37  123    0       4   1207 43 3
+38  124    0       4   1213 43 3
+39  125    0       4   1210 43 3
+
+#TK MAG SET EMBUTIDO
+40  121    0       2   1216 43 3 
+41  122    0       2   1219 43 3 
+42  123    0       2   1207 43 3 
+43  124    0       2   1213 43 3 
+44  125    0       2   1210 43 3
+
+
+
+
+
+
+
+#FM DN SET MYTRIL
+80  120    1       4   1351 43 3 
+81  121    1       4   1354 43 3 
+82  122    1       4   1342 43 3 
+83  123    1       4   1348 43 3
+84  124    1       4   1345 43 3 
+
+#FM MAG SET MYTRIL
+85  120    1       4   1351 43 3 
+86  121    1       4   1354 43 3 
+87  122    1       4   1342 43 3 
+88  123    1       4   1348 43 3 
+89  124    1       4   1345 43 3 
+
+
+
+
+
+
+
+
+#BM DN SET ELEMENTAL
+124  121    2       4   1501 43 3 
+125  122    2       4   1504 43 3 
+126  123    2       4   1492 43 3 
+127  124    2       4   1498 43 3 
+128  125    2       4   1495 43 3 
+
+#BM MAG SET ELEMENTAL
+129  121    2       2   1501 43 3
+130  122    2       2   1504 43 3 
+131  123    2       2   1492 43 3 
+132  124    2       2   1498 43 3 
+133  125    2       2   1495 43 3 
+
+
+
+
+
+
+
+#HT DN SET TEIA
+151  121    3       4   1651 43 3 
+152  122    3       4   1654 43 3 
+153  123    3       4   1642 43 3 
+154  124    3       4   1648 43 3
+155  125    3       4   1645 43 3 
+
+
+
+
+
+
+
+
+#ARMA TK DANO NO LEVEL 144
+156  144    0       4   809 43 5 2 36
+157  144    0       1   854 43 5 60 16
+
+#ARMA TK DANO NO LEVEL 256
+350  256    0       4   3551 43 5 2 36
+351  256    0       1   3566 43 5 60 16
+
+#ARMA HT DANO NO LEVEL 255
+160  144    3       4   2122 43 5 2 36
+161  256    3       4   3556 43 5 2 36
+
+#ARMA BM DANO NO LEVEL 144
+162  144    2       4   809 43 5 2 36
+163  144    2       1   854 43 5 60 16
+
+#ARMA BM DANO NO LEVEL 256
+165  256    2       4   3551 43 5 2 36
+164  256    2       1   3566 43 5 60 16
+
+#ARMA FM MAG NO LEVEL 144
+166  144    1       4   2122 43 5 2 36
+167  144    1       1   2127 43 5 60 16
+
+#ARMA FM MAG NO LEVEL 256
+168  256    1       4   3556 43 5 2 36
+169  256    1	    1   3582 43 5 60 16

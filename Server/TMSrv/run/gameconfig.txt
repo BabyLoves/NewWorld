@@ -1,0 +1,30 @@
+Drop Item Event Settings:
+   evindex 483   evdelete 0   evon 0   evitem 413   evrate 1   evstart 1 24 30000 0
+Etc Event Settings:
+   double 0   deadpoint 1   dungeonevent 0   statsapphire 5    battleroyal 518
+Billing Settings:
+   billmode 0   freeexp 35   charselbill 0    potioncount 100   partybonus 50   guildboard 0
+Item Drop Bonus Settings:
+   450 450 450 450 450 450 450 450   450 450 450 450 450 450 450 450
+   450 450 450 450 450 450 450 450   450 450 450 450 450 450 450 450
+   450 450 450 450 450 450 450 450   450 450 450 450 450 450 450 450
+   450 450 450 450 450 450 450 450   450 450 450 450 450 450 450 450
+Treasure Settings:
+0      0     0  0  0  0     0     0  0  0  0     0     0  0  0  0     0     0  0  0  0     0     0  0  0  0   
+       0                    0                    0                    0                    0    
+0      0     0  0  0  0     0     0  0  0  0     0     0  0  0  0     0     0  0  0  0     0     0  0  0  0   
+       0                    0                    0                    0                    0    
+0      0     0  0  0  0     0     0  0  0  0     0     0  0  0  0     0     0  0  0  0     0     0  0  0  0   
+       0                    0                    0                    0                    0    
+0      0     0  0  0  0     0     0  0  0  0     0     0  0  0  0     0     0  0  0  0     0     0  0  0  0   
+       0                    0                    0                    0                    0    
+0      0     0  0  0  0     0     0  0  0  0     0     0  0  0  0     0     0  0  0  0     0     0  0  0  0   
+       0                    0                    0                    0                    0    
+0      0     0  0  0  0     0     0  0  0  0     0     0  0  0  0     0     0  0  0  0     0     0  0  0  0   
+       0                    0                    0                    0                    0    
+0      0     0  0  0  0     0     0  0  0  0     0     0  0  0  0     0     0  0  0  0     0     0  0  0  0   
+       0                    0                    0                    0                    0    
+0      0     0  0  0  0     0     0  0  0  0     0     0  0  0  0     0     0  0  0  0     0     0  0  0  0   
+       0                    0                    0                    0                    0    
+Etc Settings:
+   partydif 400   kefrastatus 1   GTorreHour 21    RVRHour 0    DropItem 0   BRHour 19   maxNightmare 3   PotionDelay 350   HardCore 0

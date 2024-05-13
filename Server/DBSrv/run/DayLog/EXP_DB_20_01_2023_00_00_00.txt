@@ -1,0 +1,4 @@
+[20/01/2023][00:00:00] BIMBA Char:Thulio recebeu 1465 exp hoje.
+[20/01/2023][00:00:00] 1111 Char:Anakin recebeu 27610 exp hoje.
+[20/01/2023][00:00:00] PEDRO Char:Pedrin recebeu 7336 exp hoje.
+[20/01/2023][00:00:00] ROGER Char:Teste recebeu 440 exp hoje.

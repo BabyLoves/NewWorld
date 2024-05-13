@@ -1,0 +1,2 @@
+[06/02/2023][00:00:00]  ItemID:1806 ItemName:Armadura_Couro_Duro(A) ItemNum:1 
+[06/02/2023][00:00:00]  ItemID:4117 ItemName:Caixa_da_Sabedoria ItemNum:5 

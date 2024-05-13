@@ -1,0 +1,3 @@
+[04/02/2023][00:00:00] 1234 Char:teste03 recebeu 9185 exp hoje.
+[04/02/2023][00:00:00] 12345 Char:12345 recebeu 3732 exp hoje.
+[04/02/2023][00:00:00] 123456 Char:Teqw recebeu 24765 exp hoje.

@@ -1,0 +1,4 @@
+[05/06/2023][00:00:00]  ItemID:1654 ItemName:Botas_de_Teia(M) ItemNum:1 
+[05/06/2023][00:00:00]  ItemID:1732 ItemName:Símbolo_de_Coragem ItemNum:1 
+[05/06/2023][00:00:00]  ItemID:2179 ItemName:Manoplas_Douradas(Le) ItemNum:1 
+[05/06/2023][00:00:00]  ItemID:2199 ItemName:Luvas_de_Concha(Le) ItemNum:2 

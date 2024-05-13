@@ -1,0 +1,30 @@
+PO 0 100
+PO 1 90
+PO 2 80
+PO 3 70
+PO 4 60
+PO 5 50
+
+PL 0 100
+PL 1 100
+PL 2 100
+PL 3 100
+PL 4 100
+PL 5 70
+PL 6 55
+PL 7 45
+PL 8 35
+PL 9 20
+
+Âmago 0 100
+Âmago 1 90
+Âmago 2 75
+Âmago 3 60
+Âmago 4 50
+Âmago 5 40
+Âmago 6 35
+Âmago 7 30
+Âmago 8 20
+Âmago 9 15
+Âmago 10 10
+Âmago 11 10

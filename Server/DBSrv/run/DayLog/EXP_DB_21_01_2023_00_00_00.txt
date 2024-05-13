@@ -1,0 +1,3 @@
+[21/01/2023][00:00:00] GTOKAI Char:GtOkAi recebeu 7189 exp hoje.
+[21/01/2023][00:00:00] ROGER Char:Roger recebeu 1705623 exp hoje.
+[21/01/2023][00:00:00] TESTE Char:Brasil recebeu 25823 exp hoje.

@@ -1,0 +1,5 @@
+[08/05/2023][07:43:10]  ItemID:412 ItemName:Poeira_de_Oriharucon ItemNum:33 
+[08/05/2023][07:43:10]  ItemID:413 ItemName:Poeira_de_Lactolerium ItemNum:11 
+[08/05/2023][07:43:10]  ItemID:414 ItemName:Poeira_de_Fada ItemNum:47 
+[08/05/2023][07:43:10]  ItemID:419 ItemName:Resto_de_Oriharucon ItemNum:67 
+[08/05/2023][07:43:10]  ItemID:420 ItemName:Resto_de_Lactolerium ItemNum:35 

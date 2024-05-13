@@ -1,0 +1,4 @@
+[26/01/2023][00:00:00]  ItemID:1219 ItemName:Botas_Embutidas(M) ItemNum:1 
+[26/01/2023][00:00:00]  ItemID:1351 ItemName:Luvas_de_Mytril(M) ItemNum:1 
+[26/01/2023][00:00:00]  ItemID:1651 ItemName:Braçadeira_de_Teia(M) ItemNum:1 
+[26/01/2023][00:00:00]  ItemID:4039 ItemName:Colheita_do_Jardineiro ItemNum:2 

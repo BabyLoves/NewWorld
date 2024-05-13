@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Controle de Pacotes">
+      <UniqueIdentifier>{d9884c32-e0c0-48af-a574-ff9d7ee1378f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Controle de Pacotes\Recebido">
+      <UniqueIdentifier>{9bad4e12-6474-4eca-b728-0f645fa27781}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Controle de Pacotes\Enviado">
+      <UniqueIdentifier>{4b59bb86-1e0f-4d62-8837-a43113f5854b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Hooks">
+      <UniqueIdentifier>{2ec80220-dff4-4936-8d51-2040dfcd6925}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Controle de Interface">
+      <UniqueIdentifier>{a3d265ff-db68-4924-8903-f6534f2ab354}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Ahack">
+      <UniqueIdentifier>{45bc4610-9432-45c1-bcaf-57fe3399062a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Ponteiros">
+      <UniqueIdentifier>{e473b607-60d1-4d9a-ba84-4e3039ce8d73}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Client Info">
+      <UniqueIdentifier>{bbe7706d-04a7-40c2-862e-762ae2922648}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="hooknaked.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="client_receiver.cpp">
+      <Filter>Source Files\Controle de Pacotes\Recebido</Filter>
+    </ClCompile>
+    <ClCompile Include="client_sended.cpp">
+      <Filter>Source Files\Controle de Pacotes\Enviado</Filter>
+    </ClCompile>
+    <ClCompile Include="client_handler.cpp">
+      <Filter>Source Files\Controle de Pacotes</Filter>
+    </ClCompile>
+    <ClCompile Include="SendExpMsg.cpp">
+      <Filter>Source Files\Hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemDescription.cpp">
+      <Filter>Source Files\Hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemPriceFormatDecimal.cpp">
+      <Filter>Source Files\Hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="ChangeTabColor.cpp">
+      <Filter>Source Files\Hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="GetItemAbilityEsferas.cpp">
+      <Filter>Source Files\Hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="GreenTime.cpp">
+      <Filter>Source Files\Hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="MacroNewPotions.cpp">
+      <Filter>Source Files\Hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="NewItemDay.cpp">
+      <Filter>Source Files\Hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="NewMount.cpp">
+      <Filter>Source Files\Hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="SendChat.cpp">
+      <Filter>Source Files\Hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="SetItemPriceString.cpp">
+      <Filter>Source Files\Hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="VolatileMessageBox.cpp">
+      <Filter>Source Files\Hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemToolTipe.cpp">
+      <Filter>Source Files\Controle de Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="MainLoop.cpp">
+      <Filter>Source Files\Controle de Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="aHacker.cpp">
+      <Filter>Source Files\Ahack</Filter>
+    </ClCompile>
+    <ClCompile Include="GlobalPoint.cpp">
+      <Filter>Source Files\Ponteiros</Filter>
+    </ClCompile>
+    <ClCompile Include="ButtonControl.cpp">
+      <Filter>Source Files\Controle de Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="UpdateResource.cpp">
+      <Filter>Source Files\Controle de Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="TeclaPressNewButton﻿.cpp">
+      <Filter>Source Files\Controle de Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlMouseController.cpp">
+      <Filter>Source Files\Controle de Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="CClientInfo.cpp">
+      <Filter>Source Files\Client Info</Filter>
+    </ClCompile>
+    <ClCompile Include="ProcessNpc.cpp">
+      <Filter>Source Files\Controle de Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="NewTrajes.cpp">
+      <Filter>Source Files\Hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="cFunctions.cpp">
+      <Filter>Source Files\Controle de Pacotes</Filter>
+    </ClCompile>
+    <ClCompile Include="MountTrajes.cpp">
+      <Filter>Source Files\Hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="cItemLevel.cpp">
+      <Filter>Source Files\Controle de Pacotes</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="hook.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="singleton.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sendfunc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="hooknaked.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameInterface.h">
+      <Filter>Source Files\Controle de Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="UIControl.h">
+      <Filter>Source Files\Controle de Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="UITextControl.h">
+      <Filter>Source Files\Controle de Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="Anti_RE.h">
+      <Filter>Source Files\Ahack</Filter>
+    </ClInclude>
+    <ClInclude Include="GlobalPoint.h">
+      <Filter>Source Files\Ponteiros</Filter>
+    </ClInclude>
+    <ClInclude Include="CClientInfo.h">
+      <Filter>Source Files\Client Info</Filter>
+    </ClInclude>
+    <ClInclude Include="VirtualizerSDK.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VirtualizerSDK_BorlandC_inline.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VirtualizerSDK_CustomVMs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VirtualizerSDK_CustomVMs_BorlandC_inline.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VirtualizerSDK_CustomVMs_GNU_inline.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VirtualizerSDK_CustomVMs_ICL_inline.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VirtualizerSDK_CustomVMs_LCC_inline.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VirtualizerSDK_CustomVMs_VC_inline.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VirtualizerSDK_GNU_inline.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VirtualizerSDK_ICL_inline.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VirtualizerSDK_LCC_inline.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VirtualizerSDK_VC_inline.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Gui.h">
+      <Filter>Source Files\Controle de Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="Functions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UIClick.h">
+      <Filter>Source Files\Controle de Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="UIheader.h">
+      <Filter>Source Files\Controle de Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="UIItem.h">
+      <Filter>Source Files\Controle de Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="UIListBox.h">
+      <Filter>Source Files\Controle de Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="UIProgressControl.h">
+      <Filter>Source Files\Controle de Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="UISlot.h">
+      <Filter>Source Files\Controle de Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="UITextBox.h">
+      <Filter>Source Files\Controle de Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="ShopList.h">
+      <Filter>Source Files\Client Info</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

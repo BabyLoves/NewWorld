@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{1729E469-5121-44D6-82E5-48D2381D3098}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>TMSrv</RootNamespace>
+    <SccProjectName>
+    </SccProjectName>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccProvider>
+    </SccProvider>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <OutDir>C:\Users\Liz\Downloads\WYD\Release The New World\TMSrv\run</OutDir>
+    <IncludePath>C:\Program Files %28x86%29\MySQL\MySQL Connector C 6.1\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Program Files %28x86%29\MySQL\MySQL Connector C 6.1\lib;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <OutDir>C:\Users\djdou\Desktop\Server\TMSrv\run</OutDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>TurnOffAllWarnings</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>_PACKET_DEBUG;WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <AdditionalIncludeDirectories>C:\Novo Emulador 759 Clean\Source Clean\emulador</AdditionalIncludeDirectories>
+      <AdditionalUsingDirectories>C:\Novo Emulador 759 Clean\Source Clean\emulador</AdditionalUsingDirectories>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>Winmm.lib;ws2_32.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;odbc32.lib;odbccp32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <RandomizedBaseAddress>false</RandomizedBaseAddress>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Basedef.cpp" />
+    <ClCompile Include="..\CPSock.cpp" />
+    <ClCompile Include="CCastleZakum.cpp" />
+    <ClCompile Include="CColiseuA.cpp" />
+    <ClCompile Include="CColiseuM.cpp" />
+    <ClCompile Include="CColiseuN.cpp" />
+    <ClCompile Include="CCubo.cpp" />
+    <ClCompile Include="CItem.cpp" />
+    <ClCompile Include="CMob.cpp" />
+    <ClCompile Include="CNPCGene.cpp" />
+    <ClCompile Include="CReadFiles.cpp" />
+    <ClCompile Include="CUser.cpp" />
+    <ClCompile Include="CWarTower.cpp" />
+    <ClCompile Include="DonateShop.cpp" />
+    <ClCompile Include="DropControl.cpp" />
+    <ClCompile Include="DropList.cpp" />
+    <ClCompile Include="EventoClick.cpp" />
+    <ClCompile Include="FiltroDrop.cpp" />
+    <ClCompile Include="GeradorPix.cpp" />
+    <ClCompile Include="GetFunc.cpp" />
+    <ClCompile Include="IPControl.cpp" />
+    <ClCompile Include="ItemLevel.cpp" />
+    <ClCompile Include="LogControl.cpp" />
+    <ClCompile Include="MailItem.cpp" />
+    <ClCompile Include="NewJephi.cpp" />
+    <ClCompile Include="Ranking.cpp" />
+    <ClCompile Include="reCaptcha.cpp" />
+    <ClCompile Include="RequestAlias.cpp" />
+    <ClCompile Include="RequestTeleport.cpp" />
+    <ClCompile Include="ServerConfig.cpp" />
+    <ClCompile Include="tMontarias.cpp" />
+    <ClCompile Include="wMySQL.cpp" />
+    <ClCompile Include="_MSG_ApostaFreyja.cpp" />
+    <ClCompile Include="_MSG_EventoMissions.cpp" />
+    <ClCompile Include="_MSG_Quiz.cpp" />
+    <ClCompile Include="_MSG_Imple.cpp" />
+    <ClCompile Include="_MSG_GriffinMaster.cpp" />
+    <ClCompile Include="MobKilled.cpp" />
+    <ClCompile Include="ProcessClientMessage.cpp" />
+    <ClCompile Include="ProcessDBMessage.cpp" />
+    <ClCompile Include="ProcessSecMinTimer.cpp" />
+    <ClCompile Include="SendFunc.cpp" />
+    <ClCompile Include="Server.cpp" />
+    <ClCompile Include="_MSG_AcceptParty.cpp" />
+    <ClCompile Include="_MSG_AccountLogin.cpp" />
+    <ClCompile Include="_MSG_AccountSecure.cpp" />
+    <ClCompile Include="_MSG_Action.cpp" />
+    <ClCompile Include="_MSG_ApplyBonus.cpp" />
+    <ClCompile Include="_MSG_Attack.cpp" />
+    <ClCompile Include="_MSG_Buy.cpp" />
+    <ClCompile Include="_MSG_CapsuleInfo.cpp" />
+    <ClCompile Include="_MSG_Challange.cpp" />
+    <ClCompile Include="_MSG_ChallangeConfirm.cpp" />
+    <ClCompile Include="_MSG_ChangeCity.cpp" />
+    <ClCompile Include="_MSG_CharacterLogin.cpp" />
+    <ClCompile Include="_MSG_CharacterLogout.cpp" />
+    <ClCompile Include="_MSG_CombineItem.cpp" />
+    <ClCompile Include="_MSG_CombineItemAgatha.cpp" />
+    <ClCompile Include="_MSG_CombineItemAilyn.cpp" />
+    <ClCompile Include="_MSG_CombineItemAlquimia.cpp" />
+    <ClCompile Include="_MSG_CombineItemDedekinto.cpp" />
+    <ClCompile Include="_MSG_CombineItemEhre.cpp" />
+    <ClCompile Include="_MSG_CombineItemExtracao.cpp" />
+    <ClCompile Include="_MSG_CombineItemLindy.cpp" />
+    <ClCompile Include="_MSG_CombineItemOdin.cpp" />
+    <ClCompile Include="_MSG_CombineItemShany.cpp" />
+    <ClCompile Include="_MSG_CombineItemTiny.cpp" />
+    <ClCompile Include="_MSG_CreateCharacter.cpp" />
+    <ClCompile Include="_MSG_DeleteCharacter.cpp" />
+    <ClCompile Include="_MSG_DeleteItem.cpp" />
+    <ClCompile Include="_MSG_Deposit.cpp" />
+    <ClCompile Include="_MSG_Deprivate.cpp" />
+    <ClCompile Include="_MSG_DropItem.cpp" />
+    <ClCompile Include="_MSG_GetItem.cpp" />
+    <ClCompile Include="_MSG_GuildAlly.cpp" />
+    <ClCompile Include="_MSG_InviteGuild.cpp" />
+    <ClCompile Include="_MSG_MessageChat.cpp" />
+    <ClCompile Include="_MSG_MessageWhisper.cpp" />
+    <ClCompile Include="_MSG_Motion.cpp" />
+    <ClCompile Include="_MSG_NoViewMob.cpp" />
+    <ClCompile Include="_MSG_PKMode.cpp" />
+    <ClCompile Include="_MSG_PutoutSeal.cpp" />
+    <ClCompile Include="_MSG_Quest.cpp" />
+    <ClCompile Include="_MSG_QuitTrade.cpp" />
+    <ClCompile Include="_MSG_Rebuy.cpp" />
+    <ClCompile Include="_MSG_RemoveParty.cpp" />
+    <ClCompile Include="_MSG_ReqBuy.cpp" />
+    <ClCompile Include="_MSG_ReqRanking.cpp" />
+    <ClCompile Include="_MSG_REQShopList.cpp" />
+    <ClCompile Include="_MSG_ReqTeleport.cpp" />
+    <ClCompile Include="_MSG_ReqTradeList.cpp" />
+    <ClCompile Include="_MSG_Restart.cpp" />
+    <ClCompile Include="_MSG_Sell.cpp" />
+    <ClCompile Include="_MSG_SendAutoTrade.cpp" />
+    <ClCompile Include="_MSG_SendReqParty.cpp" />
+    <ClCompile Include="_MSG_SetShortSkill.cpp" />
+    <ClCompile Include="_MSG_SplitItem.cpp" />
+    <ClCompile Include="_MSG_Trade.cpp" />
+    <ClCompile Include="_MSG_TradingItem.cpp" />
+    <ClCompile Include="_MSG_UpdateItem.cpp" />
+    <ClCompile Include="_MSG_UseItem.cpp" />
+    <ClCompile Include="_MSG_War.cpp" />
+    <ClCompile Include="_MSG_Withdraw.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Basedef.h" />
+    <ClInclude Include="..\CPSock.h" />
+    <ClInclude Include="..\include_mysql\big_endian.h" />
+    <ClInclude Include="..\include_mysql\binary_log_types.h" />
+    <ClInclude Include="..\include_mysql\byte_order_generic.h" />
+    <ClInclude Include="..\include_mysql\byte_order_generic_x86.h" />
+    <ClInclude Include="..\include_mysql\decimal.h" />
+    <ClInclude Include="..\include_mysql\errmsg.h" />
+    <ClInclude Include="..\include_mysql\keycache.h" />
+    <ClInclude Include="..\include_mysql\little_endian.h" />
+    <ClInclude Include="..\include_mysql\mysql.h" />
+    <ClInclude Include="..\include_mysql\mysqld_ername.h" />
+    <ClInclude Include="..\include_mysql\mysqld_error.h" />
+    <ClInclude Include="..\include_mysql\mysql\client_authentication.h" />
+    <ClInclude Include="..\include_mysql\mysql\client_plugin.h" />
+    <ClInclude Include="..\include_mysql\mysql\get_password.h" />
+    <ClInclude Include="..\include_mysql\mysql\mysql_lex_string.h" />
+    <ClInclude Include="..\include_mysql\mysql\plugin_auth_common.h" />
+    <ClInclude Include="..\include_mysql\mysql\plugin_trace.h" />
+    <ClInclude Include="..\include_mysql\mysql\service_mysql_alloc.h" />
+    <ClInclude Include="..\include_mysql\mysql\service_my_snprintf.h" />
+    <ClInclude Include="..\include_mysql\mysql_com.h" />
+    <ClInclude Include="..\include_mysql\mysql_com_server.h" />
+    <ClInclude Include="..\include_mysql\mysql_embed.h" />
+    <ClInclude Include="..\include_mysql\mysql_time.h" />
+    <ClInclude Include="..\include_mysql\mysql_version.h" />
+    <ClInclude Include="..\include_mysql\my_alloc.h" />
+    <ClInclude Include="..\include_mysql\my_byteorder.h" />
+    <ClInclude Include="..\include_mysql\my_command.h" />
+    <ClInclude Include="..\include_mysql\my_compiler.h" />
+    <ClInclude Include="..\include_mysql\my_config.h" />
+    <ClInclude Include="..\include_mysql\my_dbug.h" />
+    <ClInclude Include="..\include_mysql\my_dir.h" />
+    <ClInclude Include="..\include_mysql\my_getopt.h" />
+    <ClInclude Include="..\include_mysql\my_global.h" />
+    <ClInclude Include="..\include_mysql\my_list.h" />
+    <ClInclude Include="..\include_mysql\my_sys.h" />
+    <ClInclude Include="..\include_mysql\my_thread.h" />
+    <ClInclude Include="..\include_mysql\my_thread_local.h" />
+    <ClInclude Include="..\include_mysql\my_xml.h" />
+    <ClInclude Include="..\include_mysql\m_ctype.h" />
+    <ClInclude Include="..\include_mysql\m_string.h" />
+    <ClInclude Include="..\include_mysql\pthread.h" />
+    <ClInclude Include="..\include_mysql\sched.h" />
+    <ClInclude Include="..\include_mysql\semaphore.h" />
+    <ClInclude Include="..\include_mysql\singleton.h" />
+    <ClInclude Include="..\include_mysql\sql_common.h" />
+    <ClInclude Include="..\include_mysql\sql_state.h" />
+    <ClInclude Include="..\include_mysql\sslopt-case.h" />
+    <ClInclude Include="..\include_mysql\sslopt-longopts.h" />
+    <ClInclude Include="..\include_mysql\sslopt-vars.h" />
+    <ClInclude Include="..\include_mysql\sys\socket.h" />
+    <ClInclude Include="..\include_mysql\thr_cond.h" />
+    <ClInclude Include="..\include_mysql\thr_mutex.h" />
+    <ClInclude Include="..\include_mysql\thr_rwlock.h" />
+    <ClInclude Include="..\include_mysql\typelib.h" />
+    <ClInclude Include="..\include_mysql\xstring.h" />
+    <ClInclude Include="..\ItemEffect.h" />
+    <ClInclude Include="CCastleZakum.h" />
+    <ClInclude Include="CColiseu.h" />
+    <ClInclude Include="CCubo.h" />
+    <ClInclude Include="Chests.h" />
+    <ClInclude Include="CItem.h" />
+    <ClInclude Include="CMob.h" />
+    <ClInclude Include="CNPCGene.h" />
+    <ClInclude Include="CReadFiles.h" />
+    <ClInclude Include="CUser.h" />
+    <ClInclude Include="CWarTower.h" />
+    <ClInclude Include="Functions.h" />
+    <ClInclude Include="GetFunc.h" />
+    <ClInclude Include="IPControl.h" />
+    <ClInclude Include="Language.h" />
+    <ClInclude Include="LogControl.h" />
+    <ClInclude Include="ProcessClientMessage-BYPOLLY.h" />
+    <ClInclude Include="ProcessClientMessage.h" />
+    <ClInclude Include="ProcessDBMessage.h" />
+    <ClInclude Include="Ranking.h" />
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="SendFunc.h" />
+    <ClInclude Include="Server.h" />
+    <ClInclude Include="wMySQL.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="TMSrv.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\include_mysql\mysql\client_plugin.h.pp" />
+    <None Include="icon1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Anotações a fazer.txt" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

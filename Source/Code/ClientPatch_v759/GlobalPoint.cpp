@@ -1,0 +1,21 @@
+#include "main.h" 
+
+ConfigR						Config;
+	int   ConfigR::WindowControl;
+	bool  ConfigR::gLoopSendInfo;
+	int   ConfigR::ShopPage;
+	int   ConfigR::RankingPage;
+	int   ConfigR::ShopStore;
+	int	  ConfigR::ShopItemIndex;
+	int   ConfigR::ShopItemPos;
+	int   ConfigR::ShopItemQnt;
+	int	  ConfigR::ItemLevel[5];
+	bool  ConfigR::gModoFoto;
+	bool  ConfigR::gModoChat;
+	bool  ConfigR::gModoLoja;
+	int   ConfigR::DropListPage;
+	int   ConfigR::DropListRegion;
+	int	  ConfigR::Jephi;
+	int   ConfigR::PixValue;
+	int   ConfigR::DropListTpages;
+	int   ConfigR::Captcha;

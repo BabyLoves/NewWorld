@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="aHacker.cpp" />
+    <ClCompile Include="ButtonControl.cpp" />
+    <ClCompile Include="CClientInfo.cpp" />
+    <ClCompile Include="cFunctions.cpp" />
+    <ClCompile Include="ChangeTabColor.cpp" />
+    <ClCompile Include="cItemLevel.cpp" />
+    <ClCompile Include="client_handler.cpp" />
+    <ClCompile Include="client_receiver.cpp" />
+    <ClCompile Include="client_sended.cpp" />
+    <ClCompile Include="ControlMouseController.cpp" />
+    <ClCompile Include="GetItemAbilityEsferas.cpp" />
+    <ClCompile Include="GlobalPoint.cpp" />
+    <ClCompile Include="GreenTime.cpp" />
+    <ClCompile Include="hooknaked.cpp" />
+    <ClCompile Include="ItemDescription.cpp" />
+    <ClCompile Include="ItemPriceFormatDecimal.cpp" />
+    <ClCompile Include="MacroNewPotions.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="MainLoop.cpp" />
+    <ClCompile Include="MountTrajes.cpp" />
+    <ClCompile Include="NewItemDay.cpp" />
+    <ClCompile Include="ItemToolTipe.cpp" />
+    <ClCompile Include="NewMount.cpp" />
+    <ClCompile Include="NewTrajes.cpp" />
+    <ClCompile Include="ProcessNpc.cpp" />
+    <ClCompile Include="SendChat.cpp" />
+    <ClCompile Include="SendExpMsg.cpp" />
+    <ClCompile Include="SetItemPriceString.cpp" />
+    <ClCompile Include="TeclaPressNewButton﻿.cpp" />
+    <ClCompile Include="UpdateResource.cpp" />
+    <ClCompile Include="VolatileMessageBox.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Anti_RE.h" />
+    <ClInclude Include="CClientInfo.h" />
+    <ClInclude Include="Functions.h" />
+    <ClInclude Include="GameInterface.h" />
+    <ClInclude Include="GlobalPoint.h" />
+    <ClInclude Include="Gui.h" />
+    <ClInclude Include="hook.h" />
+    <ClInclude Include="hooknaked.h" />
+    <ClInclude Include="main.h" />
+    <ClInclude Include="sendfunc.h" />
+    <ClInclude Include="ShopList.h" />
+    <ClInclude Include="singleton.h" />
+    <ClInclude Include="UIClick.h" />
+    <ClInclude Include="UIControl.h" />
+    <ClInclude Include="UIheader.h" />
+    <ClInclude Include="UIItem.h" />
+    <ClInclude Include="UIListBox.h" />
+    <ClInclude Include="UIProgressControl.h" />
+    <ClInclude Include="UISlot.h" />
+    <ClInclude Include="UITextBox.h" />
+    <ClInclude Include="UITextControl.h" />
+    <ClInclude Include="VirtualizerSDK.h" />
+    <ClInclude Include="VirtualizerSDK_BorlandC_inline.h" />
+    <ClInclude Include="VirtualizerSDK_CustomVMs.h" />
+    <ClInclude Include="VirtualizerSDK_CustomVMs_BorlandC_inline.h" />
+    <ClInclude Include="VirtualizerSDK_CustomVMs_GNU_inline.h" />
+    <ClInclude Include="VirtualizerSDK_CustomVMs_ICL_inline.h" />
+    <ClInclude Include="VirtualizerSDK_CustomVMs_LCC_inline.h" />
+    <ClInclude Include="VirtualizerSDK_CustomVMs_VC_inline.h" />
+    <ClInclude Include="VirtualizerSDK_GNU_inline.h" />
+    <ClInclude Include="VirtualizerSDK_ICL_inline.h" />
+    <ClInclude Include="VirtualizerSDK_LCC_inline.h" />
+    <ClInclude Include="VirtualizerSDK_VC_inline.h" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{388B5CEE-6842-42F1-B192-98B2DBB559EF}</ProjectGuid>
+    <RootNamespace>ClientPatch_v7662</RootNamespace>
+    <ProjectName>ClientPatch</ProjectName>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <WholeProgramOptimization>false</WholeProgramOptimization>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <TargetName>ClientPatch</TargetName>
+    <OutDir>C:\Users\Liz\AppData\Local\Programs\WYD</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <TargetExt>.dll</TargetExt>
+    <OutDir>..\..\..\Victor\WYD Warung</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <TargetExt>.dll</TargetExt>
+    <OutDir>..\..\..\..\..\..\..\Program Files %28x86%29\WYD - The New World - Copia</OutDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>TurnOffAllWarnings</WarningLevel>
+      <SDLCheck>false</SDLCheck>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <MinimalRebuild>false</MinimalRebuild>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <Optimization>MinSpace</Optimization>
+      <AdditionalIncludeDirectories>C:\Novo Emulador 759 Clean\Source Clean\emulador</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <OptimizeReferences>true</OptimizeReferences>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;odbc32.lib;odbccp32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+    <ProjectReference />
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

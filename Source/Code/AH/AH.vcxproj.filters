@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Splash">
+      <UniqueIdentifier>{8387a70b-e1f3-437c-ae4b-12207201be36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Anti Kill">
+      <UniqueIdentifier>{4dd2cd82-639f-4a60-a845-453d408f97e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Ban">
+      <UniqueIdentifier>{6a280d23-733c-40f8-b8fd-d5e05523beb4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\CRC">
+      <UniqueIdentifier>{f904cf1d-9b9e-4b3a-b5b2-1126d67d347a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Detectors">
+      <UniqueIdentifier>{336a8587-74ca-4c17-9a19-8bf3aa2adf6e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="splash2.cpp">
+      <Filter>Source Files\Splash</Filter>
+    </ClCompile>
+    <ClCompile Include="Splash.cpp">
+      <Filter>Source Files\Splash</Filter>
+    </ClCompile>
+    <ClCompile Include="START.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CRC.cpp">
+      <Filter>Source Files\CRC</Filter>
+    </ClCompile>
+    <ClCompile Include="CRC_Arquivos.cpp">
+      <Filter>Source Files\CRC</Filter>
+    </ClCompile>
+    <ClCompile Include="LAntikill_ByFileSize.cpp">
+      <Filter>Source Files\Anti Kill</Filter>
+    </ClCompile>
+    <ClCompile Include="LAntikill_ByPipe.cpp">
+      <Filter>Source Files\Anti Kill</Filter>
+    </ClCompile>
+    <ClCompile Include="Limit_Single_Instance.cpp">
+      <Filter>Source Files\Anti Kill</Filter>
+    </ClCompile>
+    <ClCompile Include="Serial_Versao.cpp">
+      <Filter>Source Files\Anti Kill</Filter>
+    </ClCompile>
+    <ClCompile Include="Detecta_AntiKill_Thread.cpp">
+      <Filter>Source Files\Anti Kill</Filter>
+    </ClCompile>
+    <ClCompile Include="Detecta_AntiKill_Scans.cpp">
+      <Filter>Source Files\Anti Kill</Filter>
+    </ClCompile>
+    <ClCompile Include="Hardware_Ban.cpp">
+      <Filter>Source Files\Ban</Filter>
+    </ClCompile>
+    <ClCompile Include="Hack_Log_Upload.cpp">
+      <Filter>Source Files\Ban</Filter>
+    </ClCompile>
+    <ClCompile Include="Close_ClassName.cpp">
+      <Filter>Source Files\Detectors</Filter>
+    </ClCompile>
+    <ClCompile Include="Rebuild_Main_Data.cpp">
+      <Filter>Source Files\Detectors</Filter>
+    </ClCompile>
+    <ClCompile Include="Close_Window.cpp">
+      <Filter>Source Files\Detectors</Filter>
+    </ClCompile>
+    <ClCompile Include="Detecta_ClassName.cpp">
+      <Filter>Source Files\Detectors</Filter>
+    </ClCompile>
+    <ClCompile Include="Detecta_Dump.cpp">
+      <Filter>Source Files\Detectors</Filter>
+    </ClCompile>
+    <ClCompile Include="Detecta_Heuristica.cpp">
+      <Filter>Source Files\Detectors</Filter>
+    </ClCompile>
+    <ClCompile Include="Detecta_Heuristica_NC.cpp">
+      <Filter>Source Files\Detectors</Filter>
+    </ClCompile>
+    <ClCompile Include="Detecta_Hide.cpp">
+      <Filter>Source Files\Detectors</Filter>
+    </ClCompile>
+    <ClCompile Include="Detecta_Inject.cpp">
+      <Filter>Source Files\Detectors</Filter>
+    </ClCompile>
+    <ClCompile Include="Detecta_Inject_API.cpp">
+      <Filter>Source Files\Detectors</Filter>
+    </ClCompile>
+    <ClCompile Include="Detecta_Names.cpp">
+      <Filter>Source Files\Detectors</Filter>
+    </ClCompile>
+    <ClCompile Include="Detecta_ProcessID.cpp">
+      <Filter>Source Files\Detectors</Filter>
+    </ClCompile>
+    <ClCompile Include="Detecta_Speed_Performance.cpp">
+      <Filter>Source Files\Detectors</Filter>
+    </ClCompile>
+    <ClCompile Include="Detecta_Speed_Tickcount.cpp">
+      <Filter>Source Files\Detectors</Filter>
+    </ClCompile>
+    <ClCompile Include="Detecta_Virtual_Memory.cpp">
+      <Filter>Source Files\Detectors</Filter>
+    </ClCompile>
+    <ClCompile Include="Detecta_Window.cpp">
+      <Filter>Source Files\Detectors</Filter>
+    </ClCompile>
+    <ClCompile Include="Launcher_ativo.cpp">
+      <Filter>Source Files\Detectors</Filter>
+    </ClCompile>
+    <ClCompile Include="Server_Ban.cpp">
+      <Filter>Source Files\Ban</Filter>
+    </ClCompile>
+    <ClCompile Include="TESTES.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Detecta_Heuristica_Win.cpp">
+      <Filter>Source Files\Detectors</Filter>
+    </ClCompile>
+    <ClCompile Include="Detecta_Heuristica_Class.cpp">
+      <Filter>Source Files\Detectors</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Classe.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CRC.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Splash.h">
+      <Filter>Source Files\Splash</Filter>
+    </ClInclude>
+    <ClInclude Include="START.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Dump.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LimitSingleInstance.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

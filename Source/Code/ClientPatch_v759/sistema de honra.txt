@@ -1,0 +1,5 @@
+para a honra atualizar corretamente na hud
+é necessário fazer da mesma forma que o donate é recebido e entregue em todas as definições da tmsrv/dbsrv
+recomendo fazer exatamente igual o donate foi feito na source.
+lembrando que sempre que for usar alguma ação da honra acrescentar
+sendetc.

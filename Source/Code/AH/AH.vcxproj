@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{DC83944E-B2EF-4985-B897-42A1563C999C}</ProjectGuid>
+    <RootNamespace>PJGuard</RootNamespace>
+    <ProjectName>AntiHacker WYD</ProjectName>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.30319.1</_ProjectFileVersion>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(SolutionDir)Build\Client\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(Configuration)\</IntDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(SolutionDir)$(Configuration)\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(Configuration)\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <TargetName>ClientPatch</TargetName>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <MinimalRebuild>true</MinimalRebuild>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <TargetMachine>MachineX86</TargetMachine>
+      <AdditionalDependencies>wsock32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <Optimization>MaxSpeed</Optimization>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <OptimizeReferences>true</OptimizeReferences>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <TargetMachine>MachineX86</TargetMachine>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="Detecta_Heuristica_Class.cpp" />
+    <ClCompile Include="Detecta_Heuristica_Win.cpp" />
+    <ClCompile Include="Detecta_Inject_API.cpp" />
+    <ClCompile Include="Detecta_Speed_Performance.cpp" />
+    <ClCompile Include="Hack_Log_Upload.cpp" />
+    <ClCompile Include="LAntikill_ByPipe.cpp" />
+    <ClCompile Include="Close_Window.cpp" />
+    <ClCompile Include="Limit_Single_Instance.cpp" />
+    <ClCompile Include="Rebuild_Main_Data.cpp" />
+    <ClCompile Include="Server_Ban.cpp" />
+    <ClCompile Include="Detecta_AntiKill_Thread.cpp" />
+    <ClCompile Include="Detecta_Heuristica.cpp" />
+    <ClCompile Include="Detecta_Speed_Tickcount.cpp" />
+    <ClCompile Include="Hardware_Ban.cpp" />
+    <ClCompile Include="Launcher_ativo.cpp" />
+    <ClCompile Include="Detecta_ClassName.cpp" />
+    <ClCompile Include="START.cpp" />
+    <ClCompile Include="Detecta_Names.cpp" />
+    <ClCompile Include="CRC.cpp" />
+    <ClCompile Include="CRC_Arquivos.cpp" />
+    <ClCompile Include="Detecta_Heuristica_NC.cpp" />
+    <ClCompile Include="Detecta_Dump.cpp" />
+    <ClCompile Include="Detecta_Window.cpp" />
+    <ClCompile Include="Serial_Versao.cpp" />
+    <ClCompile Include="Splash.cpp" />
+    <ClCompile Include="splash2.cpp" />
+    <ClCompile Include="Detecta_Inject.cpp" />
+    <ClCompile Include="Detecta_ProcessID.cpp" />
+    <ClCompile Include="Detecta_Hide.cpp" />
+    <ClCompile Include="LAntikill_ByFileSize.cpp" />
+    <ClCompile Include="Close_ClassName.cpp" />
+    <ClCompile Include="Detecta_AntiKill_Scans.cpp" />
+    <ClCompile Include="Detecta_Virtual_Memory.cpp" />
+    <ClCompile Include="TESTES.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Dump.h" />
+    <ClInclude Include="LimitSingleInstance.h" />
+    <ClInclude Include="START.h" />
+    <ClInclude Include="Classe.h" />
+    <ClInclude Include="CRC.h" />
+    <ClInclude Include="Splash.h" />
+    <ClInclude Include="StdAfx.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

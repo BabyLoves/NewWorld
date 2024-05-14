@@ -1,0 +1,5 @@
+FFFFFF O dano real é efeito de uma skill,
+FFFFFF depende do aprendizado da skill,
+FFFFFF status do personagem e items equipados.
+FFFFFF O gasto de mana aumenta assim que for
+FFFFFF realizado o aprendizado da skill.

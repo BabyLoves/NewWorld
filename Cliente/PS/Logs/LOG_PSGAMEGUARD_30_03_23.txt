@@ -1,0 +1,6 @@
+# Main Game (Log), Version 1: 6, 2: 6, 3: 10
+>
+PS GAMEGUARD 1.0.3.5 [World.exe] - 30/03/2023 21:20:02 > Arquivo (sn.bin) modificado, reinstale o cliente!
+PS GAMEGUARD 1.0.3.5 [World.exe] - 30/03/2023 21:36:51 > Arquivo (sn.bin) modificado, reinstale o cliente!
+PS GAMEGUARD 1.0.3.5 [World.exe] - 30/03/2023 22:57:06 > Arquivo (sn.bin) modificado, reinstale o cliente!
+PS GAMEGUARD 1.0.3.5 [World.exe] - 30/03/2023 23:28:29 > O servidor se encontra em manutenção, tente novamente mais tarde.

@@ -1,0 +1,100 @@
+FFFFAA << Contrato dos Espíritos >>  
+FFFFFF 
+FFFFFF Na guerra lendária, o General do céu, Kafma, estava
+FFFFFF liderando o batalhão comandado por 4 contratantes
+FFFFFF dos espíritos.
+FFFFFF 
+FFFFFF Esse foi o fator principal para
+FFFFFF acabar com a tropa inimiga.
+FFFFFF Elime, espírito da Água. Sylphed, espírito do Vento.
+FFFFFF Thelio do Fogo e Noas, da Terra...
+FFFFFF O seu poder está chegando ao limite.
+FFFFFF 
+FFFFFF A partir de agora você poderá realizar 
+FFFFFF contratos com os 4 espíritos.
+FFFFFF 
+FFFFFF Os cristais dos espíritos são essenciais para
+FFFFFF realizar os contratos. Os cristais
+FFFFFF podem ser achados na Dungeon de Kefra.
+FFFFFF O contrato com os espíritos pode ser 
+FFFFFF realizado apenas no 355º nivel
+FFFFAA << Primeiro: Espírito da Água >> 
+FFFFFF 
+FFFFFF Para fazer o contrato com Elime é necessário
+FFFFFF ser um personagem Arch com level de 355 e precisa
+FFFFFF sacrificar 10.000.000 de experiência, e o item
+FFFFFF Cristal de Elime.
+FFFFFF 
+FFFFFF Pelo contrato com Elime você ganha 80 de MP,
+FFFFFF e a autorização para poder realizar contrato
+FFFFFF com espírito do Vento, Sylphed.
+FFFFFF O Cristal de Elime pode ser obtido matando o 
+FFFFFF Espírito_Maldito que reside na Dungeon de Kefra.
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFAA << Segundo: Espírito do Vento >>  
+FFFFFF 
+FFFFFF Para o contrato com Sylphed é necessário ser
+FFFFFF um personagem Arch com level de 355 e precisa
+FFFFFF sacrificar 10.000.000 de experiência, e o item
+FFFFFF Cristal de Sylphed.
+FFFFFF 
+FFFFFF Pelo contrato com Sylphed você ganha 30 de AC,
+FFFFFF e a autorização para poder realizar contrato
+FFFFFF com espírito de fogo, Thelio.
+FFFFFF O Cristal de Sylphed pode ser obtido matando o
+FFFFFF Esqueleto_Maldito que reside na Dungeon de Kefra.
+FFFFFF  
+FFFFFF Se você não possuir o contrato com espírito da água,
+FFFFFF não é possível realizar contratos com o espírito do vento.
+FFFFFF 
+FFFFFF  
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFAA << Terceiro: Espírito do Fogo >>  
+FFFFFF 
+FFFFFF Para o contrato com Thelio é necessário 
+FFFFFF ser um personagem Arch com
+FFFFFF level de 355 e precisa sacrificar
+FFFFFF 10.000.000 de experiência e o item Cristal de Thelion.
+FFFFFF 
+FFFFFF Pelo contrato com Thelion você ganha 80 de HP
+FFFFFF e a autorização para poder realizar contrato
+FFFFFF com espírito de terra Noas.
+FFFFFF 
+FFFFFF O Cristal de Thelion pode ser obtido matando o
+FFFFFF Monge_Canibal que reside na Dungeon de Kefra.
+FFFFFF 
+FFFFFF Se não você possuir o contrato com espírito do vento,
+FFFFFF não é possível realizar contratos com o espírito de fogo.
+FFFFFF  
+FFFFFF  
+FFFFFF 
+FFFFFF 
+FFFFAA << Quarto: Espírito da Terra >> 
+FFFFFF 
+FFFFFF Para o contrato com Noas é necessário ser 
+FFFFFF um personagem Arch com level de 355 e precisa
+FFFFFF sacrificar 10.000.000 de experiência, e o item
+FFFFFF Cristal de Noas.
+FFFFFF 
+FFFFFF Pelo contrato com Noas você ganha 60 de HP, 20 de AC
+FFFFFF e 60 de MP. 
+FFFFFF 
+FFFFFF O Cristal de Noas pode ser obtido matando o
+FFFFFF Morcego que reside na Dungeon de Kefra.
+FFFFFF 
+FFFFFF Se você não possuir o contrato com o do fogo, não
+FFFFFF é possível realizar contratos com o espírito da terra.
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF 

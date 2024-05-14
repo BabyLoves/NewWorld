@@ -1,0 +1,3 @@
+# Main Game (Log), Version 1: 6, 2: 6, 3: 10
+>
+PS GAMEGUARD 1.0.3.5 [World.exe] - 29/03/2023 23:01:39 > (2)(11748) Falha na comunicação com o processo do PS, o jogo será encerrado!

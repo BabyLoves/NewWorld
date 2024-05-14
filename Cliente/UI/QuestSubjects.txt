@@ -1,0 +1,13 @@
+001 FFFFFF [Campo de Treino]    - LV 1
+040 FFFFFF [Defensor da Alma]   - LV 40
+040 FFFFFF [Conq.Castelo Orc]   - LV 40
+060 FFFFFF [Def.Terra Mística]  - LV 60
+070 FFFFFF [Benção de Deus]     - LV 70
+101 FFFFFF [Form.Cav.Aprendizes]- LV 101
+116 FFFFFF [Jardim do Deus]     - LV 116
+120 FFFFFF [Equilíbrio da Força]- LV 120
+191 FFFFFF [Ressu. Cav. Negro]  - LV 191
+201 FFFFFF [Molar do Gárgula]   - LV 201
+221 FFFFFF [Cavaleiro do Reino] - LV 221
+266 FFFFFF [Hidra Imortal]      - LV 266
+321 FFFFFF [In. da Infelicidade]- LV 321

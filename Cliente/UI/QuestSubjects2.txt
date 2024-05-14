@@ -1,0 +1,23 @@
+050 FFFFFF [Cubo da Maldade - N]- LV 50
+070 FFFFFF [Círculo Divino]     - LV 70
+071 FFFFFF [Sala Secreta]       - LV 71
+075 FFFFFF [Monstro Comerciante]- LV 75
+080 FFFFFF [Rastros além do céu]- LV 80
+085 FFFFFF [Pesadelo - N]       - LV 85
+090 FFFFFF [Cubo da Maldade - M]- LV 90
+100 FFFFFF [Pedra da Troca]     - LV 100
+110 FFFFFF [Z. Elem. Água - N]  - LV 110
+150 FFFFFF [Sociedade do WYD]   - LV 150
+160 FFFFFF [Cubo da Maldade - A]- LV 160
+180 FFFFFF [Z. Elem. Água - M]  - LV 180
+190 FFFFFF [Coliseu - N]        - LV 190
+200 FFFFFF [Pesadelo - M]       - LV 200
+210 FFFFFF [Portão Infernal]    - LV 210
+220 FFFFFF [Medalha do Reino]   - LV 220
+256 FFFFFF [Temp. Inacabável]   - LV 256
+257 FFFFFF [Coliseu - M]        - LV 257
+275 FFFFFF [Z. Elem. Água - A]  - LV 275
+280 FFFFFF [Proc da Vida Eterna]- LV 280
+280 FFFFFF [Um Novo Começo]     - LV 280
+295 FFFFFF [Pesadelo - A]       - LV 295
+300 FFFFFF [Coliseu - A]        - LV 300

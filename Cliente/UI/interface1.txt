@@ -1,0 +1,10 @@
+FFFFFF 
+FFFFFF 
+FFFFFF Quantidade de Skill`s no modo auto ataque
+FFFFFF Usar poção de energia (vida)
+FFFFFF Usar poção de mana
+FFFFFF 
+FFFFFF 
+FFFFFF Usar pergaminho de recall
+FFFFFF Tirar Screenshot e armazenar na pasta.
+FFFFFF 

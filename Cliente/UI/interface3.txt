@@ -1,0 +1,13 @@
+FFFFFF Alterar tamanho da janela de chat
+FFFFFF 
+FFFFFF 
+FFFFFF 
+FFFFFF Abrir janela de ajuda
+FFFFFF 
+FFFFFF Movimentar personagem para frente
+FFFFFF Abrir menu de quest
+FFFFFF Usar chat
+FFFFFF 
+FFFFFF
+
+

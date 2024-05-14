@@ -1,24 +1,24 @@
-# W2PP
+# New World
 
-### About the Project:
+### Sobre o projeto:
 
-The W2PP is a project based on a decompilation from a Polly's Server Release for the game W2. The project is entirely developed in C/C++ and we use Visual Studio 2015 to compile and develop the project.
+Este projeto é baseado no W2PP onde passou por uma série de mudanças severas incluindo aprimoramentos visuais, implementação de novas funcionalidades e afins.
+Utiliza um sistema de contas integrado com o MySQL para gerenciamento de informações voláteis tais como sistema de cash, login, senha e afins.
 
-We use the latest client build to connect this release.
+![image](https://github.com/BabyLoves/NewWorld/assets/65966239/efe73e74-195f-4de7-9f5f-19cac32fcfbb)
 
-We do not claim any copyrights, this project was created just for study purposes. All rights reserved to Hanbitsoft.
 
-The initial code was created by Klafke and TheHouse and are maintened by a active community at current moment.
+Assim sendo, é um projeto baseado em uma descompilação do Polly's Server Release para o jogo W2. O projeto é totalmente desenvolvido em C/C++ e utilizamos Visual Studio 2015+ para compilar e desenvolver o projeto.
+Usamos a versão disponibilizada do cliente para conectar esta versão.
+Não reivindicamos nenhum direito autoral, este projeto foi criado apenas para fins de estudo. Todos os direitos reservados à Hanbitsoft.
 
-### Content of W2PP Project:
+### Conteúdo do projeto:
 
-Here's a list with avaliable content in actual project and what means:
-
-* AttributeMap_Editor: Developed to make changes in attributes of Map.
-* BISrv: Application deprecated destined to control GameServers and CPU usage.
-* ClientPatch_v7662: DLL to unlock Client.
-* DBSrv: Application to control accounts, chars and others.
-* TMSrv: Application to control connections.
+* AttributeMap_Editor: Desenvolvido para fazer alterações nos atributos do Mapa.
+* ClientPatch: DLL para desbloquear o cliente.
+* DBSrv: Aplicativo para controle de contas, chars e outros.
+* TMSrv: Aplicativo para controlar conexões e funções.
+* AccountCreator: Aplicação para criação de novas contas.
 
 ### General Public License:
 
@@ -41,4 +41,18 @@ The code is under the [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.html) li
 * [Visual Studio 2015](https://www.visualstudio.com/pt-br/downloads/download-visual-studio-vs.aspx)
 * [Learn Git/Github](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
 * [Learn C/C++](http://www.learn-c.org/)
+* [MySql Connector 6.1](https://downloads.mysql.com/archives/c-c/)
 
+### Créditos:
+BnkBrum,
+SeiTbNao,
+Guga,
+BabyLoves,
+Arkanun1000
+
+[W2PP]
+VKlafke,
+hiccupsman,
+andresantacruz,
+ErickAlcan,
+kevinkouketsu

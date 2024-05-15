@@ -1809,9 +1809,9 @@ int  CMob::CheckGetLevel()
 		max_level = MAX_CLEVEL;
 		IsMortal = 199;
 	}
-		
+
 	if (cur >= max_level)
-		return 0;	
+		return 0;
 
 	long long exp = MOB.Exp;
 	long long curexp = max_level == IsMortal ? g_pNextLevel[cur] : g_pNextLevel_2[cur];
@@ -1829,22 +1829,22 @@ int  CMob::CheckGetLevel()
 	else if (exp > Segment1)
 		CurSeg = 1;
 
-	/*
+
 	if (extra.ClassMaster == CELESTIAL && (cur == 39 && extra.QuestInfo.Celestial.Lv40 == 0 || cur == 89 && extra.QuestInfo.Celestial.Lv90 == 0 || cur == 239 && extra.QuestInfo.Celestial.Lv240 == 0 ||
 		cur == 279 && extra.QuestInfo.Celestial.Lv280 == 0 || cur == 319 && extra.QuestInfo.Celestial.Lv320 == 0 || cur == 359 && extra.QuestInfo.Celestial.Lv360 == 0))
-		return 0;*/
+		return 0;
 
 	if (extra.ClassMaster == CELESTIAL && (cur == 39 && extra.QuestInfo.Celestial.Lv40 == 0 || cur == 89 && extra.QuestInfo.Celestial.Lv90 == 0))
 		return 0;
 
-	/*
+
 	if (extra.ClassMaster == CELESTIALCS && (cur == 239 && extra.QuestInfo.Celestial.Lv240 == 0 || cur == 279 && extra.QuestInfo.Celestial.Lv280 == 0 ||
 		cur == 319 && extra.QuestInfo.Celestial.Lv320 == 0 || cur == 359 && extra.QuestInfo.Celestial.Lv360 == 0))
 		return 0;
 
 	if (extra.ClassMaster == SCELESTIAL && (cur == 239 && extra.QuestInfo.Celestial.Lv240 == 0 || cur == 279 && extra.QuestInfo.Celestial.Lv280 == 0 ||
 		cur == 319 && extra.QuestInfo.Celestial.Lv320 == 0 || cur == 359 && extra.QuestInfo.Celestial.Lv360 == 0))
-		return 0;*/
+		return 0;
 
 	if (extra.ClassMaster == ARCH && (cur == 354 && extra.QuestInfo.Arch.Level355 == 0 || cur == 369 && extra.QuestInfo.Arch.Level370 == 0))
 		return 0;
@@ -2233,15 +2233,15 @@ void CMob::AddChaosPoints(int points)
 
 	currentPoints += points;
 
-	if (currentPoints < 0) 
-		currentPoints = 0; 
+	if (currentPoints < 0)
+		currentPoints = 0;
 
 	if (currentPoints > 75)
 		currentPoints = 75;
 
 	MOB.Carry[KILL_MARK].stEffect[KILL_MARK_CHAOS_POINTS].cEffect = (unsigned char)currentPoints;
 }
- 
+
 void CMob::Clear()
 {
 	Mode = MOB_EMPTY;

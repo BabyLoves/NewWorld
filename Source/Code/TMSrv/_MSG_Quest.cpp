@@ -1,4 +1,4 @@
-#include "ProcessClientMessage.h"   
+ï»¿#include "ProcessClientMessage.h"   
 #include "wMySQL.h"
 #include "Functions.h"
 //#include "Functions.h"
@@ -12,7 +12,7 @@ void Exec_MSG_Quest(int conn, char* pMsg)
 
 	if (Size > sizeof(MSG_STANDARDPARM2)) //CONTROLE DE SIZE
 	{
-		SendClientMessage(conn, "Impossível executar ação36, tente mais tarde. ");
+		SendClientMessage(conn, "ImpossÃ­vel executar aÃ§Ã£o36, tente mais tarde. ");
 		return;
 	}
 	if (pUser[conn].Atraso != 0)
@@ -277,8 +277,35 @@ void Exec_MSG_Quest(int conn, char* pMsg)
 	}return;
 	case EVENTO_HIT:
 	{
-		SendRecaptcha(conn, 4);				
-	}return;	
+		if (EventStatus == 0) {
+			SendClientMessage(conn, "Evento Desativado");
+			return;
+		}
+
+		for (int z = 0; z < MAX_USER; z++)
+		{
+			if (pUser[z].Mode != USER_PLAY)
+				continue;
+
+			if (pUser[z].DiariaState == 1)
+			{
+				if (pUser[z].IP == pUser[conn].IP) {
+					SendClientMessage(conn, "Limite de [01] Conta por IP");
+					return;
+				}
+			}
+		}
+		SendMsgExp(conn, "Bem Vindo ao Evento Hit", TNColor::Default, false);
+		int _rand = rand() % 2;
+		if (_rand == 0) {
+			DoTeleport(conn, 1311 + rand() % 2, 1499 + rand() % 2);
+		}
+		else {
+			DoTeleport(conn, 1372 + rand() % 2, 1499 + rand() % 2);
+		}
+		pUser[conn].DiariaState = 1;
+		pUser[conn].Territorio = 0;
+	}return;
 #pragma region MOUNT_MASTER
 	case MOUNT_MASTER:
 	{
@@ -873,8 +900,8 @@ void Exec_MSG_Quest(int conn, char* pMsg)
 		if (ReiClan == 7)
 			Saphire = 4;
 
-	/*	if (TradingCape == TRUE)
-			Saphire = 150;*/
+		/*	if (TradingCape == TRUE)
+				Saphire = 150;*/
 
 		if (TradingCape == TRUE && (pMob[conn].MOB.GuildLevel == 9 || pMob[conn].MOB.GuildLevel == 6))
 			Saphire = 2000;
@@ -960,7 +987,7 @@ void Exec_MSG_Quest(int conn, char* pMsg)
 			if (pMob[conn].extra.ClassMaster == MORTAL && pMob[conn].MOB.CurrentScore.Level >= 380 && pMob[conn].Mode != MOB_WAITDB)
 			{
 				if (EvolutionStatus < 1) {
-					SendClientMessage(conn, "Criação de Arch Bloqueada");
+					SendClientMessage(conn, "CriaÃ§Ã£o de Arch Bloqueada");
 					return;
 				}
 
@@ -993,7 +1020,7 @@ void Exec_MSG_Quest(int conn, char* pMsg)
 						sm_ca.DivinaEndTimer = pMob[conn].extra.DivineEnd;
 						break;
 					}
-				}		
+				}
 
 				strncpy(sm_ca.MobName, pMob[conn].MOB.MobName, NAME_LENGTH);
 				memset(&pMob[conn].MOB.Equip[10], 0, sizeof(STRUCT_ITEM));
@@ -1069,7 +1096,7 @@ void Exec_MSG_Quest(int conn, char* pMsg)
 			}
 
 			if (SlotId == -1) {
-				SendClientMessage(conn, "Precisa haver espaço disponivel no inventário");
+				SendClientMessage(conn, "Precisa haver espaÃ§o disponivel no inventÃ¡rio");
 				return;
 			}
 
@@ -1212,7 +1239,7 @@ void Exec_MSG_Quest(int conn, char* pMsg)
 			}
 
 			if (SlotId == -1) {
-				SendClientMessage(conn, "Precisa haver espaço disponivel no inventário");
+				SendClientMessage(conn, "Precisa haver espaÃ§o disponivel no inventÃ¡rio");
 				return;
 			}
 
@@ -1524,18 +1551,18 @@ void Exec_MSG_Quest(int conn, char* pMsg)
 		{
 			SendClientMessage(conn, g_pMessageStringTable[_NN_Party_Leader_Only]);
 			break;
-		}		
+		}
 
 		/*if (pUser[conn].Ingame.CheckPista == TRUE)
 		{
-			SendClientMessage(conn, "Entrada Já esta registrada");
+			SendClientMessage(conn, "Entrada JÃ¡ esta registrada");
 			break;
 		}*/
 
 		for (int k = 0; k < 7; k++) {
 			for (int z = 0; z < 3; z++) {
 				if (Pista[k].Party[z].LeaderID == conn) {
-					SendClientMessage(conn, "Entrada Já esta registrada");
+					SendClientMessage(conn, "Entrada JÃ¡ esta registrada");
 					return;
 				}
 			}
@@ -1562,7 +1589,7 @@ void Exec_MSG_Quest(int conn, char* pMsg)
 		{
 			SendClientMessage(conn, strFmt(g_pMessageStringTable[_SN_BRINGITEM], g_pItemList[5134].Name));
 			break;
-		}		
+		}
 
 		int j = 0;
 
@@ -1696,7 +1723,7 @@ void Exec_MSG_Quest(int conn, char* pMsg)
 		{
 			if (pMob[conn].MOB.Equip[6].sIndex == 0)
 			{
-				SendSay(npcIndex, "Você precisa equipar a arma desejada");
+				SendSay(npcIndex, "VocÃª precisa equipar a arma desejada");
 				break;
 			}
 
@@ -1704,12 +1731,12 @@ void Exec_MSG_Quest(int conn, char* pMsg)
 
 			if (sanc != 9)
 			{
-				SendSay(npcIndex, "Apenas armas +9 poderão ser modificadas");
+				SendSay(npcIndex, "Apenas armas +9 poderÃ£o ser modificadas");
 				break;
 			}
 
 			if (pMob[conn].MOB.Coin < 50000000) {
-				SendClientMessage(conn, "Você precisa pagar 50kk para modificar os atributos");
+				SendClientMessage(conn, "VocÃª precisa pagar 50kk para modificar os atributos");
 				return;
 			}
 
@@ -1735,7 +1762,7 @@ void Exec_MSG_Quest(int conn, char* pMsg)
 			unsigned int Level = BASE_GetItemAbility(ItemMob, EF_ITEMLEVEL);
 
 			if (Level >= 6) {
-				SendSay(npcIndex, "Apenas armas não Anct podem ser modificadas");
+				SendSay(npcIndex, "Apenas armas nÃ£o Anct podem ser modificadas");
 				break;
 			}
 
@@ -1769,7 +1796,7 @@ void Exec_MSG_Quest(int conn, char* pMsg)
 
 		}
 		else {
-			SendClientMessage(conn, "Você precisa ter os 7 Cristais + 50kk para melhorar sua arma");
+			SendClientMessage(conn, "VocÃª precisa ter os 7 Cristais + 50kk para melhorar sua arma");
 		}
 
 
@@ -1780,7 +1807,7 @@ void Exec_MSG_Quest(int conn, char* pMsg)
 	{
 		if (pMob[conn].extra.QuestInfo.Mortal.TerraMistica == 0)
 		{
-			
+
 			BASE_GetLanguage(temp, _NN_Guard_This_Village);
 			SendSay(npcIndex, temp);
 			break;
@@ -1788,7 +1815,7 @@ void Exec_MSG_Quest(int conn, char* pMsg)
 
 		if (pMob[conn].extra.QuestInfo.Mortal.TerraMistica != 2)
 		{
-			
+
 			BASE_GetLanguage(temp, _SN_All_Villagers_Thanks_Your, pMob[conn].MOB.MobName);
 			SendSay(npcIndex, temp);
 			break;
@@ -2609,7 +2636,7 @@ void Exec_MSG_Quest(int conn, char* pMsg)
 		time_t now;
 		time(&now);
 		when = *localtime(&now);
-		//horário soul kibita buff
+		//horÃ¡rio soul kibita buff
 		if (when.tm_wday != 0 && when.tm_wday != 6 && when.tm_hour == 23 && pMob[conn].extra.ClassMaster == MORTAL && pMob[conn].MOB.CurrentScore.Level < 1000)
 		{
 			int i = 0;
@@ -2736,7 +2763,7 @@ void Exec_MSG_Quest(int conn, char* pMsg)
 
 		if (pMob[conn].extra.KefraTicket < 1) {
 
-			SendClientMessage(conn, "Você não possui entradas!");
+			SendClientMessage(conn, "VocÃª nÃ£o possui entradas!");
 
 			int i = 0;
 			for (i = 0; i < pMob[conn].MaxCarry; i++)
@@ -2831,9 +2858,9 @@ void Exec_MSG_Quest(int conn, char* pMsg)
 				invfree++;
 		}
 
-		if (invfree <= 0) //são 2 itens q recebe (coloca 0 no code), pq 1 é do próprio baú
+		if (invfree <= 0) //sÃ£o 2 itens q recebe (coloca 0 no code), pq 1 Ã© do prÃ³prio baÃº
 		{
-			SendClientMessage(conn, "Falta espaço no inventário.");
+			SendClientMessage(conn, "Falta espaÃ§o no inventÃ¡rio.");
 			return;
 		}
 
@@ -2913,7 +2940,7 @@ void Exec_MSG_Quest(int conn, char* pMsg)
 		int minlevel = pMob[conn].extra.ClassMaster == MORTAL ? 69 : 69;
 		int maxlevel = pMob[conn].extra.ClassMaster == MORTAL ? 74 : 74;
 
-		int ItemReq = 4123; //PEDAÇO DE CHANCE
+		int ItemReq = 4123; //PEDAÃ‡O DE CHANCE
 
 		int i = 0;
 		for (i = 0; i < pMob[conn].MaxCarry; i++)
@@ -2950,7 +2977,7 @@ void Exec_MSG_Quest(int conn, char* pMsg)
 		int minlevel = pMob[conn].extra.ClassMaster == MORTAL ? 119 : 119;
 		int maxlevel = pMob[conn].extra.ClassMaster == MORTAL ? 124 : 124;
 
-		SendSay(npcIndex, "Que você consiga sua salvação.");
+		SendSay(npcIndex, "Que vocÃª consiga sua salvaÃ§Ã£o.");
 		DoTeleport(conn, 1961 + rand() % 5 - 3, 1593 + rand() % 5 - 3);
 	} break;
 #pragma endregion 
@@ -2973,7 +3000,7 @@ void Exec_MSG_Quest(int conn, char* pMsg)
 			break;
 		}
 
-		int ItemReq = 4125; //PEDAÇO DE EQUILIBIRO
+		int ItemReq = 4125; //PEDAÃ‡O DE EQUILIBIRO
 
 		int i = 0;
 		for (i = 0; i < pMob[conn].MaxCarry; i++)
@@ -3002,7 +3029,7 @@ void Exec_MSG_Quest(int conn, char* pMsg)
 
 		if (pMob[conn].MOB.Coin < 50000)
 		{
-			SendSay(npcIndex, "Você precisa de 50,000 mil");
+			SendSay(npcIndex, "VocÃª precisa de 50,000 mil");
 			break;
 		}
 		SendSay(npcIndex, "Foi teletransportado para Karden!");
@@ -3017,7 +3044,7 @@ void Exec_MSG_Quest(int conn, char* pMsg)
 
 		if (pMob[conn].MOB.Coin < 50000)
 		{
-			SendSay(npcIndex, "Você precisa de 50,000 mil de gold");
+			SendSay(npcIndex, "VocÃª precisa de 50,000 mil de gold");
 			break;
 		}
 		SendSay(npcIndex, "Foi teletransportado para Arzan!");
@@ -3037,7 +3064,7 @@ void Exec_MSG_Quest(int conn, char* pMsg)
 			pMob[conn].MOB.Equip[6].stEffect[1].cValue = 5;
 			pMob[conn].MOB.Equip[6].stEffect[2].cEffect = 2;
 			pMob[conn].MOB.Equip[6].stEffect[2].cValue = 45;
-			SendSay(npcIndex, "Tome este presente, mas não se acostume a isso...");
+			SendSay(npcIndex, "Tome este presente, mas nÃ£o se acostume a isso...");
 			SendItem(conn, ITEM_PLACE_EQUIP, 6, &pMob[conn].MOB.Equip[6]);
 			return;
 		}
@@ -3048,18 +3075,18 @@ void Exec_MSG_Quest(int conn, char* pMsg)
 			pMob[conn].MOB.Equip[6].stEffect[1].cValue = 5;
 			pMob[conn].MOB.Equip[6].stEffect[2].cEffect = 2;
 			pMob[conn].MOB.Equip[6].stEffect[2].cValue = 45;
-			SendSay(npcIndex, "Tome este presente, mas não se acostume a isso...");
+			SendSay(npcIndex, "Tome este presente, mas nÃ£o se acostume a isso...");
 			SendItem(conn, ITEM_PLACE_EQUIP, 6, &pMob[conn].MOB.Equip[6]);
 			return;
 		}
-		if (pMob[conn].MOB.Equip[6].sIndex == 918)//LANÇA MAGICA OK
+		if (pMob[conn].MOB.Equip[6].sIndex == 918)//LANÃ‡A MAGICA OK
 		{
 			pMob[conn].MOB.Equip[6].sIndex = 940;//ORC
 			pMob[conn].MOB.Equip[6].stEffect[1].cEffect = 43;
 			pMob[conn].MOB.Equip[6].stEffect[1].cValue = 5;
 			pMob[conn].MOB.Equip[6].stEffect[2].cEffect = 60;
 			pMob[conn].MOB.Equip[6].stEffect[2].cValue = 20;
-			SendSay(npcIndex, "Tome este presente, mas não se acostume a isso...");
+			SendSay(npcIndex, "Tome este presente, mas nÃ£o se acostume a isso...");
 			SendItem(conn, ITEM_PLACE_EQUIP, 6, &pMob[conn].MOB.Equip[6]);
 			return;
 		}
@@ -3070,7 +3097,7 @@ void Exec_MSG_Quest(int conn, char* pMsg)
 			pMob[conn].MOB.Equip[6].stEffect[1].cValue = 5;
 			pMob[conn].MOB.Equip[6].stEffect[2].cEffect = 2;
 			pMob[conn].MOB.Equip[6].stEffect[2].cValue = 45;
-			SendSay(npcIndex, "Tome este presente, mas não se acostume a isso...");
+			SendSay(npcIndex, "Tome este presente, mas nÃ£o se acostume a isso...");
 			SendItem(conn, ITEM_PLACE_EQUIP, 6, &pMob[conn].MOB.Equip[6]);
 			return;
 		}

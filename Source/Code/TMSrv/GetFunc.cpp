@@ -1,4 +1,4 @@
-
+Ôªø
 #include <Windows.h>
 
 #include "..\Basedef.h"
@@ -21,7 +21,7 @@ int ReadAdminList(char* macAddress)
 
 	if (!arq)
 	{
-		MessageBoxA(0, "Arquivo n„o encontrado", "../../Common/AdminList.txt", 0);
+		MessageBoxA(0, "Arquivo n√£o encontrado", "../../Common/AdminList.txt", 0);
 		ExitProcess(1);
 	}
 
@@ -158,10 +158,10 @@ int GetMatchCombineDedekinto(STRUCT_ITEM* Item)
 		return 0;
 
 	if (Item[0].sIndex == 673 && Item[1].sIndex == 674 && Item[2].sIndex == 675 && Item[3].sIndex == 676 && Item[4].sIndex == 677 && Item[5].sIndex == 770)
-		rate = 1; //CriaÁ„o de Pedra Amunra
+		rate = 1; //Cria√ß√£o de Pedra Amunra
 
 	else if (Item[0].sIndex == 677 && Item[1].sIndex == 677 && Item[2].sIndex == 678 && Item[3].sIndex == 678)
-		rate = 2; //ProteÁ„o Divina
+		rate = 2; //Prote√ß√£o Divina
 
 
 
@@ -212,10 +212,10 @@ int GetMatchCombineEhre(STRUCT_ITEM* Item)
 		rate = 3;//Pedra espiritual
 
 	else if (Item[0].sIndex >= 661 && Item[0].sIndex <= 663 && Item[1].sIndex >= 661 && Item[1].sIndex <= 663 && Item[2].sIndex == 3464 && BASE_GetItemSanc(&Item[2]) >= 9)
-		rate = 4;//Pedra Amunr·
+		rate = 4;//Pedra Amunr√°
 
 	else if (Item[0].sIndex == 697 && Item[1].sIndex == 697 && Item[2].sIndex == 3338 && BASE_GetItemSanc(&Item[2]) <= 8)
-		rate = 5;//RefinaÁ„o abenÁoada Purificada
+		rate = 5;//Refina√ß√£o aben√ßoada Purificada
 
 	else if (Item[0].sIndex >= 2360 && Item[0].sIndex <= 2389 && Item[1].sIndex >= 4190 && Item[1].sIndex <= 4199)
 		rate = 6;//Traje montaria
@@ -456,7 +456,7 @@ int GetMatchCombineAilyn(STRUCT_ITEM* Item)
 	if (Item[2].sIndex == 1774 && Item[2].stEffect[0].cEffect == 61 && Item[2].stEffect[0].cValue > 1)
 		return 77;
 	int rate = 1;
-		
+
 	if ((g_pItemList[Item[0].sIndex].nPos != 2 && g_pItemList[Item[0].sIndex].nPos != 4 && g_pItemList[Item[0].sIndex].nPos != 8 && g_pItemList[Item[0].sIndex].nPos != 16 && g_pItemList[Item[0].sIndex].nPos != 32 && g_pItemList[Item[0].sIndex].nPos != 64 && g_pItemList[Item[0].sIndex].nPos != 192 && g_pItemList[Item[0].sIndex].nPos != 128))
 		return 0;
 
@@ -624,7 +624,7 @@ int GetMatchCombineOdin(STRUCT_ITEM* Item)
 		return 4;//Level40 Celestial
 
 	else if (Item[0].sIndex == 5125 && Item[1].sIndex == 5115 && Item[2].sIndex == 5111 && Item[3].sIndex == 5112 && Item[4].sIndex == 5120 && Item[5].sIndex == 5128 && Item[6].sIndex == 5119)
-		return 5;//Pedra da f˙ria
+		return 5;//Pedra da f√∫ria
 
 	else if (Item[0].sIndex == 5126 && Item[1].sIndex == 5127 && Item[2].sIndex == 5121 && Item[3].sIndex == 5114 && Item[4].sIndex == 5125 && Item[5].sIndex == 5111 && Item[6].sIndex == 5118)
 		return 6;//Secreta da Agua
@@ -689,16 +689,16 @@ int GetMatchCombineAlquimia(STRUCT_ITEM* Item)
 		return 1;//Resistencia
 
 	if (Item[0].sIndex == 4127 && Item[1].sIndex == 4127 && Item[2].sIndex == 4127)
-		return 2;//RevelaÁ„o
+		return 2;//Revela√ß√£o
 
 	if (Item[0].sIndex == 4127 && Item[1].sIndex == 4127 && Item[2].sIndex == 697)
-		return 3;//RecuperaÁ„o
+		return 3;//Recupera√ß√£o
 
 	if (Item[0].sIndex == 412 && Item[1].sIndex == 2441 && Item[2].sIndex == 2444)
-		return 4;//AbsorÁ„o
+		return 4;//Absor√ß√£o
 
 	if (Item[0].sIndex == 412 && Item[1].sIndex == 2444 && Item[2].sIndex == 2443)
-		return 5;//ProteÁ„o	
+		return 5;//Prote√ß√£o	
 
 	if (Item[0].sIndex == 612 && BASE_GetItemSanc(&Item[0]) >= 9 && Item[1].sIndex == 2441 && Item[2].sIndex == 2442)
 		return 6;//Poder
@@ -707,7 +707,7 @@ int GetMatchCombineAlquimia(STRUCT_ITEM* Item)
 		return 7;//Armazenagem
 
 	if (Item[0].sIndex == 614 && BASE_GetItemSanc(&Item[0]) >= 9 && Item[1].sIndex == 2443 && Item[2].sIndex == 2444)
-		return 8;//Precis„o
+		return 8;//Precis√£o
 
 	if (Item[0].sIndex == 615 && BASE_GetItemSanc(&Item[0]) >= 9 && Item[1].sIndex == 697 && Item[2].sIndex == 697 && Item[3].sIndex == 697)
 		return 9;//Magia
@@ -820,7 +820,7 @@ int GetParryRate(STRUCT_MOB* conn, int attackerdex, int attackerrsv, int attacke
 	if (attackerrsv & 0x20)
 		ParryChance += 50;
 
-	if (attackerrsv & 0x200) //Skill da ht LigaÁ„o espectral
+	if (attackerrsv & 0x200) //Skill da ht Liga√ß√£o espectral
 		ParryChance -= 20;
 
 	if (defensorrsv & 0x20)
@@ -964,7 +964,7 @@ int CGetParryRate(int attackerdex, int attackerrsv, int attackerparry, int defen
 }
 
 // W2PP Original
-int WGetParryRate(STRUCT_MOB *mob, int add, int attackerdex, int attackrsv)
+int WGetParryRate(STRUCT_MOB* mob, int add, int attackerdex, int attackrsv)
 {
 	if (add > 100)
 		add = 100;
@@ -1138,7 +1138,7 @@ bool GetCuboTeleportPositionA(int conn, int room)
 	return FALSE;
 }
 
-int GetTeleportPosition(int conn, int *x, int *y)
+int GetTeleportPosition(int conn, int* x, int* y)
 {
 	int xv = (*x) & 0xFFFC;
 	int yv = (*y) & 0xFFFC;
@@ -1396,7 +1396,7 @@ int GetTeleportPosition(int conn, int *x, int *y)
 
 
 		sprintf(temp, g_pMessageStringTable[_DN_CHANGE_COUNT], pMob[conn].extra.KefraTicket);
-	 
+
 		SendMsgExp(conn, temp, TNColor::NewWhite, false);
 	}*/
 
@@ -1430,34 +1430,34 @@ int GetTeleportPosition(int conn, int *x, int *y)
 		*y = 1900 + rand() % 2;
 	}
 
-	// Portal1 (Port„o Infernal) - Zona 2
+	// Portal1 (Port√£o Infernal) - Zona 2
 	else if (xv == 1756 && yv == 3672 && TarantulaKilled == TRUE)
 	{
 		*x = 1772 + rand() % 3;
 		*y = 3648 + rand() % 3;
 	}
 	else if (xv == 1756 && yv == 3672 && TarantulaKilled == FALSE)
-	 
+
 		SendMsgExp(conn, "Por favor derrote os monstros.", TNColor::Default, false);
 
-	// Portal2 (Port„o Infernal) - Zona 2
+	// Portal2 (Port√£o Infernal) - Zona 2
 	else if (xv == 1756 && yv == 3644 && TarantulaKilled == TRUE)
 	{
 		*x = 1772 + rand() % 3;
 		*y = 3648 + rand() % 3;
 	}
 	else if (xv == 1756 && yv == 3644 && TarantulaKilled == FALSE)
-		 
+
 		SendMsgExp(conn, "Por favor derrote os monstros.", TNColor::Default, false);
 
-	// Portal3 (Port„o Infernal) - Zona 2
+	// Portal3 (Port√£o Infernal) - Zona 2
 	else if (xv == 1756 && yv == 3616 && TarantulaKilled == TRUE)
 	{
 		*x = 1772 + rand() % 3;
 		*y = 3648 + rand() % 3;
 	}
 	else if (xv == 1756 && yv == 3616 && TarantulaKilled == FALSE)
-	 
+
 		SendMsgExp(conn, "Por favor derrote os monstros.", TNColor::Default, false);
 
 	return Charge;
@@ -1611,7 +1611,7 @@ int	GetExpApply(STRUCT_MOBEXTRA extra, int exp, int attacker, int target)//exp c
 			ExpTotal = (exp * 100) / Multiply;
 		}
 		else
-			ExpTotal = exp;		
+			ExpTotal = exp;
 	}
 
 	if (extra.ClassMaster >= CELESTIAL) {
@@ -1701,7 +1701,7 @@ void TiroDireto(int Attacker, int Attacked)
 
 			if (Type == 28)
 			{
-		 
+
 				SendMsgExp(Attacker, "Oba", TNColor::Default, false);
 				return;
 			}
@@ -1709,7 +1709,7 @@ void TiroDireto(int Attacker, int Attacked)
 	}
 }
 
-int GetCreateMob(int mob, MSG_CreateMob *sm)
+int GetCreateMob(int mob, MSG_CreateMob* sm)
 {
 	memset(sm, 0, sizeof(MSG_CreateMob));
 
@@ -1786,7 +1786,7 @@ int GetCreateMob(int mob, MSG_CreateMob *sm)
 
 	for (int i = 0; i < MAX_EQUIP; i++)
 	{
-		STRUCT_ITEM *item = &pMob[mob].MOB.Equip[i];
+		STRUCT_ITEM* item = &pMob[mob].MOB.Equip[i];
 
 		sm->Equip[i] = BASE_VisualItemCode(item, i);
 
@@ -1821,25 +1821,25 @@ int GetCreateMob(int mob, MSG_CreateMob *sm)
 	}
 
 	if (strcmp((char*)sm->MobName, "Balmus") == 0)
-		strncpy(sm->Tab, "InformaÁıes da Guild", sizeof(sm->Tab));
+		strncpy(sm->Tab, "Informa√ß√µes da Guild", sizeof(sm->Tab));
 
 	else if (strcmp((char*)sm->MobName, "Judith") == 0)
-		strncpy(sm->Tab, "InformaÁıes da Guild", sizeof(sm->Tab));
+		strncpy(sm->Tab, "Informa√ß√µes da Guild", sizeof(sm->Tab));
 
 	else if (strcmp((char*)sm->MobName, "Kara") == 0)
-		strncpy(sm->Tab, "InformaÁıes da Guild", sizeof(sm->Tab));
+		strncpy(sm->Tab, "Informa√ß√µes da Guild", sizeof(sm->Tab));
 
 	else if (strcmp((char*)sm->MobName, "Empis") == 0)
-		strncpy(sm->Tab, "InformaÁıes da Guild", sizeof(sm->Tab));
+		strncpy(sm->Tab, "Informa√ß√µes da Guild", sizeof(sm->Tab));
 
 	else if (strcmp((char*)sm->MobName, "Bruce") == 0)
-		strncpy(sm->Tab, "InformaÁıes da Guild", sizeof(sm->Tab));
+		strncpy(sm->Tab, "Informa√ß√µes da Guild", sizeof(sm->Tab));
 
 	else if (strcmp((char*)sm->MobName, "Kibita") == 0)
-		strncpy(sm->Tab, "Torne-se Cidad„o", sizeof(sm->Tab));
+		strncpy(sm->Tab, "Torne-se Cidad√£o", sizeof(sm->Tab));
 
 	else if (strcmp((char*)sm->MobName, "Carbuncle Wind") == 0)
-		strncpy(sm->Tab, "Ajudante M·gico", sizeof(sm->Tab));
+		strncpy(sm->Tab, "Ajudante M√°gico", sizeof(sm->Tab));
 
 	else if (strcmp((char*)sm->MobName, "Aylin") == 0)
 		strncpy(sm->Tab, "Compositor +10", sizeof(sm->Tab));
@@ -1854,7 +1854,7 @@ int GetCreateMob(int mob, MSG_CreateMob *sm)
 		strncpy(sm->Tab, "Fale comigo para entrar!", sizeof(sm->Tab));
 
 	else if (strcmp((char*)sm->MobName, "Jephi") == 0)
-		strncpy(sm->Tab, "Compor Poeiras e CÌrculos", sizeof(sm->Tab));
+		strncpy(sm->Tab, "Compor Poeiras e C√≠rculos", sizeof(sm->Tab));
 
 	else if (strcmp((char*)sm->MobName, "Perzen Mistico") == 0)
 		strncpy(sm->Tab, "Esfera M", sizeof(sm->Tab));
@@ -1868,7 +1868,7 @@ int GetCreateMob(int mob, MSG_CreateMob *sm)
 	else if (strcmp((char*)sm->MobName, "Guarda Carga") == 0 ||
 		strcmp((char*)sm->MobName, "Hera") == 0 ||
 		strcmp((char*)sm->MobName, "Angela") == 0)
-		strncpy(sm->Tab, "Ba˙", sizeof(sm->Tab));
+		strncpy(sm->Tab, "Ba√∫", sizeof(sm->Tab));
 
 	else if (strcmp((char*)sm->MobName, "Xama") == 0)
 		strncpy(sm->Tab, "Entrada Coliseu", sizeof(sm->Tab));
@@ -1914,7 +1914,7 @@ int GetCreateMob(int mob, MSG_CreateMob *sm)
 		strcmp((char*)sm->MobName, "Cap.Cavaleiros") == 0 ||
 		strcmp((char*)sm->MobName, "ForeLearner") == 0)
 		strncpy(sm->Tab, "Aprender Skill", sizeof(sm->Tab));
-		
+
 	GetAffect(sm->Affect, pMob[mob].Affect);
 
 	if (BrState != 0 && xx >= 2604 && yy >= 1708 && xx <= 2648 && yy <= 1744)
@@ -1929,7 +1929,7 @@ int GetCreateMob(int mob, MSG_CreateMob *sm)
 	return selfdead;
 }
 
-int GetCreateMobTrade(int mob, MSG_CreateMobTrade *sm)
+int GetCreateMobTrade(int mob, MSG_CreateMobTrade* sm)
 {
 	sm->Type = _MSG_CreateMobTrade;
 
@@ -1989,7 +1989,7 @@ int GetCreateMobTrade(int mob, MSG_CreateMobTrade *sm)
 
 	for (int i = 0; i < MAX_EQUIP; i++)
 	{
-		STRUCT_ITEM *item = &pMob[mob].MOB.Equip[i];
+		STRUCT_ITEM* item = &pMob[mob].MOB.Equip[i];
 
 		sm->Equip[i] = BASE_VisualItemCode(item, i);
 
@@ -2031,7 +2031,7 @@ int GetCreateMobTrade(int mob, MSG_CreateMobTrade *sm)
 	return selfdead;
 }
 
-void GetAffect(unsigned short *out, STRUCT_AFFECT *affect)
+void GetAffect(unsigned short* out, STRUCT_AFFECT* affect)
 {
 	for (int i = 0; i < MAX_AFFECT; i++) // i = 0;
 	{
@@ -2052,7 +2052,7 @@ void GetAffect(unsigned short *out, STRUCT_AFFECT *affect)
 	}
 }
 
-void GetCreateItem(int idx, MSG_CreateItem *sm)
+void GetCreateItem(int idx, MSG_CreateItem* sm)
 {
 	sm->ID = ESCENE_FIELD;
 	sm->Size = sizeof(MSG_CreateItem);
@@ -2096,7 +2096,7 @@ void GetCreateItem(int idx, MSG_CreateItem *sm)
 	}
 }
 
-void GetAction(int mob, int targetx, int targety, MSG_Action *sm)
+void GetAction(int mob, int targetx, int targety, MSG_Action* sm)
 {
 	sm->ID = mob;
 	sm->ClientTick = CurrentTime;
@@ -2421,7 +2421,7 @@ void GetAttack(int clientId, int mobId, p39D* p)
 			LOCAL_24 = mobId;
 
 		INT32 LOCAL_25 = pMob[clientId].MOB.Guild;
-		INT32 LOCAL_26 = pMob[mobId].MOB.Guild;    // quem est· sendo atacado
+		INT32 LOCAL_26 = pMob[mobId].MOB.Guild;    // quem est√° sendo atacado
 		INT32 ally = g_pGuildAlly[LOCAL_25];
 		if (ally == 0)
 			ally = -1;
@@ -2799,7 +2799,7 @@ void GetAttack(int clientId, int mobId, p39D* p)
 //	sm->Dam[0].Damage = fisdam;
 //}
 
-void GetAttackArea(int mob, MSG_Attack *sm)
+void GetAttackArea(int mob, MSG_Attack* sm)
 {
 	sm->ID = ESCENE_FIELD;
 	sm->AttackerID = mob;
@@ -3099,19 +3099,19 @@ void GetAttackArea(int mob, MSG_Attack *sm)
 
 void GetGuild(int conn)
 {
-	STRUCT_ITEM *item = &pMob[conn].MOB.Equip[12];
+	STRUCT_ITEM* item = &pMob[conn].MOB.Equip[12];
 
 	int guild = pMob[conn].MOB.Guild;
 }
 
-int GetGuild(STRUCT_ITEM *item)
+int GetGuild(STRUCT_ITEM* item)
 {
 	int guild = BASE_GetGuild(item);
 
 	return guild;
 }
 
-BOOL GetEmptyItemGrid(int *gridx, int *gridy)
+BOOL GetEmptyItemGrid(int* gridx, int* gridy)
 {
 	if ((pItemGrid[*gridy][*gridx] == 0) && (pHeightGrid[*gridy][*gridx] != 127))
 		return TRUE;
@@ -3384,7 +3384,7 @@ BOOL GetEmptyMobGrid(int mob, int* tx, int* ty)
 //	return FALSE;
 //}
 
-BOOL GetEmptyMobGridGreat(int mob, int *tx, int *ty)
+BOOL GetEmptyMobGridGreat(int mob, int* tx, int* ty)
 {
 	if (*tx < 0 || *ty < 0 || *tx >= MAX_GRIDX || *ty >= MAX_GRIDY)
 	{
@@ -3587,7 +3587,7 @@ int GetRecycleBin(int conn, STRUCT_ITEM* kItem, int Price)
 	return 1;
 }
 
-BOOL GetEmptyMobGridShort(int mob, int *tx, int *ty)
+BOOL GetEmptyMobGridShort(int mob, int* tx, int* ty)
 {
 	if (*tx < 0 || *ty < 0 || *tx >= MAX_GRIDX || *ty >= MAX_GRIDY)
 	{
@@ -3695,7 +3695,7 @@ int ReadMacList(char* macAddress)
 
 	if (!arq)
 	{
-		MessageBoxA(0, "Arquivo n„o encontrado", "../../Common/MacList.txt", 0);
+		MessageBoxA(0, "Arquivo n√£o encontrado", "../../Common/MacList.txt", 0);
 		ExitProcess(1);
 	}
 
@@ -3732,7 +3732,7 @@ void MacBan(int conn)
 
 	if (!Arquivo)
 	{
-		MessageBoxA(0, "Arquivo n„o encontrado", "../../Common/MacList.txt", 0);
+		MessageBoxA(0, "Arquivo n√£o encontrado", "../../Common/MacList.txt", 0);
 		ExitProcess(1);
 		false;
 	}
@@ -3752,6 +3752,6 @@ void GetPlayerON()
 	for (int i = 0; i < MAX_USER; i++)
 	{
 		if (pUser[i].Mode != USER_PLAY)
-			continue; 
+			continue;
 	}
 }

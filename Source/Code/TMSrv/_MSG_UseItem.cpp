@@ -493,7 +493,7 @@ void Exec_MSG_UseItem(int conn, char* pMsg)
 		if (dest == NULL)
 		{
 			SendClientMessage(conn, g_pMessageStringTable[_NN_Only_To_Equips]);
-			
+
 			ItemLog(pUser[conn].AccountName, pUser[conn].MacAddress, pUser[conn].IP, temp);
 			SendItem(conn, m->SourType, m->SourPos, item);
 			return;
@@ -1057,8 +1057,8 @@ void Exec_MSG_UseItem(int conn, char* pMsg)
 					memset(item, 0, sizeof(STRUCT_ITEM));
 
 
-				
-				BASE_ClearItem(dest);				
+
+				BASE_ClearItem(dest);
 				SendItem(conn, m->DestType, m->DestPos, dest);
 
 				int sFace = pMob[conn].MOB.Equip[0].sIndex / 10;
@@ -1345,11 +1345,11 @@ void Exec_MSG_UseItem(int conn, char* pMsg)
 
 				/*if (pMob[conn].extra.ClassMaster == MORTAL) {
 					DoItemLevel(conn);
-					
+
 				}*/
 			}
 			SendEtc(conn);
-		}		
+		}
 
 		if (amount > 1)
 			BASE_SetItemAmount(item, amount - 1);
@@ -1882,7 +1882,7 @@ void Exec_MSG_UseItem(int conn, char* pMsg)
 			return;
 		}
 
-		dest->stEffect[0].sValue = 20000;		
+		dest->stEffect[0].sValue = 20000;
 		int level = dest->stEffect[1].cEffect;
 
 		if (level >= 120 && dest->sIndex >= 2360 && dest->sIndex < 2390 || dest->sIndex < 3091 && dest->sIndex >= 3139)
@@ -4263,7 +4263,7 @@ void Exec_MSG_UseItem(int conn, char* pMsg)
 				GenerateMob(WATER_A_INITIAL + 11, 0, 0);
 		}
 
-		
+
 		snprintf(temp, sizeof(temp), "useitem,water scroll A %d", Sala);
 		ItemLog(pUser[conn].AccountName, pUser[conn].MacAddress, pUser[conn].IP, temp);
 
@@ -4991,7 +4991,7 @@ void Exec_MSG_UseItem(int conn, char* pMsg)
 		pMob[conn].Affect[sAffect].Type = 30;
 		pMob[conn].Affect[sAffect].Level = 2000;
 		pMob[conn].Affect[sAffect].Value = 0;
-		pMob[conn].Affect[sAffect].Time += AFFECT_1H * 4;		
+		pMob[conn].Affect[sAffect].Time += AFFECT_1H * 4;
 
 		pMob[conn].GetCurrentScore(conn);
 		SendScore(conn);
@@ -5024,7 +5024,7 @@ void Exec_MSG_UseItem(int conn, char* pMsg)
 
 		STRUCT_ITEM Item;
 		memset(&Item, 0, sizeof(STRUCT_ITEM));
-				
+
 		Item.sIndex = 4104;
 
 		PutItem(conn, &Item);
@@ -5106,7 +5106,7 @@ void Exec_MSG_UseItem(int conn, char* pMsg)
 		if (pMob[conn].MOB.Coin > 2000000000)
 			pMob[conn].MOB.Coin = 2000000000;
 
-		
+
 		snprintf(temp, sizeof(temp), g_pMessageStringTable[_NS_GETEXP], pMob[conn].extra.ClassMaster == MORTAL ? CReadFiles::QuestExp[thisQuest][0] : CReadFiles::QuestExp[thisQuest][1]);
 		SendMsgExp(conn, temp, TNColor::Speak, false);
 
@@ -5118,7 +5118,7 @@ void Exec_MSG_UseItem(int conn, char* pMsg)
 
 			/*if (pMob[conn].extra.ClassMaster == MORTAL) {
 				DoItemLevel(conn);
-				
+
 			}*/
 
 			int PKPoint = GetPKPoint(conn) + 5;
@@ -5162,7 +5162,7 @@ void Exec_MSG_UseItem(int conn, char* pMsg)
 			{
 				/*if (pMob[partyleader].extra.ClassMaster == MORTAL) {
 					DoItemLevel(partyleader);
-					
+
 				}*/
 
 				SendMsgExp(conn, g_pMessageStringTable[_NN_Level_Up], TNColor::Default, false);
@@ -5210,7 +5210,7 @@ void Exec_MSG_UseItem(int conn, char* pMsg)
 				{
 					/*if (pMob[partymember].extra.ClassMaster == MORTAL) {
 						DoItemLevel(partymember);
-						
+
 					}*/
 
 					SendMsgExp(conn, g_pMessageStringTable[_NN_Level_Up], TNColor::Default, false);
@@ -8512,17 +8512,74 @@ void Exec_MSG_UseItem(int conn, char* pMsg)
 
 		if (territorio == 0)
 		{
-			SendRecaptcha(conn, 1);
+			for (int z = 0; z < MAX_USER; z++)
+			{
+				if (pUser[z].Mode != USER_PLAY)
+					continue;
+
+				if (!pUser[z].cSock.Sock)
+					continue;
+
+				if (pMob[z].LanNFlag == 1)
+				{
+					if (pUser[z].IP == pUser[conn].IP) {
+						SendClientMessage(conn, "Limite de [01] Conta por IP");
+						return;
+					}
+				}
+			}
+
+			DoTeleport(conn, (3639 + rand() % 5 - 3), (3639 + rand() % 5 - 3));
+			pMob[conn].LanNFlag = 1;
+			pUser[conn].Territorio = 0;
 		}
 
 		else if (territorio == 1)
 		{
-			SendRecaptcha(conn, 2);
+			for (int z = 0; z < MAX_USER; z++)
+			{
+				if (pUser[z].Mode != USER_PLAY)
+					continue;
+
+				if (!pUser[z].cSock.Sock)
+					continue;
+
+				if (pMob[z].LanMFlag == 1)
+				{
+					if (pUser[z].IP == pUser[conn].IP) {
+						SendClientMessage(conn, "Limite de [01] Conta por IP");
+						return;
+					}
+				}
+			}
+
+			DoTeleport(conn, (3782 + rand() % 5 - 3), (3527 + rand() % 5 - 3));
+			pMob[conn].LanMFlag = 1;
+			pUser[conn].Territorio = 0;
 		}
 
 		else
 		{
-			SendRecaptcha(conn, 3);
+			for (int z = 0; z < MAX_USER; z++)
+			{
+				if (pUser[z].Mode != USER_PLAY)
+					continue;
+
+				if (!pUser[z].cSock.Sock)
+					continue;
+
+				if (pMob[z].LanAFlag == 1)
+				{
+					if (pUser[z].IP == pUser[conn].IP) {
+						SendClientMessage(conn, "Limite de [01] Conta por IP");
+						return;
+					}
+				}
+			}
+
+			DoTeleport(conn, (3911 + rand() % 5 - 3), (3655 + rand() % 5 - 3));
+			pMob[conn].LanAFlag = 1;
+			pUser[conn].Territorio = 0;
 		}
 
 		if (amount > 1)
@@ -8635,8 +8692,8 @@ void Exec_MSG_UseItem(int conn, char* pMsg)
 		else if ((pMob[conn].Affect[sAffect].Level & (1 << joia)) == 0)
 			pMob[conn].Affect[sAffect].Level |= 1 << joia;
 
-		
-		pMob[conn].Affect[sAffect].Time += AFFECT_1H;		
+
+		pMob[conn].Affect[sAffect].Time += AFFECT_1H;
 
 		pMob[conn].GetCurrentScore(conn);
 		SendScore(conn);
@@ -8817,7 +8874,7 @@ void Exec_MSG_UseItem(int conn, char* pMsg)
 				Item.sIndex = 3379; //Divina 7 Dias
 			}
 		}
-		PutItem(conn, &Item);		
+		PutItem(conn, &Item);
 
 		if (amount > 1)
 			BASE_SetItemAmount(item, amount - 1);
@@ -8835,12 +8892,12 @@ void Exec_MSG_UseItem(int conn, char* pMsg)
 	{
 		STRUCT_ITEM Item;
 		memset(&Item, 0, sizeof(STRUCT_ITEM));
-				
+
 		int srand = rand() % 2;
 
 		int ArmasDN[] = { 2487, 2547, 2607, 2727, 2787, 2891, 2931 };
 		int ArmasMG[] = { 2667, 2847, 2855 };
-		
+
 		if (srand == 0) {
 			int _rand = rand() % (sizeof(ArmasDN) / 4);
 			Item.sIndex = ArmasDN[_rand];
@@ -10402,7 +10459,7 @@ void Exec_MSG_UseItem(int conn, char* pMsg)
 		SendClientMessage(conn, "Sua Classe foi modificada");
 		SaveUser(conn, 0);
 		CharLogOut(conn);
-		
+
 	}
 #pragma endregion
 #pragma region Composto Equilibrio

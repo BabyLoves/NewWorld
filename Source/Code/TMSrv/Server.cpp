@@ -53,31 +53,31 @@ AccountBanned BannedUser[MAX_USER];
 //recaptcha
 int random_words;
 
-char Keywords[30][6] = {
-	"AVIÃO", "TREM", "AVIÃO", "CARRO", "MOTO",
-	"MOTO", "AVIÃO", "CARRO", "BIKE", "BIKE",
-	"AVIÃO", "BIKE", "NAVIO", "BIKE", "NAVIO",
-	"MOTO", "AVIÃO", "NAVIO", "CARRO", "MOTO",
+char Keywords[30][7] = {
+	"AVIÃƒO", "TREM", "AVIÃƒO", "CARRO", "MOTO",
+	"MOTO", "AVIÃƒO", "CARRO", "BIKE", "BIKE",
+	"AVIÃƒO", "BIKE", "NAVIO", "BIKE", "NAVIO",
+	"MOTO", "AVIÃƒO", "NAVIO", "CARRO", "MOTO",
 	"NAVIO", "NAVIO", "TREM", "BIKE", "BIKE",
-	"CARRO", "BIKE", "NAVIO", "AVIÃO", "TREM"
+	"CARRO", "BIKE", "NAVIO", "AVIÃƒO", "TREM"
 };
 
-char Keywords1[30][6] = {
+char Keywords1[30][7] = {
 	"MOTO", "NAVIO", "BIKE", "TREM", "CARRO",
-	"TREM", "MOTO", "MOTO", "AVIÃO", "AVIÃO",
-	"CARRO", "BIKE", "AVIÃO", "AVIÃO", "CARRO",
-	"AVIÃO", "NAVIO", "TREM", "CARRO", "NAVIO",
-	"AVIÃO", "BIKE", "NAVIO", "CARRO", "TREM",
+	"TREM", "MOTO", "MOTO", "AVIÃƒO", "AVIÃƒO",
+	"CARRO", "BIKE", "AVIÃƒO", "AVIÃƒO", "CARRO",
+	"AVIÃƒO", "NAVIO", "TREM", "CARRO", "NAVIO",
+	"AVIÃƒO", "BIKE", "NAVIO", "CARRO", "TREM",
 	"BIKE", "TREM", "NAVIO", "BIKE", "MOTO"
 };
 
-char Keywords2[30][6] = {
+char Keywords2[30][7] = {
 	"BIKE", "TREM", "BIKE", "BIKE", "TREM",
 	"CARRO", "MOTO", "CARRO", "NAVIO", "MOTO",
-	"NAVIO", "BIKE", "BIKE", "AVIÃO", "TREM",
-	"MOTO", "CARRO", "AVIÃO", "TREM", "BIKE",
-	"CARRO", "TREM", "BIKE", "CARRO", "AVIÃO",
-	"MOTO", "MOTO", "AVIÃO", "AVIÃO", "NAVIO",
+	"NAVIO", "BIKE", "BIKE", "AVIÃƒO", "TREM",
+	"MOTO", "CARRO", "AVIÃƒO", "TREM", "BIKE",
+	"CARRO", "TREM", "BIKE", "CARRO", "AVIÃƒO",
+	"MOTO", "MOTO", "AVIÃƒO", "AVIÃƒO", "NAVIO",
 };
 
 // Donate Store
@@ -1553,7 +1553,7 @@ void BASE_ReadQuestDiaria()
 
 	if (fp == NULL)
 	{
-		MessageBoxA(NULL, "Não foi possível carregar o arquivo 'QuestDiaria.txt'", "TMSRV", MB_OK);
+		MessageBoxA(NULL, "Nï¿½o foi possï¿½vel carregar o arquivo 'QuestDiaria.txt'", "TMSRV", MB_OK);
 
 		return;
 	}
@@ -2831,7 +2831,7 @@ void SetItemBonus2(STRUCT_ITEM *Dest)
 		Dest->stEffect[2].cEffect = g_pBonusValue3[_rand][2];
 		Dest->stEffect[2].cValue = g_pBonusValue3[_rand][3];
 	}
-	//Peito calça
+	//Peito calï¿½a
 	if (nPos == 4 || nPos == 8)
 	{
 		int _rand = rand() % 48;
@@ -2965,7 +2965,7 @@ void SetItemBonus2(STRUCT_ITEM *Dest)
 	}
 
 
-	//Peito calça
+	//Peito calï¿½a
 	if(nPos == 4 || nPos == 8)
 	{
 		if(Dest->stEffect[0].cEffect == EF_SANC)
@@ -4036,7 +4036,7 @@ int GenerateSummon(int conn, int SummonID, STRUCT_ITEM* sItem, int Num)
 		pMob[MobEmpty].IsSummon = 1; // Crias/Outros
 
 		if (SummonID >= 0 && SummonID <= 7)
-			pMob[MobEmpty].IsSummon = 2; // Evocações
+			pMob[MobEmpty].IsSummon = 2; // Evocaï¿½ï¿½es
 	}
 	return 1;
 }
@@ -4715,7 +4715,7 @@ BOOL WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLin
 
 	if (!ret)
 	{
-		//Log("erro,não foi possivel iniciar a seguinte função : WSAInitialize", "-system", 0);
+		//Log("erro,nï¿½o foi possivel iniciar a seguinte funï¿½ï¿½o : WSAInitialize", "-system", 0);
 
 		return FALSE;
 	}
@@ -4743,7 +4743,7 @@ BOOL WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLin
 		fclose(fp);
 	}
 	else
-		MessageBox(hWndMain, "Não foi possivel encontrar o arquivo LocalIP.txt", "Erro ao iniciar", NULL);
+		MessageBox(hWndMain, "Nï¿½o foi possivel encontrar o arquivo LocalIP.txt", "Erro ao iniciar", NULL);
 
 	int r1 = 0, r2 = 0, r3 = 0, r4 = 0;
 
@@ -4776,7 +4776,7 @@ BOOL WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLin
 
 	if (DBServerAddress[0] == 0)
 	{
-		MessageBox(hWndMain, "Não foi possivel pegar o ServerGroup. LocalIP.txt / ServerList.txt", "Erro ao iniciar", MB_OK | MB_SYSTEMMODAL);
+		MessageBox(hWndMain, "Nï¿½o foi possivel pegar o ServerGroup. LocalIP.txt / ServerList.txt", "Erro ao iniciar", MB_OK | MB_SYSTEMMODAL);
 
 		return TRUE;
 	}
@@ -4789,8 +4789,8 @@ BOOL WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLin
 
 	if (ret == NULL)
 	{
-		Log("erro, Não foi possivel se conectar a DBServer", "-system", 0);
-		MessageBox(hWndMain, "Não foi possivel se conectar a DBServer", "Erro ao iniciar", NULL);
+		Log("erro, Nï¿½o foi possivel se conectar a DBServer", "-system", 0);
+		MessageBox(hWndMain, "Nï¿½o foi possivel se conectar a DBServer", "Erro ao iniciar", NULL);
 
 		return FALSE;
 	}
@@ -4832,7 +4832,7 @@ BOOL WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLin
 
 		if (ret == NULL)
 		{
-			Log("erro, Não foi possivel se conectar na BIServer", "-system", 0);
+			Log("erro, Nï¿½o foi possivel se conectar na BIServer", "-system", 0);
 			BILLING = 0;
 		}
 		else
@@ -5254,10 +5254,10 @@ LONG APIENTRY MainWndProc(HWND hWnd, UINT message, UINT wParam, LONG lParam)
 			int ret = pUser[User].AcceptUser(ListenSocket.Sock);
 
 #pragma region Bloqueio de excesso de tentativas por IP
-			int DEFAULT_BLOCKIP = 5; // consideramos 3 segundos aqui, agora é pra ser 2 minutos
+			int DEFAULT_BLOCKIP = 5; // consideramos 3 segundos aqui, agora ï¿½ pra ser 2 minutos
 			TMP_BLOCKIP bIp = TMP_BLOCKIP(pUser[User].IP, DEFAULT_BLOCKIP);
 
-			// verificamos se o usuário já está na lista, se ele estiver, a conexão será anulada e nada será processado pela dbsrv ou tmsrv.
+			// verificamos se o usuï¿½rio jï¿½ estï¿½ na lista, se ele estiver, a conexï¿½o serï¿½ anulada e nada serï¿½ processado pela dbsrv ou tmsrv.
 			for (auto& i : g_pBlockIP)
 			{
 				if (i.IPAddress == bIp.IPAddress)
@@ -5268,7 +5268,7 @@ LONG APIENTRY MainWndProc(HWND hWnd, UINT message, UINT wParam, LONG lParam)
 			}
 
 
-			// adiciona o IP do usuário na lista para evitar com que requisite mais de uma conexão em um curto periodo de tempo
+			// adiciona o IP do usuï¿½rio na lista para evitar com que requisite mais de uma conexï¿½o em um curto periodo de tempo
 			g_pBlockIP.push_back(bIp);
 #pragma endregion
 
@@ -5383,7 +5383,7 @@ LONG APIENTRY MainWndProc(HWND hWnd, UINT message, UINT wParam, LONG lParam)
 	} break;
 	case WM_CLOSE:
 	{
-		if (MessageBox(hWndMain, "Você realmente deseja desligar o server?", "Aviso!!!", MB_ICONQUESTION | MB_YESNO) == IDNO)
+		if (MessageBox(hWndMain, "Vocï¿½ realmente deseja desligar o server?", "Aviso!!!", MB_ICONQUESTION | MB_YESNO) == IDNO)
 			break;
 
 		if (BILLING != 0)
@@ -6070,7 +6070,7 @@ int  ProcessAffect(int idx)
 							goto LessAffect;
 						}*/
 #pragma endregion
-#pragma region Trovão
+#pragma region Trovï¿½o
 				if (Type == 22)
 				{
 					int alvo1 = 0;
@@ -7505,7 +7505,7 @@ void SendItemagrupar(const int client, int itemID)
 	int i = 0;
 	int j = 0;
 
-	//Verificar espaço no inventário
+	//Verificar espaï¿½o no inventï¿½rio
 	for (x = 0; x < pMob[client].MaxCarry; x++)
 	{
 		if (pMob[client].MOB.Carry[x].sIndex == 0)
@@ -7544,7 +7544,7 @@ void SendItemagrupar(const int client, int itemID)
 			}
 
 		}
-		SendClientMessage(client, "Seu inventário está cheio");
+		SendClientMessage(client, "Seu inventï¿½rio estï¿½ cheio");
 
 		return;
 	}
@@ -7593,7 +7593,7 @@ void sendeitempremio(const int client, int itemID, int valor)
 	int x = 0;
 	int invfree = 0;
 
-	//Verificar espaço no inventário
+	//Verificar espaï¿½o no inventï¿½rio
 	for (x = 0; x < pMob[client].MaxCarry; x++)
 	{
 		if (pMob[client].MOB.Carry[x].sIndex == 0)
@@ -7602,7 +7602,7 @@ void sendeitempremio(const int client, int itemID, int valor)
 
 	if (invfree < 1)
 	{
-		SendClientMessage(client, "Seu inventário está cheio");
+		SendClientMessage(client, "Seu inventï¿½rio estï¿½ cheio");
 		pUser[client].TimeLojinha = 0;
 		return;
 	}
@@ -8283,7 +8283,7 @@ void DecideWinner0()
 
 	g_pGuildZone[i].ChallangeGuild = 0;
 
-	// Verificação para setar Noatum
+	// Verificaï¿½ï¿½o para setar Noatum
 	if (g_pGuildZone[1].ChargeGuild == g_pGuildZone[0].ChargeGuild && g_pGuildZone[2].ChargeGuild == g_pGuildZone[0].ChargeGuild && g_pGuildZone[3].ChargeGuild == g_pGuildZone[0].ChargeGuild)
 		g_pGuildZone[4].ChargeGuild = g_pGuildZone[0].ChargeGuild;
 }
@@ -8659,16 +8659,16 @@ void GuildProcess()
 				g_pGuildZone[i].Victory++;
 		}
 	}
-	//Diz para começarem a esperar nas cidades (20h)
+	//Diz para comeï¿½arem a esperar nas cidades (20h)
 	if (WeekMode == 0 && timeinfo->tm_wday == 0 && timeinfo->tm_hour == GuildHour)
 	{
 		SendNotice(g_pMessageStringTable[_NN_Guild_Battle_Notice1]);
 		WeekMode = 1;
 	}
-	//A guerra de Erion irá começar em 3 minutos e Teleporta os Players (20:02)
+	//A guerra de Erion irï¿½ comeï¿½ar em 3 minutos e Teleporta os Players (20:02)
 	if (WeekMode == 1 && timeinfo->tm_wday == 0 && timeinfo->tm_hour == GuildHour && timeinfo->tm_min == 2)
 	{
-		SendNotice("A Guerra de Erion irá começar em 3 minutos");
+		SendNotice("A Guerra de Erion irï¿½ comeï¿½ar em 3 minutos");
 		ClearGuildPKZone();
 		WeekMode = 2;
 		SetArenaDoor(STATE_LOCKED);
@@ -8706,10 +8706,10 @@ void GuildProcess()
 
 		GuildZoneReport();
 	}
-	//A guerra de Nipplehein irá começar em 3 minutos e Teleporta os Players (20:17)
+	//A guerra de Nipplehein irï¿½ comeï¿½ar em 3 minutos e Teleporta os Players (20:17)
 	if (WeekMode == 1 && timeinfo->tm_wday == 0 && timeinfo->tm_hour == GuildHour && timeinfo->tm_min == 17)
 	{
-		SendNotice("A Guerra de Nipplehein irá começar em 3 minutos");
+		SendNotice("A Guerra de Nipplehein irï¿½ comeï¿½ar em 3 minutos");
 		ClearGuildPKZone();
 		WeekMode = 2;
 		SetArenaDoor(STATE_LOCKED);
@@ -8747,10 +8747,10 @@ void GuildProcess()
 
 		GuildZoneReport();
 	}
-	//A guerra de Azran irá começar em 3 minutos e Teleporta os Players (20:32)
+	//A guerra de Azran irï¿½ comeï¿½ar em 3 minutos e Teleporta os Players (20:32)
 	if (WeekMode == 1 && timeinfo->tm_wday == 0 && timeinfo->tm_hour == GuildHour && timeinfo->tm_min == 32)
 	{
-		SendNotice("A Guerra de Azran irá começar em 3 minutos");
+		SendNotice("A Guerra de Azran irï¿½ comeï¿½ar em 3 minutos");
 		ClearGuildPKZone();
 		WeekMode = 2;
 		SetArenaDoor(STATE_LOCKED);
@@ -8788,10 +8788,10 @@ void GuildProcess()
 
 		GuildZoneReport();
 	}
-	//A guerra de Armia irá começar em 3 minutos e Teleporta os Players (20:47)
+	//A guerra de Armia irï¿½ comeï¿½ar em 3 minutos e Teleporta os Players (20:47)
 	if (WeekMode == 1 && timeinfo->tm_wday == 0 && timeinfo->tm_hour == GuildHour && timeinfo->tm_min == 47)
 	{
-		SendNotice("A Guerra de Armia irá começar em 3 minutos");
+		SendNotice("A Guerra de Armia irï¿½ comeï¿½ar em 3 minutos");
 		ClearGuildPKZone();
 		WeekMode = 2;
 		SetArenaDoor(STATE_LOCKED);
@@ -8971,7 +8971,7 @@ void GuildProcess()
 					}
 					else if (RvRBluePoint == RvRRedPoint)
 					{
-						SendNotice("Guerra de Reinos terminou em empate [Sem Bônus RVR]. ");
+						SendNotice("Guerra de Reinos terminou em empate [Sem Bï¿½nus RVR]. ");
 						RvRBonus = 0;
 					}
 				}
@@ -9427,7 +9427,7 @@ void CloseUser(int conn)
 				{
 					if (pUser[conn].CharShortSkill[i] >= 0 || pUser[conn].CharShortSkill[i] <= 152)
 					{
-						// Proteção Absoluta
+						// Proteï¿½ï¿½o Absoluta
 						if (pUser[conn].CharShortSkill[i] == 106) {
 							sm.ShortSkill[i] = 118;
 						}
@@ -9716,7 +9716,7 @@ void SaveUser(int conn, int Export)
 		{
 			if (pUser[conn].CharShortSkill[i] == 106 || pUser[conn].CharShortSkill[i] == 109 || pUser[conn].CharShortSkill[i] == 114)
 			{
-				// Proteção Absoluta
+				// Proteï¿½ï¿½o Absoluta
 				if (pUser[conn].CharShortSkill[i] == 106) {
 					sm.ShortSkill[i] = 118;
 				}
@@ -12013,7 +12013,7 @@ void ReadLevelItemConfig(void)
 		Item.stEffect[2].cEffect = ival6;
 		Item.stEffect[2].cValue = ival7;
 
-		if (cls == 4 && type != 4)//Item para todas as classes mais não para todas build
+		if (cls == 4 && type != 4)//Item para todas as classes mais nï¿½o para todas build
 		{
 			LevelItem[0][type][level] = Item;
 			LevelItem[1][type][level] = Item;
@@ -12119,7 +12119,7 @@ void DoItemLevel(int conn)
 
 	if (pMob[conn].extra.ClassMaster == SCELESTIAL && pMob[conn].MOB.Equip[1].sIndex >= 3500 && pMob[conn].MOB.Equip[1].sIndex <= 3507)
 	{
-		if (pMob[conn].MOB.BaseScore.Level == 119 && pMob[conn].extra.QuestInfo.Celestial.Add120 == 0) // Nível 120
+		if (pMob[conn].MOB.BaseScore.Level == 119 && pMob[conn].extra.QuestInfo.Celestial.Add120 == 0) // Nï¿½vel 120
 		{
 			if (type1)
 			{
@@ -12158,7 +12158,7 @@ void DoItemLevel(int conn)
 				SendItem(conn, ITEM_PLACE_EQUIP, 1, &pMob[conn].MOB.Equip[1]);
 			}
 		}
-		if (pMob[conn].MOB.BaseScore.Level == 149 && pMob[conn].extra.QuestInfo.Celestial.Add150 == 0) // Nível 150
+		if (pMob[conn].MOB.BaseScore.Level == 149 && pMob[conn].extra.QuestInfo.Celestial.Add150 == 0) // Nï¿½vel 150
 		{
 			if (type1)
 			{
@@ -12197,7 +12197,7 @@ void DoItemLevel(int conn)
 				SendItem(conn, ITEM_PLACE_EQUIP, 1, &pMob[conn].MOB.Equip[1]);
 			}
 		}
-		if (pMob[conn].MOB.BaseScore.Level == 179 && pMob[conn].extra.QuestInfo.Celestial.Add180 == 0) // Nível 180
+		if (pMob[conn].MOB.BaseScore.Level == 179 && pMob[conn].extra.QuestInfo.Celestial.Add180 == 0) // Nï¿½vel 180
 		{
 			if (type1)
 			{
@@ -12236,7 +12236,7 @@ void DoItemLevel(int conn)
 				SendItem(conn, ITEM_PLACE_EQUIP, 1, &pMob[conn].MOB.Equip[1]);
 			}
 		}
-		if (pMob[conn].MOB.BaseScore.Level == 199 && pMob[conn].extra.QuestInfo.Celestial.Add200 == 0) // Nível 200
+		if (pMob[conn].MOB.BaseScore.Level == 199 && pMob[conn].extra.QuestInfo.Celestial.Add200 == 0) // Nï¿½vel 200
 		{
 			if (type1)
 			{
@@ -12320,9 +12320,9 @@ void SetCircletSubGod(int conn)
 
 bool PutAddOnItem(STRUCT_ITEM *Item, UINT8 ef1, UINT8 ef2, UINT8 efv1, UINT8 efv2)
 {
-	if (Item->sIndex < 0 || Item->sIndex > 6500) // Id inválido
+	if (Item->sIndex < 0 || Item->sIndex > 6500) // Id invï¿½lido
 		return false;
-	else if (ef1 && !efv1) // Diz que vai por add mas não tem o valor
+	else if (ef1 && !efv1) // Diz que vai por add mas nï¿½o tem o valor
 		return false;
 	else if (ef2 && !efv2) // '''''''''''''''''''''''''''''''''''''''
 		return false;
@@ -12336,7 +12336,7 @@ bool PutAddOnItem(STRUCT_ITEM *Item, UINT8 ef1, UINT8 ef2, UINT8 efv1, UINT8 efv
 
 	Sanc = GetItemSanc(Item);
 
-	// Zera os adds prévios do item
+	// Zera os adds prï¿½vios do item
 	memset(Item->stEffect, 0x0, 6);
 
 	INT8 value = 0;
@@ -12345,7 +12345,7 @@ bool PutAddOnItem(STRUCT_ITEM *Item, UINT8 ef1, UINT8 ef2, UINT8 efv1, UINT8 efv
 	{
 		value++;
 
-		// Põe a sanc anterior do item nele novamente
+		// Pï¿½e a sanc anterior do item nele novamente
 		SetItemSanc(Item, Sanc);
 	}
 	// Seta os novos adicionais
@@ -13658,7 +13658,7 @@ void ReadDirectory()
 {
 	if ((fReadDir = fopen("Account_Directory.txt", "r")) == NULL)
 	{
-		MessageBox(hWndMain, "Não foi possivel abrir Account_Directory.txt!", "Erro ao iniciar", NULL);
+		MessageBox(hWndMain, "Nï¿½o foi possivel abrir Account_Directory.txt!", "Erro ao iniciar", NULL);
 		return;
 	}
 	else

@@ -82,11 +82,11 @@ extern int BigCubo;
 //Recaptcha
 extern int random_words;
 
-extern char Keywords[30][6];
+extern char Keywords[30][7];
 
-extern char Keywords1[30][6];
+extern char Keywords1[30][7];
 
-extern char Keywords2[30][6];
+extern char Keywords2[30][7];
 
 // Donate Store
 

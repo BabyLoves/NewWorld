@@ -101,42 +101,42 @@ void CClientInfo::ReceiveInfo(char* Packet)
 	case _MSG_Recaptcha: {
 		auto p = reinterpret_cast<MSG_Recaptcha*>(Packet);
 
-		char Word[6];
-		strncpy(Word, "", 6);
+		char Word[7];
+		strncpy(Word, "", 7);
 		
 		if (p->state == 0) {
-			char Keywords[30][6] = {
-			"AVIÃO", "TREM", "AVIÃO", "CARRO", "MOTO",
-			"MOTO", "AVIÃO", "CARRO", "BIKE", "BIKE",
-			"AVIÃO", "BIKE", "NAVIO", "BIKE", "NAVIO",
-			"MOTO", "AVIÃO", "NAVIO", "CARRO", "MOTO",
+			char Keywords[30][7] = {
+			"AVIÃƒO", "TREM", "AVIÃƒO", "CARRO", "MOTO",
+			"MOTO", "AVIÃƒO", "CARRO", "BIKE", "BIKE",
+			"AVIÃƒO", "BIKE", "NAVIO", "BIKE", "NAVIO",
+			"MOTO", "AVIÃƒO", "NAVIO", "CARRO", "MOTO",
 			"NAVIO", "NAVIO", "TREM", "BIKE", "BIKE",
-			"CARRO", "BIKE", "NAVIO", "AVIÃO", "TREM"
+			"CARRO", "BIKE", "NAVIO", "AVIÃƒO", "TREM"
 			};
 
-			strncpy(Word, Keywords[p->word], 6);
+			strncpy(Word, Keywords[p->word], 7);
 		}
 		if (p->state == 1) {
-			char Keywords1[30][6] = {
+			char Keywords1[30][7] = {
 			"MOTO", "NAVIO", "BIKE", "TREM", "CARRO",
-			"TREM", "MOTO", "MOTO", "AVIÃO", "AVIÃO",
-			"CARRO", "BIKE", "AVIÃO", "AVIÃO", "CARRO",
-			"AVIÃO", "NAVIO", "TREM", "CARRO", "NAVIO",
-			"AVIÃO", "BIKE", "NAVIO", "CARRO", "TREM",
+			"TREM", "MOTO", "MOTO", "AVIÃƒO", "AVIÃƒO",
+			"CARRO", "BIKE", "AVIÃƒO", "AVIÃƒO", "CARRO",
+			"AVIÃƒO", "NAVIO", "TREM", "CARRO", "NAVIO",
+			"AVIÃƒO", "BIKE", "NAVIO", "CARRO", "TREM",
 			"BIKE", "TREM", "NAVIO", "BIKE", "MOTO"
 			};
-			strncpy(Word, Keywords1[p->word], 6);
+			strncpy(Word, Keywords1[p->word], 7);
 		}
 		if (p->state == 2) {
-			char Keywords2[30][6] = {
+			char Keywords2[30][7] = {
 			"BIKE", "TREM", "BIKE", "BIKE", "TREM",
 			"CARRO", "MOTO", "CARRO", "NAVIO", "MOTO",
-			"NAVIO", "BIKE", "BIKE", "AVIÃO", "TREM",
-			"MOTO", "CARRO", "AVIÃO", "TREM", "BIKE",
-			"CARRO", "TREM", "BIKE", "CARRO", "AVIÃO",
-			"MOTO", "MOTO", "AVIÃO", "AVIÃO", "NAVIO",
+			"NAVIO", "BIKE", "BIKE", "AVIÃƒO", "TREM",
+			"MOTO", "CARRO", "AVIÃƒO", "TREM", "BIKE",
+			"CARRO", "TREM", "BIKE", "CARRO", "AVIÃƒO",
+			"MOTO", "MOTO", "AVIÃƒO", "AVIÃƒO", "NAVIO",
 			};
-			strncpy(Word, Keywords2[p->word], 6);
+			strncpy(Word, Keywords2[p->word], 7);
 		}
 		auto PainelCaptcha = g_pInterface->Instance()->getGuiFromHandle<UIControl>(1319001);
 		PainelCaptcha->IsVisible = true;	
@@ -145,7 +145,7 @@ void CClientInfo::ReceiveInfo(char* Packet)
 		Desc->setConstString("Clique na imagem que represente um(a): [%s]", Word);
 
 		auto Desc2 = g_pInterface->Instance()->getGuiFromHandle<UITextControl>(1319003);
-		Desc2->setConstString("[ATENÇÃO] A próxima tentativa será somente em 5 minutos");
+		Desc2->setConstString("[ATENÃ‡ÃƒO] A prÃ³xima tentativa serÃ¡ somente em 5 minutos");
 
 		auto PainelInv = g_pInterface->Instance()->getGuiFromHandle<UIControl>(589832);
 		PainelInv->IsVisible = false;
@@ -177,7 +177,7 @@ void CClientInfo::ReceiveInfo(char* Packet)
 			auto Level = g_pInterface->Instance()->getGuiFromHandle<UITextControl>(1919403);
 			Level->setConstString("Level");
 			auto Evo = g_pInterface->Instance()->getGuiFromHandle<UITextControl>(1919404);
-			Evo->setConstString("Evolução");
+			Evo->setConstString("EvoluÃ§Ã£o");
 			auto Class = g_pInterface->Instance()->getGuiFromHandle<UITextControl>(1919404);
 			Class->setConstString("Classe");
 
@@ -215,7 +215,7 @@ void CClientInfo::ReceiveInfo(char* Packet)
 			auto PvP = g_pInterface->Instance()->getGuiFromHandle<UITextControl>(1919403);
 			PvP->setConstString("PvP");
 			auto Evo = g_pInterface->Instance()->getGuiFromHandle<UITextControl>(1919404);
-			Evo->setConstString("Evolução");
+			Evo->setConstString("EvoluÃ§Ã£o");
 			auto Class = g_pInterface->Instance()->getGuiFromHandle<UITextControl>(1919404);
 			Class->setConstString("Classe");
 

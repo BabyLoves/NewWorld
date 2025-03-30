@@ -16,7 +16,7 @@
 
 
 -- Copiando estrutura do banco de dados para wydsite
-CREATE DATABASE IF NOT EXISTS `wydsite` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
+CREATE DATABASE IF NOT EXISTS `wydsite` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
 USE `wydsite`;
 
 -- Copiando estrutura para tabela wydsite.accounts
@@ -69,7 +69,7 @@ CREATE TABLE IF NOT EXISTS `balanceamento` (
   `ClassVsClass(Cele1)` int NOT NULL DEFAULT '0',
   `pClassVsClass(Cele2)` int NOT NULL DEFAULT '0',
   PRIMARY KEY (`index`) USING BTREE
-) ENGINE=InnoDB AUTO_INCREMENT=50 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=50 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 -- Copiando dados para a tabela wydsite.balanceamento: ~49 rows (aproximadamente)
 INSERT INTO `balanceamento` (`index`, `define`, `ClassVsClass(Mortal)`, `pClassVsClass(Mortal)`, `ClassVsClass(Arch)`, `pClassVsClass(Arch)`, `ClassVsClass(Cele1)`, `pClassVsClass(Cele2)`) VALUES
@@ -198,7 +198,7 @@ CREATE TABLE IF NOT EXISTS `donatestore1` (
   `estoque` int DEFAULT '0',
   `store` int DEFAULT '0',
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=57 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=57 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 -- Copiando dados para a tabela wydsite.donatestore1: ~35 rows (aproximadamente)
 INSERT INTO `donatestore1` (`id`, `nome`, `index`, `value`, `estoque`, `store`) VALUES
@@ -242,13 +242,13 @@ INSERT INTO `donatestore1` (`id`, `nome`, `index`, `value`, `estoque`, `store`) 
 -- Copiando estrutura para tabela wydsite.donatestore2
 CREATE TABLE IF NOT EXISTS `donatestore2` (
   `id` int unsigned NOT NULL AUTO_INCREMENT,
-  `nome` varchar(50) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci DEFAULT '0',
+  `nome` varchar(50) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci DEFAULT '0',
   `index` int DEFAULT '0',
   `value` int DEFAULT '0',
   `estoque` int DEFAULT '255',
   `store` int DEFAULT '1',
   PRIMARY KEY (`id`) USING BTREE
-) ENGINE=InnoDB AUTO_INCREMENT=59 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci ROW_FORMAT=DYNAMIC;
+) ENGINE=InnoDB AUTO_INCREMENT=59 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci ROW_FORMAT=DYNAMIC;
 
 -- Copiando dados para a tabela wydsite.donatestore2: ~40 rows (aproximadamente)
 INSERT INTO `donatestore2` (`id`, `nome`, `index`, `value`, `estoque`, `store`) VALUES
@@ -296,13 +296,13 @@ INSERT INTO `donatestore2` (`id`, `nome`, `index`, `value`, `estoque`, `store`) 
 -- Copiando estrutura para tabela wydsite.donatestore3
 CREATE TABLE IF NOT EXISTS `donatestore3` (
   `id` int unsigned NOT NULL AUTO_INCREMENT,
-  `nome` varchar(50) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci DEFAULT '0',
+  `nome` varchar(50) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci DEFAULT '0',
   `index` int DEFAULT '0',
   `value` int DEFAULT '0',
   `estoque` int DEFAULT '0',
   `store` int DEFAULT '0',
   PRIMARY KEY (`id`) USING BTREE
-) ENGINE=InnoDB AUTO_INCREMENT=3232 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci ROW_FORMAT=DYNAMIC;
+) ENGINE=InnoDB AUTO_INCREMENT=3232 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci ROW_FORMAT=DYNAMIC;
 
 -- Copiando dados para a tabela wydsite.donatestore3: ~40 rows (aproximadamente)
 INSERT INTO `donatestore3` (`id`, `nome`, `index`, `value`, `estoque`, `store`) VALUES
@@ -418,7 +418,7 @@ CREATE TABLE IF NOT EXISTS `droplist` (
   `slot63` int NOT NULL DEFAULT '0',
   PRIMARY KEY (`index`),
   UNIQUE KEY `nome` (`nome`)
-) ENGINE=InnoDB AUTO_INCREMENT=171 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=171 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 -- Copiando dados para a tabela wydsite.droplist: ~0 rows (aproximadamente)
 INSERT INTO `droplist` (`index`, `nome`, `region`, `slot0`, `slot1`, `slot2`, `slot3`, `slot4`, `slot5`, `slot6`, `slot7`, `slot8`, `slot9`, `slot10`, `slot11`, `slot12`, `slot13`, `slot14`, `slot15`, `slot16`, `slot17`, `slot18`, `slot19`, `slot20`, `slot21`, `slot22`, `slot23`, `slot24`, `slot25`, `slot26`, `slot27`, `slot28`, `slot29`, `slot30`, `slot31`, `slot32`, `slot33`, `slot34`, `slot35`, `slot36`, `slot37`, `slot38`, `slot39`, `slot40`, `slot41`, `slot42`, `slot43`, `slot44`, `slot45`, `slot46`, `slot47`, `slot48`, `slot49`, `slot50`, `slot51`, `slot52`, `slot53`, `slot54`, `slot55`, `slot56`, `slot57`, `slot58`, `slot59`, `slot60`, `slot61`, `slot62`, `slot63`) VALUES
@@ -602,7 +602,7 @@ CREATE TABLE IF NOT EXISTS `evento` (
   `item_qnt` int NOT NULL DEFAULT '0',
   `item_rate` int NOT NULL DEFAULT '0',
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=26 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=26 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 -- Copiando dados para a tabela wydsite.evento: ~25 rows (aproximadamente)
 INSERT INTO `evento` (`id`, `npc`, `npcid`, `item_name`, `item_index`, `item_qnt`, `item_rate`) VALUES
@@ -639,7 +639,7 @@ CREATE TABLE IF NOT EXISTS `eventoconfig` (
   `npc_index` int DEFAULT '0',
   `bau_index` int DEFAULT '0',
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=7 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=7 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 -- Copiando dados para a tabela wydsite.eventoconfig: ~5 rows (aproximadamente)
 INSERT INTO `eventoconfig` (`id`, `npc_name`, `npc_index`, `bau_index`) VALUES
@@ -665,7 +665,7 @@ CREATE TABLE IF NOT EXISTS `expbase` (
   `395-398` int NOT NULL DEFAULT '0',
   `398-400` int NOT NULL DEFAULT '0',
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 -- Copiando dados para a tabela wydsite.expbase: ~1 rows (aproximadamente)
 INSERT INTO `expbase` (`id`, `255-280`, `280-300`, `300-320`, `320-340`, `340-350`, `350-360`, `360-370`, `370-380`, `380-390`, `390-395`, `395-398`, `398-400`) VALUES
@@ -715,7 +715,7 @@ CREATE TABLE IF NOT EXISTS `serverconfig` (
   `pesastatus` int DEFAULT '0',
   `pergastatus` int DEFAULT '0',
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 -- Copiando dados para a tabela wydsite.serverconfig: ~0 rows (aproximadamente)
 INSERT INTO `serverconfig` (`id`, `evento`, `doubleexp`, `autodouble`, `globalexp`, `gtorrehour`, `gtorrestatus`, `rvrhour`, `rvrstatus`, `rvrbonus`, `arenastatus`, `arenahour`, `pistastatus`, `evolutionstatus`, `pesastatus`, `pergastatus`) VALUES
